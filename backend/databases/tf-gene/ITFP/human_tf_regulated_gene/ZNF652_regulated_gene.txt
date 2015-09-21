@@ -1,0 +1,6 @@
+ZNF652	C9orf30	0.0493047	normal gene
+ZNF652	GLRX3	0.0471973	normal gene
+ZNF652	KIAA0240	0.0451831	normal gene
+ZNF652	RNGTT	0.0436152	transcription factor
+ZNF652	TTLL13	0.044757	normal gene
+ZNF652	UBE2A	0.0450285	normal gene

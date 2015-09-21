@@ -1,0 +1,3 @@
+YTHDC1	ANKRD11	0.0430223	transcription factor
+YTHDC1	GSTO1	0.0448493	transcription factor
+YTHDC1	RBM25	0.0467475	transcription factor

@@ -1,0 +1,11 @@
+KRT19	AGR2	0.048847	normal gene
+KRT19	C1orf172	0.0431627	normal gene
+KRT19	CD24	0.0433316	normal gene
+KRT19	CDH1	0.0461147	normal gene
+KRT19	CLDN4	0.048104	normal gene
+KRT19	CLDN7	0.0484373	normal gene
+KRT19	F11R	0.042799	normal gene
+KRT19	PRSS8	0.0483284	normal gene
+KRT19	RBM35A	0.0439105	transcription factor
+KRT19	TACSTD1	0.047679	transcription factor
+KRT19	TACSTD2	0.0446008	transcription factor

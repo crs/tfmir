@@ -1,0 +1,2 @@
+ELK1	BAP1	0.042936	normal gene
+ELK1	GTF2F1	0.0472159	transcription factor

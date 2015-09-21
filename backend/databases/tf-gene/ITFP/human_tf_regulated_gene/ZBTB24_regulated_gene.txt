@@ -1,0 +1,5 @@
+ZBTB24	ALG10	0.0432567	normal gene
+ZBTB24	GNG13	0.0436333	normal gene
+ZBTB24	GNL2	0.0492042	normal gene
+ZBTB24	SEH1L	0.0452324	transcription factor
+ZBTB24	UTP15	0.0428398	transcription factor

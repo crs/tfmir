@@ -1,0 +1,7 @@
+RNF167	ANKRD44	0.0438493	transcription factor
+RNF167	C8orf55	0.0448123	normal gene
+RNF167	EARS2	0.0442667	normal gene
+RNF167	NIT1	0.0460481	normal gene
+RNF167	RHOT2	0.0439654	normal gene
+RNF167	RNF40	0.043554	transcription factor
+RNF167	SPR	0.0431649	normal gene

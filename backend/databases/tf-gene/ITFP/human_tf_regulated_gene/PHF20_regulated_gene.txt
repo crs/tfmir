@@ -1,0 +1,2 @@
+PHF20	ASH1L	0.0433551	transcription factor
+PHF20	C3orf19	0.0450155	normal gene

@@ -1,0 +1,5 @@
+TOMM70A	ABCF2	0.0462218	normal gene
+TOMM70A	BOP1	0.0446235	transcription factor
+TOMM70A	GSPT1	0.0464852	normal gene
+TOMM70A	MRPL30	0.0430349	normal gene
+TOMM70A	NAT13	0.0429481	transcription factor

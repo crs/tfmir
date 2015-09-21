@@ -1,0 +1,10 @@
+NCF2	AQP9	0.0428838	normal gene
+NCF2	CASP1	0.0476443	normal gene
+NCF2	CSTA	0.0472589	normal gene
+NCF2	CTSS	0.0461567	normal gene
+NCF2	HCK	0.0456127	normal gene
+NCF2	ITGAM	0.0462104	normal gene
+NCF2	ITGB2	0.0524186	normal gene
+NCF2	MS4A7	0.0453829	normal gene
+NCF2	RASSF5	0.0451337	normal gene
+NCF2	S100A9	0.056624	normal gene

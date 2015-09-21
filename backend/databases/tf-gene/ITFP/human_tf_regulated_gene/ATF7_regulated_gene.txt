@@ -1,0 +1,1 @@
+ATF7	ARHGAP6	0.0427908	normal gene

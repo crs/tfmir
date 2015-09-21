@@ -1,0 +1,4 @@
+ZBTB46	DDX51	0.0432357	transcription factor
+ZBTB46	NARG1	0.0439206	transcription factor
+ZBTB46	SPATA21	0.044719	normal gene
+ZBTB46	STX5	0.0429118	normal gene

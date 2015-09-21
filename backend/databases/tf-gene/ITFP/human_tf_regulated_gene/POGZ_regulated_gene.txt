@@ -1,0 +1,15 @@
+POGZ	C2orf14	0.0470055	normal gene
+POGZ	CRLF3	0.0430054	normal gene
+POGZ	DCP1B	0.0438809	normal gene
+POGZ	DDX17	0.0491077	transcription factor
+POGZ	GCAT	0.0432181	normal gene
+POGZ	JMJD1C	0.043275	normal gene
+POGZ	RAB11FIP3	0.0449189	normal gene
+POGZ	RAB7A	0.0434735	normal gene
+POGZ	RBM5	0.0453011	transcription factor
+POGZ	SLC35E2	0.0430436	transcription factor
+POGZ	SUV420H1	0.0436371	normal gene
+POGZ	TFCP2	0.0446941	transcription factor
+POGZ	ZBTB20	0.042916	transcription factor
+POGZ	ZC3H6	0.0489508	transcription factor
+POGZ	ZFYVE16	0.0440565	transcription factor

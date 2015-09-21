@@ -1,0 +1,6 @@
+TBRG1	ACIN1	0.0482769	transcription factor
+TBRG1	ADAM17	0.0459317	normal gene
+TBRG1	PPP3CA	0.0469468	normal gene
+TBRG1	SMU1	0.0432124	transcription factor
+TBRG1	ZNF550	0.0431615	transcription factor
+TBRG1	ZNF69	0.0428874	transcription factor

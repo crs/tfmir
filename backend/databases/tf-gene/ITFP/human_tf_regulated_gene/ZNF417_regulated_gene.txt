@@ -1,0 +1,3 @@
+ZNF417	ASB10	0.0501711	transcription factor
+ZNF417	PBRM1	0.0440569	transcription factor
+ZNF417	ZNF277	0.0440972	normal gene

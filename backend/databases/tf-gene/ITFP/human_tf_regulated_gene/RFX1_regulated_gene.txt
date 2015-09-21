@@ -1,0 +1,16 @@
+RFX1	C2orf61	0.0438936	normal gene
+RFX1	CDC34	0.0490485	normal gene
+RFX1	DNASE1	0.0485747	transcription factor
+RFX1	ESRRB	0.0440234	transcription factor
+RFX1	GJC2	0.0527104	normal gene
+RFX1	GLI4	0.0490578	transcription factor
+RFX1	KCNQ2	0.0485079	normal gene
+RFX1	MYCN	0.0483697	transcription factor
+RFX1	NCDN	0.0452736	normal gene
+RFX1	NDOR1	0.0455791	normal gene
+RFX1	NPAS4	0.0484364	transcription factor
+RFX1	RDH14	0.0564223	normal gene
+RFX1	SLC7A4	0.0472825	normal gene
+RFX1	TOMM40	0.0457732	normal gene
+RFX1	TRIM65	0.0514084	transcription factor
+RFX1	ZAN	0.0477706	normal gene

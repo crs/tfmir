@@ -1,0 +1,2 @@
+C1orf34	DMN	0.0451387	normal gene
+C1orf34	GRK5	0.046185	normal gene

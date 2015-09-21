@@ -1,0 +1,1 @@
+RPS24	C18orf25	0.0456855	normal gene

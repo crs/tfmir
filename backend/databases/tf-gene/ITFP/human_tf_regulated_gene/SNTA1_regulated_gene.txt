@@ -1,0 +1,7 @@
+SNTA1	CCBL1	0.0481021	normal gene
+SNTA1	FASTK	0.0481072	normal gene
+SNTA1	GAMT	0.04519	normal gene
+SNTA1	HINT2	0.046871	normal gene
+SNTA1	PHPT1	0.0450523	normal gene
+SNTA1	POLDIP2	0.0448639	normal gene
+SNTA1	RNF123	0.0432432	normal gene

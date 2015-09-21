@@ -1,0 +1,6 @@
+SLC35E2	CIRBP	0.0453267	transcription factor
+SLC35E2	DPH3	0.0443866	normal gene
+SLC35E2	NPIP	0.0442336	normal gene
+SLC35E2	POGZ	0.0430436	transcription factor
+SLC35E2	WHDC1L1	0.0429286	normal gene
+SLC35E2	ZNF84	0.0460545	transcription factor

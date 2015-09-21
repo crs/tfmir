@@ -1,0 +1,14 @@
+ZNF264	ALPI	0.0428041	normal gene
+ZNF264	CCDC48	0.0463581	normal gene
+ZNF264	CHRNA4	0.0461038	normal gene
+ZNF264	DLEC1	0.0466857	normal gene
+ZNF264	DMPK	0.0443502	normal gene
+ZNF264	IRGM	0.0474604	normal gene
+ZNF264	ITGA8	0.0460435	normal gene
+ZNF264	KARS	0.0435742	transcription factor
+ZNF264	MBD6	0.0440793	transcription factor
+ZNF264	NARG1	0.0455786	transcription factor
+ZNF264	NUDT7	0.0436389	normal gene
+ZNF264	SCUBE1	0.0469968	normal gene
+ZNF264	UBASH3B	0.0450818	normal gene
+ZNF264	ZBTB4	0.0449803	transcription factor

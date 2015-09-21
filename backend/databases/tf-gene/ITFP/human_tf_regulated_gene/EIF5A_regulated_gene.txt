@@ -1,0 +1,8 @@
+EIF5A	AP2S1	0.0435524	normal gene
+EIF5A	ERLIN1	0.0468609	normal gene
+EIF5A	GLT25D1	0.0445475	normal gene
+EIF5A	HSP90AB1	0.0446702	normal gene
+EIF5A	POLR2E	0.0484323	transcription factor
+EIF5A	TOMM22	0.0439757	normal gene
+EIF5A	UBE2L3	0.047463	normal gene
+EIF5A	YKT6	0.044652	normal gene

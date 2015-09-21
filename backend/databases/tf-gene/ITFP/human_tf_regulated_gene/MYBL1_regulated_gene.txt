@@ -1,0 +1,1 @@
+MYBL1	ARHGAP30	0.0461912	normal gene

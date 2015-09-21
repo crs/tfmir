@@ -1,0 +1,3 @@
+PHTF1	CCT2	0.042972	normal gene
+PHTF1	KIF2A	0.0474688	normal gene
+PHTF1	RORC	0.0462952	transcription factor

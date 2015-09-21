@@ -1,0 +1,7 @@
+ZNF642	BRCA2	0.0427944	transcription factor
+ZNF642	CEP27	0.0443933	normal gene
+ZNF642	FAM86A	0.0435436	normal gene
+ZNF642	PUS7L	0.0501382	normal gene
+ZNF642	RBM34	0.044065	transcription factor
+ZNF642	STK4	0.0431233	normal gene
+ZNF642	ZNF83	0.0434512	transcription factor

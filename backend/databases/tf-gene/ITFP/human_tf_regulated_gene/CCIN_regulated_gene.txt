@@ -1,0 +1,3 @@
+CCIN	AIFM1	0.045933	normal gene
+CCIN	GTPBP5	0.0432132	normal gene
+CCIN	PHIP	0.0430435	transcription factor

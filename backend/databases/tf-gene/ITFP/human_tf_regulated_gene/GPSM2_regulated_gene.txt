@@ -1,0 +1,6 @@
+GPSM2	ANLN	0.0447041	transcription factor
+GPSM2	CCNB1	0.0439106	transcription factor
+GPSM2	CSE1L	0.0449971	normal gene
+GPSM2	FANCI	0.0451692	normal gene
+GPSM2	KIF14	0.0430402	normal gene
+GPSM2	RRM1	0.044699	normal gene

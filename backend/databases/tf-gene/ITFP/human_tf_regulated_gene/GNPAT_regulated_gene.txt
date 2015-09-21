@@ -1,0 +1,3 @@
+GNPAT	ATP5C1	0.0436341	normal gene
+GNPAT	DET1	0.0430718	normal gene
+GNPAT	NDUFA6	0.0439253	normal gene

@@ -1,0 +1,14 @@
+RBM5	C1orf63	0.045749	normal gene
+RBM5	CCNL2	0.0445757	transcription factor
+RBM5	CGGBP1	0.0439387	normal gene
+RBM5	DCP1B	0.0513629	normal gene
+RBM5	DDX17	0.0457548	transcription factor
+RBM5	KCNH2	0.0468456	normal gene
+RBM5	NCOR1	0.0453182	transcription factor
+RBM5	NF2	0.0447772	normal gene
+RBM5	NIPBL	0.0444439	normal gene
+RBM5	PAPD4	0.0439477	normal gene
+RBM5	POGZ	0.0453011	transcription factor
+RBM5	SAMD4B	0.0440027	transcription factor
+RBM5	SFRS5	0.044277	transcription factor
+RBM5	TIA1	0.0444475	transcription factor

@@ -1,0 +1,3 @@
+#!/bin/bash
+unset DYLD_LIBRARY_PATH
+/System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java "$@"

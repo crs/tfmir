@@ -1,0 +1,4 @@
+CTGLF1	FNBP4	0.0433836	transcription factor
+CTGLF1	NA	0.0455648	normal gene
+CTGLF1	TAF15	0.0433521	transcription factor
+CTGLF1	TMEM29	0.0473541	normal gene

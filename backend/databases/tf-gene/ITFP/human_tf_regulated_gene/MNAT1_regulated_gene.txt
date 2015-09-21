@@ -1,0 +1,5 @@
+MNAT1	C14orf156	0.0479999	normal gene
+MNAT1	MRPS17	0.0457701	transcription factor
+MNAT1	PDCD2L	0.0460693	normal gene
+MNAT1	PFDN2	0.0459116	transcription factor
+MNAT1	PSMB5	0.0439693	normal gene

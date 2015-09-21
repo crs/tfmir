@@ -1,0 +1,9 @@
+ARID4B	DUSP3	0.0434115	normal gene
+ARID4B	FLII	0.0460091	normal gene
+ARID4B	MAPKAP1	0.0472875	normal gene
+ARID4B	POLR2E	0.0434862	transcription factor
+ARID4B	RAD23A	0.0434245	normal gene
+ARID4B	SDHC	0.0433033	normal gene
+ARID4B	SFPQ	0.0453402	transcription factor
+ARID4B	USP34	0.0449566	normal gene
+ARID4B	VDAC1	0.0458703	normal gene

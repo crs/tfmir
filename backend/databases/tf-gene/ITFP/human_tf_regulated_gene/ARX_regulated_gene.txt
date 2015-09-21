@@ -1,0 +1,4 @@
+ARX	HS6ST1	0.0437447	normal gene
+ARX	MYCN	0.0452897	transcription factor
+ARX	RDH14	0.0459244	normal gene
+ARX	TRIM65	0.0441176	transcription factor

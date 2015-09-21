@@ -1,0 +1,5 @@
+DAZAP1	BTBD14B	0.0532657	normal gene
+DAZAP1	C20orf20	0.0432381	normal gene
+DAZAP1	CASP12	0.044138	normal gene
+DAZAP1	PA2G4	0.0442527	transcription factor
+DAZAP1	WHSC2	0.0498237	normal gene

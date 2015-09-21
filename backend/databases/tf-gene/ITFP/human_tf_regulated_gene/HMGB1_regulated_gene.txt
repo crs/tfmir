@@ -1,0 +1,4 @@
+HMGB1	DUT	0.0446168	normal gene
+HMGB1	FUSIP1	0.0446211	transcription factor
+HMGB1	HMG1L1	0.0463994	normal gene
+HMGB1	LUC7L2	0.0471544	normal gene

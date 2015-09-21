@@ -1,0 +1,2 @@
+RBM47	DENND2D	0.043081	normal gene
+RBM47	SPINT2	0.0441367	normal gene

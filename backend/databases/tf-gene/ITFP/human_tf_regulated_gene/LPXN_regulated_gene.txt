@@ -1,0 +1,6 @@
+LPXN	ARHGAP30	0.0436401	normal gene
+LPXN	ATXN3	0.0433017	normal gene
+LPXN	C3orf31	0.0498167	normal gene
+LPXN	RAC2	0.0537089	normal gene
+LPXN	TNKS	0.0435406	transcription factor
+LPXN	ZC3H7B	0.0448771	transcription factor

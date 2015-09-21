@@ -1,0 +1,4 @@
+LMCD1	DMN	0.0458727	normal gene
+LMCD1	MAP4	0.0440068	normal gene
+LMCD1	PDLIM3	0.0443795	transcription factor
+LMCD1	SORBS1	0.0456433	normal gene

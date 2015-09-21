@@ -1,0 +1,9 @@
+LARP1	CBX4	0.0439169	normal gene
+LARP1	EARS2	0.0441212	normal gene
+LARP1	EIF4G1	0.0491249	normal gene
+LARP1	MTA1	0.043369	transcription factor
+LARP1	PKM2	0.0498413	normal gene
+LARP1	POMZP3	0.0467224	normal gene
+LARP1	SENP3	0.0461725	normal gene
+LARP1	SF3A1	0.0438454	normal gene
+LARP1	SOLH	0.0440343	normal gene

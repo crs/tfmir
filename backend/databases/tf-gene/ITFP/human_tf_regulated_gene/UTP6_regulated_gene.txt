@@ -1,0 +1,6 @@
+UTP6	CNOT10	0.045143	normal gene
+UTP6	DNAJC8	0.0446226	normal gene
+UTP6	SFRS3	0.0450546	transcription factor
+UTP6	SFRS7	0.043551	transcription factor
+UTP6	SNRPA1	0.0520498	normal gene
+UTP6	UTP18	0.0442396	transcription factor

@@ -1,0 +1,8 @@
+PRPF19	C19orf48	0.0556204	normal gene
+PRPF19	HNRPM	0.0434428	transcription factor
+PRPF19	LAS1L	0.0513122	normal gene
+PRPF19	RBM10	0.0470549	transcription factor
+PRPF19	SNORA9	0.0430135	normal gene
+PRPF19	SSRP1	0.0550183	transcription factor
+PRPF19	TOE1	0.0454395	transcription factor
+PRPF19	XRCC6	0.0495881	transcription factor

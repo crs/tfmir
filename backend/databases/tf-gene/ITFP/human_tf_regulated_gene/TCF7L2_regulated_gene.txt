@@ -1,0 +1,6 @@
+TCF7L2	BTRC	0.042933	transcription factor
+TCF7L2	MBNL1	0.0430928	transcription factor
+TCF7L2	ME2	0.0439885	normal gene
+TCF7L2	USP33	0.0429908	normal gene
+TCF7L2	VDAC1	0.0429223	normal gene
+TCF7L2	ZNF317	0.0431612	transcription factor

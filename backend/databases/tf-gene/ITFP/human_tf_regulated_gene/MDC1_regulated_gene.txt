@@ -1,0 +1,1 @@
+MDC1	BRCA1	0.0435794	transcription factor

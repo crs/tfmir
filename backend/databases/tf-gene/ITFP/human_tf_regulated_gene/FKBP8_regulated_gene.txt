@@ -1,0 +1,2 @@
+FKBP8	ATN1	0.0457531	normal gene
+FKBP8	FAM100A	0.0455893	normal gene

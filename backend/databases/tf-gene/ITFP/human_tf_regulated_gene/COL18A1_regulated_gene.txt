@@ -1,0 +1,5 @@
+COL18A1	COL5A2	0.0464443	normal gene
+COL18A1	MMP2	0.0431654	normal gene
+COL18A1	SPARC	0.04766	normal gene
+COL18A1	TIMP2	0.0434866	normal gene
+COL18A1	WWTR1	0.0437727	transcription factor

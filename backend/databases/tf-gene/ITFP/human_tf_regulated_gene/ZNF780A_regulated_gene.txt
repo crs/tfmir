@@ -1,0 +1,2 @@
+ZNF780A	SPAST	0.0522164	normal gene
+ZNF780A	ZNF780B	0.0482482	transcription factor

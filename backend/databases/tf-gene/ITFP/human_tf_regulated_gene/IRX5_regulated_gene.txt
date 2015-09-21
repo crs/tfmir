@@ -1,0 +1,2 @@
+IRX5	IRX3	0.0428535	transcription factor
+IRX5	SFTPB	0.0536924	normal gene

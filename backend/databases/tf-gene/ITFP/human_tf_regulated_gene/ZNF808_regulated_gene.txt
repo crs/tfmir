@@ -1,0 +1,4 @@
+ZNF808	GRIPAP1	0.0432019	normal gene
+ZNF808	LRRC38	0.0431375	normal gene
+ZNF808	NR1I2	0.0438089	transcription factor
+ZNF808	PMS2L2	0.0450535	normal gene

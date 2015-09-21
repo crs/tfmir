@@ -1,0 +1,8 @@
+GTF2F2	ALKBH8	0.0428183	normal gene
+GTF2F2	BRD7	0.0455522	transcription factor
+GTF2F2	C2orf56	0.0452977	normal gene
+GTF2F2	C4orf28	0.0473431	normal gene
+GTF2F2	MRPL19	0.0440611	normal gene
+GTF2F2	NARG1	0.047131	transcription factor
+GTF2F2	POLR1B	0.0438455	normal gene
+GTF2F2	UTP15	0.0431662	transcription factor

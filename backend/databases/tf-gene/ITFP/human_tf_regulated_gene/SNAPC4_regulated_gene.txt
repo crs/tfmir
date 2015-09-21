@@ -1,0 +1,5 @@
+SNAPC4	COPS7B	0.0436344	transcription factor
+SNAPC4	DDX31	0.0465586	transcription factor
+SNAPC4	GTF2F1	0.0437418	transcription factor
+SNAPC4	PSME3	0.0465443	normal gene
+SNAPC4	SF3A2	0.0428299	transcription factor

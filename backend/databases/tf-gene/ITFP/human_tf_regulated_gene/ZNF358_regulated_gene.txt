@@ -1,0 +1,10 @@
+ZNF358	DBF4	0.047315	transcription factor
+ZNF358	GCAT	0.0429622	normal gene
+ZNF358	KIF2A	0.0430562	normal gene
+ZNF358	NIPBL	0.0444719	normal gene
+ZNF358	NUP50	0.0427869	transcription factor
+ZNF358	PDCD10	0.0429963	normal gene
+ZNF358	PGM2	0.0439729	normal gene
+ZNF358	R3HDM2	0.043472	transcription factor
+ZNF358	RNF138	0.0463866	transcription factor
+ZNF358	TMEM58	0.0455516	normal gene

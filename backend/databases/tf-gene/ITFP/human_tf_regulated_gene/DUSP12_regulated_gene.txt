@@ -1,0 +1,7 @@
+DUSP12	CCT2	0.0476413	normal gene
+DUSP12	DKC1	0.0458738	normal gene
+DUSP12	H2AFZ	0.0473521	transcription factor
+DUSP12	NPM1	0.0455879	normal gene
+DUSP12	SNRPA1	0.0434418	normal gene
+DUSP12	STX5	0.0453106	normal gene
+DUSP12	TMEM183A	0.0505263	normal gene

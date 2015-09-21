@@ -1,0 +1,2 @@
+DDX21	GTPBP4	0.0496897	normal gene
+DDX21	ZNF596	0.0464268	transcription factor

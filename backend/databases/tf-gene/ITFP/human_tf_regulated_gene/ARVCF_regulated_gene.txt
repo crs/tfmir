@@ -1,0 +1,5 @@
+ARVCF	C17orf56	0.0442117	normal gene
+ARVCF	COMT	0.0447786	normal gene
+ARVCF	DMPK	0.0450994	normal gene
+ARVCF	FGFR2	0.0433482	normal gene
+ARVCF	SH3GLB2	0.0430226	transcription factor

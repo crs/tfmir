@@ -1,0 +1,2 @@
+PHLDA1	SERPINE1	0.0432075	normal gene
+PHLDA1	SPRED1	0.0513756	transcription factor

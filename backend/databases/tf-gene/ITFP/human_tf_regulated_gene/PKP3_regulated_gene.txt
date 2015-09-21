@@ -1,0 +1,10 @@
+PKP3	AP1M2	0.0473333	normal gene
+PKP3	FAM83H	0.0453906	normal gene
+PKP3	PRSS8	0.0451134	normal gene
+PKP3	RAB25	0.0458063	normal gene
+PKP3	RBM35A	0.0440615	transcription factor
+PKP3	RBM35B	0.0570673	transcription factor
+PKP3	S100A14	0.0441692	normal gene
+PKP3	SDC1	0.0516969	normal gene
+PKP3	SFN	0.0539873	normal gene
+PKP3	TNS4	0.0446888	transcription factor

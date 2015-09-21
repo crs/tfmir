@@ -1,0 +1,2 @@
+MARS	KIAA0494	0.0427853	normal gene
+MARS	UBE2S	0.0428406	normal gene

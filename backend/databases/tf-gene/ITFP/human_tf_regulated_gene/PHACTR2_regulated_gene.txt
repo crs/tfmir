@@ -1,0 +1,1 @@
+PHACTR2	LATS2	0.0437649	normal gene

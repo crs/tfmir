@@ -1,0 +1,2 @@
+LIMA1	ATRX	0.043965	normal gene
+LIMA1	KIAA1128	0.0435532	normal gene

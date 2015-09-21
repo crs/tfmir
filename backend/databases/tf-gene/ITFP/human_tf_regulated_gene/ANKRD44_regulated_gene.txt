@@ -1,0 +1,12 @@
+ANKRD44	ARHGAP15	0.0519749	normal gene
+ANKRD44	C16orf54	0.0534425	normal gene
+ANKRD44	CTSS	0.0461168	normal gene
+ANKRD44	DOCK10	0.0515109	transcription factor
+ANKRD44	EVI2A	0.0469042	normal gene
+ANKRD44	EVI2B	0.0465989	normal gene
+ANKRD44	FCGR2A	0.0452888	normal gene
+ANKRD44	LILRB1	0.0462315	normal gene
+ANKRD44	PPIL4	0.0464585	transcription factor
+ANKRD44	RNF167	0.0438493	transcription factor
+ANKRD44	WIPF1	0.0527148	normal gene
+ANKRD44	ZEB2	0.0448878	transcription factor

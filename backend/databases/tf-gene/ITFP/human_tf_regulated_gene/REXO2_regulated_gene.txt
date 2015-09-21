@@ -1,0 +1,6 @@
+REXO2	DMN	0.047004	normal gene
+REXO2	MYH11	0.043162	normal gene
+REXO2	NECAP1	0.042896	normal gene
+REXO2	POLH	0.0434304	normal gene
+REXO2	VASH2	0.0489307	normal gene
+REXO2	XAGE1	0.0463813	normal gene

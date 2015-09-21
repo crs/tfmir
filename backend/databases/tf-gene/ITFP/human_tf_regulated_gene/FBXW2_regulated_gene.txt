@@ -1,0 +1,5 @@
+FBXW2	ATF7	0.0448848	transcription factor
+FBXW2	BBS10	0.0441937	normal gene
+FBXW2	COPS8	0.0434892	normal gene
+FBXW2	DBT	0.0494161	normal gene
+FBXW2	SLMAP	0.0470208	transcription factor

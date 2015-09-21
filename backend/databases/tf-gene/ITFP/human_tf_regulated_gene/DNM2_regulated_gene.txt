@@ -1,0 +1,3 @@
+DNM2	ADRBK1	0.0434821	normal gene
+DNM2	AP1M1	0.0442214	normal gene
+DNM2	STRN4	0.0573777	transcription factor

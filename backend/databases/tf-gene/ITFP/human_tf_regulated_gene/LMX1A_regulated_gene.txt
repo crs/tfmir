@@ -1,0 +1,3 @@
+LMX1A	C20orf141	0.0438253	normal gene
+LMX1A	FBXL18	0.0428852	transcription factor
+LMX1A	S100A10	0.0458327	normal gene

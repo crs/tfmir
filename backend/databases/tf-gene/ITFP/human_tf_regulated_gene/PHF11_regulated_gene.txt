@@ -1,0 +1,16 @@
+PHF11	C19orf39	0.0446493	normal gene
+PHF11	CCL4	0.0444042	normal gene
+PHF11	CECR1	0.0451013	normal gene
+PHF11	CHRNA5	0.0428537	normal gene
+PHF11	FGD2	0.0429899	transcription factor
+PHF11	HCP5	0.0454713	normal gene
+PHF11	HLA-DMB	0.0450002	normal gene
+PHF11	HLA-DQB1	0.0429622	normal gene
+PHF11	LILRB1	0.0452952	normal gene
+PHF11	LILRB2	0.04529	normal gene
+PHF11	LST1	0.0429705	normal gene
+PHF11	MPPE1	0.0462452	normal gene
+PHF11	TMBIM4	0.0518152	normal gene
+PHF11	TMEM127	0.0444464	normal gene
+PHF11	TRADD	0.0470396	transcription factor
+PHF11	UBA7	0.0567367	normal gene

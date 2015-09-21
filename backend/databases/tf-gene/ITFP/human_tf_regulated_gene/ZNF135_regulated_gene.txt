@@ -1,0 +1,4 @@
+ZNF135	DMRTC1	0.0431036	normal gene
+ZNF135	MAGEH1	0.0428058	normal gene
+ZNF135	VAC14	0.0434325	transcription factor
+ZNF135	ZAN	0.0446661	normal gene

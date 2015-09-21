@@ -1,0 +1,11 @@
+LONRF2	COX6B1	0.051616	normal gene
+LONRF2	ELF4	0.0457009	transcription factor
+LONRF2	GPRASP1	0.0435617	normal gene
+LONRF2	GPRASP2	0.0496406	normal gene
+LONRF2	GPRC5B	0.0438091	normal gene
+LONRF2	MPPED2	0.0475301	normal gene
+LONRF2	PBX1	0.0518621	transcription factor
+LONRF2	ROD1	0.0432739	transcription factor
+LONRF2	SCN4B	0.0434549	normal gene
+LONRF2	SPTLC2	0.0458271	normal gene
+LONRF2	ZNF423	0.0467164	transcription factor

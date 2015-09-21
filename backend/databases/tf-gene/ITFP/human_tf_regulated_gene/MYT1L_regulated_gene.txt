@@ -1,0 +1,8 @@
+MYT1L	AFF3	0.0427885	normal gene
+MYT1L	CNTROB	0.0437446	normal gene
+MYT1L	DHX8	0.0441732	transcription factor
+MYT1L	DLEC1	0.0441362	normal gene
+MYT1L	EIF6	0.043469	normal gene
+MYT1L	LBX1	0.0438512	transcription factor
+MYT1L	MRFAP1	0.0430549	normal gene
+MYT1L	TUBGCP6	0.0431666	normal gene

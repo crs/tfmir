@@ -1,0 +1,7 @@
+PCGF5	INSL3	0.0428356	normal gene
+PCGF5	MYST3	0.04677	transcription factor
+PCGF5	NUDCD3	0.0460749	normal gene
+PCGF5	RNF38	0.0443522	transcription factor
+PCGF5	RQCD1	0.0438371	normal gene
+PCGF5	TMEM189-UBE2V1	0.0459514	normal gene
+PCGF5	YKT6	0.0433392	normal gene

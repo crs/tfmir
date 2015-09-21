@@ -1,0 +1,17 @@
+ANTXR1	ACTA2	0.0459654	normal gene
+ANTXR1	C1R	0.049035	normal gene
+ANTXR1	C1S	0.0494619	normal gene
+ANTXR1	CALD1	0.0463745	transcription factor
+ANTXR1	COL1A1	0.0496798	normal gene
+ANTXR1	COL4A1	0.0484567	normal gene
+ANTXR1	COL4A2	0.0464527	normal gene
+ANTXR1	COL5A2	0.0533415	normal gene
+ANTXR1	HTRA1	0.0534338	normal gene
+ANTXR1	MXRA8	0.0446644	normal gene
+ANTXR1	MYLK	0.0458264	normal gene
+ANTXR1	PPP4R2	0.0434822	normal gene
+ANTXR1	PRICKLE2	0.051608	transcription factor
+ANTXR1	SPARC	0.0532772	normal gene
+ANTXR1	ST5	0.0522374	normal gene
+ANTXR1	TIMP2	0.0464284	normal gene
+ANTXR1	WWTR1	0.0447846	transcription factor

@@ -1,0 +1,3 @@
+OSBP	FN1	0.0432484	normal gene
+OSBP	MARCH7	0.0449238	normal gene
+OSBP	NKTR	0.0428435	normal gene

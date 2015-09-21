@@ -1,0 +1,9 @@
+CXXC1	ADRBK1	0.0434203	normal gene
+CXXC1	ATAD3B	0.0430807	transcription factor
+CXXC1	C7orf26	0.0449498	normal gene
+CXXC1	DDX31	0.0448502	transcription factor
+CXXC1	DYNC1LI2	0.0473141	normal gene
+CXXC1	EDC3	0.0429372	normal gene
+CXXC1	GGA1	0.0435935	normal gene
+CXXC1	OXER1	0.0431709	normal gene
+CXXC1	RASSF7	0.04503	transcription factor

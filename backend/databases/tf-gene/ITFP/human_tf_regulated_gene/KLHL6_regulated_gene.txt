@@ -1,0 +1,16 @@
+KLHL6	ARHGDIB	0.0465316	normal gene
+KLHL6	EVI2B	0.0622369	normal gene
+KLHL6	FERMT3	0.0489837	normal gene
+KLHL6	GMFG	0.0432432	normal gene
+KLHL6	HCLS1	0.0478235	normal gene
+KLHL6	KCNH2	0.0527971	normal gene
+KLHL6	LAPTM5	0.0440354	normal gene
+KLHL6	LILRA2	0.0428739	normal gene
+KLHL6	LILRB1	0.0479438	normal gene
+KLHL6	LYL1	0.0444671	transcription factor
+KLHL6	PIK3CG	0.0449234	normal gene
+KLHL6	PTPN22	0.0490507	normal gene
+KLHL6	PTPRC	0.0515403	normal gene
+KLHL6	SAMSN1	0.0461309	transcription factor
+KLHL6	WDFY4	0.0434738	normal gene
+KLHL6	WIPF1	0.0477204	normal gene

@@ -1,0 +1,5 @@
+STRBP	ASCC3L1	0.0439029	transcription factor
+STRBP	NUP210	0.0456736	normal gene
+STRBP	PPP3R1	0.0459109	normal gene
+STRBP	RAD51AP1	0.0430262	normal gene
+STRBP	YEATS4	0.0471331	normal gene

@@ -1,0 +1,5 @@
+ARD1A	CHCHD8	0.0474417	normal gene
+ARD1A	MRPS16	0.04406	normal gene
+ARD1A	POLD2	0.043538	normal gene
+ARD1A	SIVA1	0.0428028	transcription factor
+ARD1A	TOMM40	0.0470352	normal gene

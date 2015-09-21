@@ -1,0 +1,3 @@
+ZC3HAV1	CAP2	0.0459203	normal gene
+ZC3HAV1	LYN	0.0444012	normal gene
+ZC3HAV1	SYK	0.0471283	normal gene

@@ -1,0 +1,2 @@
+KIN	MOBKL3	0.0450864	normal gene
+KIN	ZC3H15	0.0428631	normal gene

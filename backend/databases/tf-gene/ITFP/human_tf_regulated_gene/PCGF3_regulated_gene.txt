@@ -1,0 +1,5 @@
+PCGF3	APTX	0.0433816	transcription factor
+PCGF3	HSF1	0.0433563	transcription factor
+PCGF3	NOC4L	0.0436612	transcription factor
+PCGF3	RBM12B	0.0437676	transcription factor
+PCGF3	YKT6	0.043931	normal gene

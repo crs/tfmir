@@ -1,0 +1,9 @@
+NKX3-1	C17orf84	0.0461008	normal gene
+NKX3-1	C22orf24	0.0432234	normal gene
+NKX3-1	GPRC5D	0.0441105	normal gene
+NKX3-1	NECAP1	0.0428361	normal gene
+NKX3-1	OR2S2	0.0433891	normal gene
+NKX3-1	OR51I2	0.0431857	normal gene
+NKX3-1	P2RY4	0.0448209	normal gene
+NKX3-1	TMEM92	0.0436224	normal gene
+NKX3-1	USP2	0.0432814	normal gene

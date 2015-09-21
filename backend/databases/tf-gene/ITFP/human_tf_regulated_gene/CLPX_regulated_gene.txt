@@ -1,0 +1,16 @@
+CLPX	ABCB10	0.0447812	normal gene
+CLPX	ACN9	0.0473664	normal gene
+CLPX	ATF1	0.0484906	transcription factor
+CLPX	CPSF2	0.0432229	normal gene
+CLPX	GTPBP4	0.0440054	normal gene
+CLPX	GTPBP8	0.0427738	normal gene
+CLPX	HMGN3	0.0472426	normal gene
+CLPX	MRPL19	0.0456467	normal gene
+CLPX	MRPL50	0.0497549	normal gene
+CLPX	NAT13	0.0508152	transcription factor
+CLPX	RBM33	0.046683	normal gene
+CLPX	RINT1	0.0514699	normal gene
+CLPX	RPAP3	0.0536503	transcription factor
+CLPX	TCEB1	0.0434808	normal gene
+CLPX	TMEM69	0.0485397	normal gene
+CLPX	VTA1	0.0465042	normal gene

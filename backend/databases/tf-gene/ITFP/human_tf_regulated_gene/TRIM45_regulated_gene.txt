@@ -1,0 +1,1 @@
+TRIM45	ACTR2	0.044536	normal gene

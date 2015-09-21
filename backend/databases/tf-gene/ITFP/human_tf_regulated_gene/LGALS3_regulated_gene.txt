@@ -1,0 +1,1 @@
+LGALS3	CD63	0.0470573	normal gene

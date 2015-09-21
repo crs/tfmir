@@ -1,0 +1,3 @@
+ZNF580	BET1L	0.0471731	normal gene
+ZNF580	C19orf63	0.0502261	normal gene
+ZNF580	POLR2A	0.0450771	normal gene

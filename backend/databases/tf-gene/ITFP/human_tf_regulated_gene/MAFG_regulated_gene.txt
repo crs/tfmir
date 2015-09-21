@@ -1,0 +1,5 @@
+MAFG	ADRBK1	0.0493808	normal gene
+MAFG	C16orf13	0.0456679	normal gene
+MAFG	DND1	0.0486157	transcription factor
+MAFG	MUC8	0.0436427	normal gene
+MAFG	SMOX	0.043026	normal gene

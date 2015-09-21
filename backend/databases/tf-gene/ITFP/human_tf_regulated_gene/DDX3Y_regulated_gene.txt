@@ -1,0 +1,9 @@
+DDX3Y	CYorf15A	0.0534885	normal gene
+DDX3Y	CYorf15B	0.0512161	normal gene
+DDX3Y	EIF1AY	0.0616779	transcription factor
+DDX3Y	JARID1D	0.0498135	transcription factor
+DDX3Y	RPS4Y1	0.047105	transcription factor
+DDX3Y	USP9Y	0.0521931	normal gene
+DDX3Y	UTY	0.0460076	transcription factor
+DDX3Y	XIST	0.043692	normal gene
+DDX3Y	ZFY	0.0587824	transcription factor

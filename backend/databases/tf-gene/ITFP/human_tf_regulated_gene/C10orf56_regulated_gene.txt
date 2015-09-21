@@ -1,0 +1,6 @@
+C10orf56	ANGPTL2	0.0440543	normal gene
+C10orf56	DAAM2	0.0445569	normal gene
+C10orf56	EFEMP2	0.0435279	normal gene
+C10orf56	RUNX1T1	0.0429975	normal gene
+C10orf56	SLC2A3P1	0.0434408	normal gene
+C10orf56	SPARC	0.0446889	normal gene

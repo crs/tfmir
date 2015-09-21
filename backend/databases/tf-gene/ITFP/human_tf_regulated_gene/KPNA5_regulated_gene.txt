@@ -1,0 +1,8 @@
+KPNA5	APC	0.0475637	transcription factor
+KPNA5	CNOT4	0.0458118	transcription factor
+KPNA5	EXOC5	0.0470488	normal gene
+KPNA5	MAP3K7	0.0453799	normal gene
+KPNA5	NCOA2	0.045147	transcription factor
+KPNA5	SPAST	0.043396	normal gene
+KPNA5	TNKS2	0.050394	transcription factor
+KPNA5	TRIM23	0.0461182	transcription factor

@@ -1,0 +1,6 @@
+WDR13	FAM91A2	0.0459056	normal gene
+WDR13	IRAK1BP1	0.0429579	normal gene
+WDR13	KIAA1333	0.0440232	normal gene
+WDR13	MTF2	0.0449125	transcription factor
+WDR13	WDR45	0.0471229	transcription factor
+WDR13	ZNF675	0.0432763	transcription factor

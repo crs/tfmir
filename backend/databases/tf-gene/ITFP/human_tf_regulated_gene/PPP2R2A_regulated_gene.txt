@@ -1,0 +1,4 @@
+PPP2R2A	DRAP1	0.0442619	transcription factor
+PPP2R2A	GLRX3	0.0435835	normal gene
+PPP2R2A	UBE2A	0.0434132	normal gene
+PPP2R2A	ZFAND6	0.0446142	normal gene

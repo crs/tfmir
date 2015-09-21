@@ -1,0 +1,4 @@
+MPHOSPH8	ANKRD12	0.0499737	transcription factor
+MPHOSPH8	FKBP15	0.0435277	normal gene
+MPHOSPH8	MKLN1	0.0470263	transcription factor
+MPHOSPH8	SFXN1	0.0432245	normal gene

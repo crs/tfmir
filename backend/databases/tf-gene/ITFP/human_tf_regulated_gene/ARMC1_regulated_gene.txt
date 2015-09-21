@@ -1,0 +1,3 @@
+ARMC1	C19orf19	0.0447621	normal gene
+ARMC1	TAF9B	0.0431366	transcription factor
+ARMC1	ZNF566	0.0439608	transcription factor

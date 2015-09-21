@@ -1,0 +1,2 @@
+SYNJ2	CRYBB3	0.0434895	normal gene
+SYNJ2	TNRC6B	0.0433687	transcription factor

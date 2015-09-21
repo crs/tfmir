@@ -1,0 +1,3 @@
+COPB2	ARF4	0.0462649	normal gene
+COPB2	C14orf119	0.0447625	normal gene
+COPB2	C7orf42	0.0430499	normal gene

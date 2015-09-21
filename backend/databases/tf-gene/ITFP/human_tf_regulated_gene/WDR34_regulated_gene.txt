@@ -1,0 +1,2 @@
+WDR34	PAK4	0.0440128	normal gene
+WDR34	TAF6	0.0428204	transcription factor

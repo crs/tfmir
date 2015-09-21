@@ -1,0 +1,2 @@
+WIPI2	MAOA	0.0437833	normal gene
+WIPI2	PDZRN3	0.0452444	normal gene

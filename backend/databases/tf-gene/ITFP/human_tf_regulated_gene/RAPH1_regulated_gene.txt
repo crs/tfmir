@@ -1,0 +1,2 @@
+RAPH1	IL6ST	0.0437845	normal gene
+RAPH1	NBEAL1	0.0439905	transcription factor

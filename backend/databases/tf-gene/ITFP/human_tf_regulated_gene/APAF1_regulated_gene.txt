@@ -1,0 +1,4 @@
+APAF1	CNOT8	0.0462745	transcription factor
+APAF1	NUPL1	0.0463326	normal gene
+APAF1	SCARNA9	0.0434382	normal gene
+APAF1	SIRT2	0.0451237	normal gene

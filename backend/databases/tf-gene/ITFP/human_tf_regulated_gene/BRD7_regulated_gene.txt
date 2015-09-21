@@ -1,0 +1,16 @@
+BRD7	C12orf32	0.0429557	normal gene
+BRD7	C20orf29	0.0431962	normal gene
+BRD7	C2orf56	0.0465255	normal gene
+BRD7	GTF2F2	0.0455522	transcription factor
+BRD7	HCG18	0.0458305	normal gene
+BRD7	ISG20L2	0.0437895	transcription factor
+BRD7	KCNIP4	0.0462948	normal gene
+BRD7	NCBP1	0.0513257	normal gene
+BRD7	null	0.0437859	normal gene
+BRD7	PRPF40A	0.0461643	transcription factor
+BRD7	RAP2C	0.0428622	normal gene
+BRD7	SCYL1BP1	0.0487444	normal gene
+BRD7	SEC16A	0.046643	normal gene
+BRD7	SLC30A5	0.0439938	normal gene
+BRD7	TAF1B	0.0463809	normal gene
+BRD7	ZC3H15	0.0450151	normal gene

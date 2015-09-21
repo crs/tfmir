@@ -1,0 +1,4 @@
+PML	B9D2	0.0440785	normal gene
+PML	DNAJB13	0.0429006	normal gene
+PML	GMIP	0.0480492	normal gene
+PML	PRKAB2	0.0439817	normal gene

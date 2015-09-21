@@ -1,0 +1,6 @@
+DDX47	ANAPC1	0.0429331	transcription factor
+DDX47	DKC1	0.0444452	normal gene
+DDX47	EIF4A3	0.0430723	transcription factor
+DDX47	MED27	0.0437122	normal gene
+DDX47	POLR2H	0.0450059	normal gene
+DDX47	STX5	0.0446154	normal gene

@@ -1,0 +1,2 @@
+RNF24	PFKFB4	0.0466766	normal gene
+RNF24	THEX1	0.044135	transcription factor

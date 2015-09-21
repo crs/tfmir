@@ -1,0 +1,1 @@
+NODAL	CLTA	0.0444843	normal gene

@@ -1,0 +1,2 @@
+HIST1H2AC	HIST1H2BD	0.0431045	transcription factor
+HIST1H2AC	HIST2H2BE	0.0435307	transcription factor

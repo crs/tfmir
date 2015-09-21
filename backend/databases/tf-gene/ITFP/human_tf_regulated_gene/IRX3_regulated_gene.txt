@@ -1,0 +1,1 @@
+IRX3	IRX5	0.0428535	transcription factor

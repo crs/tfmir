@@ -1,0 +1,13 @@
+MDN1	CDC2L5	0.0463745	normal gene
+MDN1	FCF1	0.0436368	normal gene
+MDN1	KLHL8	0.0462793	transcription factor
+MDN1	LINS1	0.0430358	normal gene
+MDN1	NUP153	0.0427793	normal gene
+MDN1	PHKB	0.046442	transcription factor
+MDN1	PRPF38B	0.0470277	normal gene
+MDN1	PTBP2	0.0488486	transcription factor
+MDN1	TRIM33	0.0435717	transcription factor
+MDN1	UGCG	0.0439381	normal gene
+MDN1	USP3	0.0478658	normal gene
+MDN1	WDR89	0.0429866	transcription factor
+MDN1	ZRANB2	0.0456446	normal gene

@@ -1,0 +1,8 @@
+KHSRP	ATAD3A	0.0428814	transcription factor
+KHSRP	GEMIN4	0.044078	normal gene
+KHSRP	GPR137	0.0444573	normal gene
+KHSRP	NCAPD2	0.0432994	transcription factor
+KHSRP	RDH14	0.0452881	normal gene
+KHSRP	RPLP2	0.046673	normal gene
+KHSRP	SF1	0.0483457	transcription factor
+KHSRP	ZC3H18	0.0453326	normal gene

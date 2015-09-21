@@ -1,0 +1,4 @@
+TP53BP1	GAPVD1	0.0469524	normal gene
+TP53BP1	SPZ1	0.0453437	transcription factor
+TP53BP1	WDR6	0.0451421	transcription factor
+TP53BP1	ZNF317	0.0434087	transcription factor

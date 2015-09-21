@@ -1,0 +1,3 @@
+TRIM59	CENPK	0.043386	normal gene
+TRIM59	FANCD2	0.0427778	normal gene
+TRIM59	HMMR	0.0469752	normal gene

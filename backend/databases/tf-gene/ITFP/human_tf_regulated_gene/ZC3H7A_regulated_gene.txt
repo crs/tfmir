@@ -1,0 +1,10 @@
+ZC3H7A	BIRC4	0.0497318	normal gene
+ZC3H7A	CDC2L5	0.0436179	normal gene
+ZC3H7A	CREB1	0.0436013	transcription factor
+ZC3H7A	FAM76B	0.0435721	normal gene
+ZC3H7A	FRYL	0.0481397	normal gene
+ZC3H7A	HRB	0.0504634	normal gene
+ZC3H7A	KIAA0372	0.0517368	normal gene
+ZC3H7A	SFRS11	0.0430269	transcription factor
+ZC3H7A	UTX	0.0428772	transcription factor
+ZC3H7A	VPS35	0.0501321	normal gene

@@ -1,0 +1,2 @@
+HLF	RGN	0.053931	normal gene
+HLF	SEPP1	0.045385	normal gene

@@ -1,0 +1,2 @@
+GRB7	ELF3	0.0445119	transcription factor
+GRB7	KRT18	0.0457061	normal gene

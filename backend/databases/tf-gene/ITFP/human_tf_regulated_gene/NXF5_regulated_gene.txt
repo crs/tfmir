@@ -1,0 +1,2 @@
+NXF5	DDX51	0.0432879	transcription factor
+NXF5	TMEM30B	0.0428425	normal gene

@@ -1,0 +1,17 @@
+INPP5A	C13orf1	0.0432229	normal gene
+INPP5A	C3orf23	0.0486259	normal gene
+INPP5A	C5orf22	0.0505439	normal gene
+INPP5A	FAM49B	0.0451818	normal gene
+INPP5A	FH	0.0478757	normal gene
+INPP5A	GRPEL2	0.0542588	normal gene
+INPP5A	JPH1	0.0437792	normal gene
+INPP5A	MAPKAP1	0.0493599	normal gene
+INPP5A	MRPS10	0.0442098	normal gene
+INPP5A	MTMR1	0.048823	normal gene
+INPP5A	PPTC7	0.0473238	normal gene
+INPP5A	RAP2B	0.0473396	normal gene
+INPP5A	SLAIN2	0.0507874	normal gene
+INPP5A	STYX	0.0463099	normal gene
+INPP5A	TAF9B	0.0482731	transcription factor
+INPP5A	TRIM23	0.0447154	transcription factor
+INPP5A	ZADH2	0.0434359	normal gene

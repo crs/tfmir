@@ -1,0 +1,9 @@
+FBXW4	CRY2	0.0437361	normal gene
+FBXW4	ECHDC2	0.0509148	normal gene
+FBXW4	EZH2	0.0434937	transcription factor
+FBXW4	IRAK1BP1	0.0446701	normal gene
+FBXW4	NUFIP2	0.0441641	normal gene
+FBXW4	TMEM206	0.0492755	normal gene
+FBXW4	TNXB	0.0470187	normal gene
+FBXW4	TXNDC1	0.0456559	normal gene
+FBXW4	UBA6	0.044913	normal gene

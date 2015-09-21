@@ -1,0 +1,4 @@
+PCBP4	C2orf33	0.0441497	normal gene
+PCBP4	CAP2	0.0445487	normal gene
+PCBP4	CTSS	0.043451	normal gene
+PCBP4	SKAP2	0.0437451	transcription factor

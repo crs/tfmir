@@ -1,0 +1,4 @@
+RBM10	LIG1	0.0451427	transcription factor
+RBM10	PRPF19	0.0470549	transcription factor
+RBM10	SF3B2	0.0484833	transcription factor
+RBM10	TMEM39B	0.0441598	normal gene

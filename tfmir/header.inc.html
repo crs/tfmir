@@ -1,0 +1,14 @@
+
+<div id="header">
+	<div class="logoRight">
+		<a href="http://www.zbi.uni-saarland.de/">
+			<img src="img/logo-cbi.png" alt="CBI" style="height:75%;"/>
+		</a>
+	</div>
+	<div class="topBar">
+	<div id="topNav"><span><a href="help.php" onclick="$.get('help.php', function(data) { $('#dialogContainer').load('help.php').dialog({modal:true, width:'90%', height:800}); }, 'html'); return false;">Help Page</a></span></div>
+	<h2><a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . dirname($_SERVER['SCRIPT_NAME']); ?>">TFmiR</a></h2>
+	<h5>disease-specific miRNA/transcription factor co-regulatory networks <small>v1.2</small></h5>
+	</div>
+</div>
+<div id="dialogContainer"></div>

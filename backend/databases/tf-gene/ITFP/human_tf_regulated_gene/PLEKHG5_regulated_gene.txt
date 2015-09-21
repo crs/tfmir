@@ -1,0 +1,2 @@
+PLEKHG5	DUOXA2	0.0439219	normal gene
+PLEKHG5	ITGA8	0.0449243	normal gene

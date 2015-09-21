@@ -1,0 +1,2 @@
+GLIS3	POLE3	0.04585	transcription factor
+GLIS3	PRICKLE2	0.0452599	transcription factor

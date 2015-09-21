@@ -1,0 +1,3 @@
+RAI14	KIRREL	0.0448464	normal gene
+RAI14	MYO10	0.0428388	transcription factor
+RAI14	WWTR1	0.047725	transcription factor

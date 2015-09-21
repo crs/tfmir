@@ -1,0 +1,1 @@
+TRIM31	RCAN1	0.0430732	normal gene

@@ -1,0 +1,3 @@
+ESR1	DMRTC1	0.043331	normal gene
+ESR1	MAPK12	0.0455033	normal gene
+ESR1	MYOZ3	0.0439372	normal gene

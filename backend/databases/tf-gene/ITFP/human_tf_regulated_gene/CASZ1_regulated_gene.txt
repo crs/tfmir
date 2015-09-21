@@ -1,0 +1,5 @@
+CASZ1	BOLA3	0.0454398	normal gene
+CASZ1	LRRC43	0.0483566	normal gene
+CASZ1	MAN2C1	0.0454647	normal gene
+CASZ1	MAPK12	0.0483836	normal gene
+CASZ1	MYOZ3	0.0432018	normal gene

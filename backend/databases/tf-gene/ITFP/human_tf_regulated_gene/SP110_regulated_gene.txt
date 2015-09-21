@@ -1,0 +1,3 @@
+SP110	CASP1	0.0439385	normal gene
+SP110	ELOF1	0.0477487	normal gene
+SP110	HLA-E	0.0434472	normal gene

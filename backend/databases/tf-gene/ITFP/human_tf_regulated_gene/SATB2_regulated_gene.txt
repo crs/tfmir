@@ -1,0 +1,2 @@
+SATB2	C13orf15	0.0458101	normal gene
+SATB2	C2orf14	0.0562884	normal gene

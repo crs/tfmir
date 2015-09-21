@@ -1,0 +1,5 @@
+IFIH1	AGPAT1	0.043723	transcription factor
+IFIH1	CTSS	0.043244	normal gene
+IFIH1	EEF2	0.0435796	normal gene
+IFIH1	MAP3K8	0.0429053	normal gene
+IFIH1	SAMD9	0.0433821	transcription factor

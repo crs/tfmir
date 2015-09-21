@@ -1,0 +1,5 @@
+INHA	BTBD9	0.0467061	normal gene
+INHA	GPBP1	0.0458399	normal gene
+INHA	IRS4	0.0481888	normal gene
+INHA	POLR1B	0.0544624	normal gene
+INHA	PRDX2	0.0469389	normal gene

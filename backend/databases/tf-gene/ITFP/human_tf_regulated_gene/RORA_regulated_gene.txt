@@ -1,0 +1,2 @@
+RORA	FANCD2	0.0431765	normal gene
+RORA	NA	0.047746	normal gene

@@ -1,0 +1,14 @@
+NBN	ACTR2	0.0430328	normal gene
+NBN	BAZ1A	0.0437523	transcription factor
+NBN	BBS1	0.0474489	normal gene
+NBN	C14orf106	0.0456299	transcription factor
+NBN	KCTD20	0.0455821	normal gene
+NBN	KLHDC9	0.0454706	transcription factor
+NBN	MIER1	0.0467707	transcription factor
+NBN	PTPN2	0.0480594	normal gene
+NBN	RBM34	0.0441267	transcription factor
+NBN	STK4	0.0541354	normal gene
+NBN	TANK	0.0440909	transcription factor
+NBN	TUBGCP4	0.0480947	normal gene
+NBN	USP16	0.0448466	normal gene
+NBN	ZCCHC7	0.0489549	transcription factor

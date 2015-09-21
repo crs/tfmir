@@ -1,0 +1,12 @@
+SFRS12	BCLAF1	0.0434594	normal gene
+SFRS12	CCT2	0.0430303	normal gene
+SFRS12	EPRS	0.0487809	transcription factor
+SFRS12	FUSIP1	0.042827	transcription factor
+SFRS12	HNRPD	0.0429861	transcription factor
+SFRS12	MAK10	0.0450586	normal gene
+SFRS12	NPAT	0.0430406	normal gene
+SFRS12	OTUD4	0.0454298	normal gene
+SFRS12	SART3	0.0493415	transcription factor
+SFRS12	SDAD1	0.0445891	normal gene
+SFRS12	SMC3	0.0444572	normal gene
+SFRS12	SYNCRIP	0.0447145	transcription factor

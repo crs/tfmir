@@ -1,0 +1,10 @@
+ZRF1	CCT6A	0.051614	normal gene
+ZRF1	DBF4	0.0458645	transcription factor
+ZRF1	EIF2S1	0.049146	transcription factor
+ZRF1	GNL2	0.0518592	normal gene
+ZRF1	GNL3	0.0471102	normal gene
+ZRF1	MTHFD2	0.0455466	normal gene
+ZRF1	NPM1	0.0450446	normal gene
+ZRF1	NUDCD1	0.047522	normal gene
+ZRF1	RBM8A	0.0452077	transcription factor
+ZRF1	WDSOF1	0.0463214	transcription factor

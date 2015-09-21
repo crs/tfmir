@@ -1,0 +1,10 @@
+BMP15	ARHGAP6	0.0445585	normal gene
+BMP15	ARSD	0.0435757	normal gene
+BMP15	C20orf165	0.0437246	normal gene
+BMP15	CTAGE1	0.0444574	normal gene
+BMP15	EPC1	0.0436605	normal gene
+BMP15	IRGM	0.0474103	normal gene
+BMP15	MAOA	0.0446689	normal gene
+BMP15	NARG1	0.045162	transcription factor
+BMP15	P2RY4	0.0449171	normal gene
+BMP15	TMEM105	0.0446533	normal gene

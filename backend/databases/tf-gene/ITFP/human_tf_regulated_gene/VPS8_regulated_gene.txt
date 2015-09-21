@@ -1,0 +1,6 @@
+VPS8	C1orf136	0.0471567	normal gene
+VPS8	MTMR3	0.0467698	transcription factor
+VPS8	PAPD4	0.0444102	normal gene
+VPS8	TM2D1	0.0443715	normal gene
+VPS8	ZFP106	0.0472527	transcription factor
+VPS8	ZMYND11	0.043074	transcription factor

@@ -1,0 +1,7 @@
+ARMC8	API5	0.0467447	normal gene
+ARMC8	CACNG6	0.043502	normal gene
+ARMC8	MTF2	0.0432961	transcription factor
+ARMC8	NUPL1	0.0449842	normal gene
+ARMC8	RNF138	0.0441857	transcription factor
+ARMC8	USP37	0.04553	normal gene
+ARMC8	ZNF451	0.0456448	transcription factor

@@ -1,0 +1,3 @@
+RANBP3	BTBD2	0.0458196	normal gene
+RANBP3	CENPB	0.0436857	normal gene
+RANBP3	SUPT6H	0.0526724	normal gene

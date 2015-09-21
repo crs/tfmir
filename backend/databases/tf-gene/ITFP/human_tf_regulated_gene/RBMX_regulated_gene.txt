@@ -1,0 +1,10 @@
+RBMX	BUB3	0.0457887	transcription factor
+RBMX	C1orf151	0.0444001	normal gene
+RBMX	CENPL	0.0442971	normal gene
+RBMX	FBL	0.0434312	normal gene
+RBMX	FNBP4	0.0447753	transcription factor
+RBMX	HMGN1	0.0475935	normal gene
+RBMX	NAT10	0.0437463	transcription factor
+RBMX	PAPD4	0.0441524	normal gene
+RBMX	RPL7AP8	0.0483508	normal gene
+RBMX	SFRS2	0.0510958	transcription factor

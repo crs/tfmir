@@ -1,0 +1,2 @@
+SSBP4	FAM120A	0.0428547	normal gene
+SSBP4	PLXNA2	0.0431675	normal gene

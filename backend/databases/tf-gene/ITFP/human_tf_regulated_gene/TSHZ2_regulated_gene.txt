@@ -1,0 +1,7 @@
+TSHZ2	CACNG6	0.0478632	normal gene
+TSHZ2	E2F4	0.0436677	transcription factor
+TSHZ2	FBLN1	0.044331	normal gene
+TSHZ2	JAK1	0.0428425	normal gene
+TSHZ2	LOXL2	0.0437015	normal gene
+TSHZ2	NLRP1	0.0447539	transcription factor
+TSHZ2	TCF20	0.0444316	transcription factor

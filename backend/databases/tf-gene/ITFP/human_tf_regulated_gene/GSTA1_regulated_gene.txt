@@ -1,0 +1,2 @@
+GSTA1	NA	0.0441949	normal gene
+GSTA1	ZNHIT4	0.0443204	normal gene

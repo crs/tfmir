@@ -1,0 +1,3 @@
+PPID	CDC5L	0.0452112	transcription factor
+PPID	TIMM17A	0.0437577	normal gene
+PPID	UBE2D3	0.0436055	normal gene

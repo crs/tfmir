@@ -1,0 +1,7 @@
+HOXC11	AQP12A	0.0445742	normal gene
+HOXC11	C19orf51	0.04405	normal gene
+HOXC11	LRRC43	0.0448109	normal gene
+HOXC11	PKMYT1	0.0439414	normal gene
+HOXC11	PROM2	0.0511249	normal gene
+HOXC11	RASSF7	0.0437659	transcription factor
+HOXC11	TSEN54	0.0431643	normal gene

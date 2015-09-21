@@ -1,0 +1,3 @@
+PCF11	PLOD3	0.0444108	normal gene
+PCF11	SLC6A8	0.0458939	normal gene
+PCF11	SMEK2	0.0444112	normal gene

@@ -1,0 +1,6 @@
+ZNF45	C8orf53	0.0461239	normal gene
+ZNF45	CCDC123	0.0429547	normal gene
+ZNF45	FIP1L1	0.0434686	normal gene
+ZNF45	PSPC1	0.0445232	transcription factor
+ZNF45	RPAP3	0.0432671	transcription factor
+ZNF45	ZNF227	0.0539764	transcription factor

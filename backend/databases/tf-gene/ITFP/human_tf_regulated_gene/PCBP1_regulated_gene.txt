@@ -1,0 +1,10 @@
+PCBP1	ADRM1	0.051017	normal gene
+PCBP1	CSNK2A1	0.0445105	normal gene
+PCBP1	GEMIN7	0.0478163	normal gene
+PCBP1	GLE1	0.0490061	normal gene
+PCBP1	KARS	0.0460077	transcription factor
+PCBP1	MAP2K2	0.0456775	normal gene
+PCBP1	SF3A1	0.0436133	normal gene
+PCBP1	WBP11	0.0454206	normal gene
+PCBP1	WBSCR16	0.045453	normal gene
+PCBP1	YBX1	0.0461541	transcription factor

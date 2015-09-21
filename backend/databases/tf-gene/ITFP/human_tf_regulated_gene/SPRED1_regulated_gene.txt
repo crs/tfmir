@@ -1,0 +1,10 @@
+SPRED1	ABCD3	0.0441637	normal gene
+SPRED1	COG3	0.0465532	normal gene
+SPRED1	EXOC5	0.0448577	normal gene
+SPRED1	FAM62B	0.0464171	normal gene
+SPRED1	FBXO38	0.0443321	transcription factor
+SPRED1	PHLDA1	0.0513756	transcription factor
+SPRED1	RBBP9	0.0443104	normal gene
+SPRED1	REEP3	0.04671	normal gene
+SPRED1	TWF1	0.0435799	normal gene
+SPRED1	WDR1	0.0450289	transcription factor

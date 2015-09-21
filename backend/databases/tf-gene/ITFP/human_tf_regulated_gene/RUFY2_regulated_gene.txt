@@ -1,0 +1,7 @@
+RUFY2	IQWD1	0.0460728	transcription factor
+RUFY2	LRRFIP1	0.0458273	normal gene
+RUFY2	MBNL1	0.0446974	transcription factor
+RUFY2	NMUR2	0.042968	normal gene
+RUFY2	null	0.0427751	normal gene
+RUFY2	PIAS2	0.043909	transcription factor
+RUFY2	SAPS3	0.0454357	normal gene

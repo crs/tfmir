@@ -1,0 +1,5 @@
+FBXO45	CACYBP	0.043255	normal gene
+FBXO45	CCT6A	0.0439896	normal gene
+FBXO45	RSRC1	0.0428103	normal gene
+FBXO45	UBE2V2	0.0481092	normal gene
+FBXO45	WDHD1	0.0432314	transcription factor

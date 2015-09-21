@@ -1,0 +1,3 @@
+KLF16	ANKRD16	0.0470035	transcription factor
+KLF16	GTPBP5	0.043587	normal gene
+KLF16	MAN2C1	0.0473757	normal gene

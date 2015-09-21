@@ -1,0 +1,11 @@
+ZNF227	CCDC100	0.0444371	normal gene
+ZNF227	KIAA1826	0.0442522	normal gene
+ZNF227	ORC5L	0.0461098	normal gene
+ZNF227	PSPC1	0.0465625	transcription factor
+ZNF227	RPAP3	0.0437215	transcription factor
+ZNF227	SPAST	0.043393	normal gene
+ZNF227	TRNT1	0.046936	normal gene
+ZNF227	UGCGL2	0.0459885	normal gene
+ZNF227	ZNF45	0.0539764	transcription factor
+ZNF227	ZNF567	0.0442341	transcription factor
+ZNF227	ZNF75	0.0446344	transcription factor

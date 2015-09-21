@@ -1,0 +1,3 @@
+ZNF195	CCT2	0.0437246	normal gene
+ZNF195	FAM29A	0.0446194	normal gene
+ZNF195	ZWILCH	0.0458514	normal gene

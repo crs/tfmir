@@ -1,0 +1,9 @@
+TAF2	C10orf18	0.0471978	normal gene
+TAF2	C1orf181	0.0455468	normal gene
+TAF2	FN1	0.050928	normal gene
+TAF2	FUSIP1	0.0459803	transcription factor
+TAF2	HELLS	0.045186	transcription factor
+TAF2	NEK4	0.0443278	normal gene
+TAF2	PAQR3	0.047833	normal gene
+TAF2	RRN3	0.0445233	normal gene
+TAF2	ZNF326	0.0459832	transcription factor

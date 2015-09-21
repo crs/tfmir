@@ -1,0 +1,5 @@
+POT1	C14orf145	0.0432042	normal gene
+POT1	DENR	0.0435788	normal gene
+POT1	DUS4L	0.0458361	normal gene
+POT1	NMD3	0.0467331	normal gene
+POT1	RFC3	0.0452173	normal gene

@@ -1,0 +1,1 @@
+WDTC1	RXRB	0.043049	transcription factor

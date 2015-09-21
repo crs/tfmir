@@ -1,0 +1,4 @@
+RGL1	CCL2	0.0432026	normal gene
+RGL1	DAB2	0.045372	transcription factor
+RGL1	FAF1	0.0450993	normal gene
+RGL1	PPAP2B	0.0449303	normal gene

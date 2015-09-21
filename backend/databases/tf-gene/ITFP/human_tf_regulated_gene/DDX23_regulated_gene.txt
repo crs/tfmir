@@ -1,0 +1,3 @@
+DDX23	ABT1	0.0464447	transcription factor
+DDX23	DKC1	0.0437751	normal gene
+DDX23	EXOSC2	0.0439925	normal gene

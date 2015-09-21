@@ -1,0 +1,17 @@
+PAXIP1	ANKRD32	0.0453061	transcription factor
+PAXIP1	ANLN	0.0452688	transcription factor
+PAXIP1	C13orf23	0.0440411	normal gene
+PAXIP1	C21orf66	0.0481319	normal gene
+PAXIP1	CCDC99	0.0434139	normal gene
+PAXIP1	CCNE2	0.0434439	transcription factor
+PAXIP1	CEP76	0.0428467	transcription factor
+PAXIP1	CSE1L	0.0444896	normal gene
+PAXIP1	KIF14	0.0468273	normal gene
+PAXIP1	KIF15	0.0432299	normal gene
+PAXIP1	L1CAM	0.0433198	normal gene
+PAXIP1	LST1	0.0468802	normal gene
+PAXIP1	NUF2	0.0428414	normal gene
+PAXIP1	PRC1	0.0433551	normal gene
+PAXIP1	PSRC1	0.0461698	normal gene
+PAXIP1	TCERG1	0.0509007	transcription factor
+PAXIP1	USP1	0.0451023	normal gene

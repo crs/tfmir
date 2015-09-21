@@ -1,0 +1,5 @@
+CRIP2	ATP2B4	0.0456518	normal gene
+CRIP2	COL4A1	0.044588	normal gene
+CRIP2	CTNNA1	0.046202	normal gene
+CRIP2	IGFBP7	0.0441398	normal gene
+CRIP2	PTRF	0.0491277	normal gene

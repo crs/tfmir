@@ -1,0 +1,12 @@
+MEX3D	ABL1	0.0432408	normal gene
+MEX3D	ALPK1	0.0435017	normal gene
+MEX3D	DBN1	0.0452741	normal gene
+MEX3D	KDELR1	0.0469151	normal gene
+MEX3D	NELF	0.0453137	normal gene
+MEX3D	PSRC1	0.0447431	normal gene
+MEX3D	RNF26	0.0430134	normal gene
+MEX3D	SMARCA4	0.0437828	transcription factor
+MEX3D	SMARCC1	0.047079	transcription factor
+MEX3D	TRAF4	0.0450775	transcription factor
+MEX3D	TUBB	0.0455617	normal gene
+MEX3D	UBASH3B	0.045721	normal gene

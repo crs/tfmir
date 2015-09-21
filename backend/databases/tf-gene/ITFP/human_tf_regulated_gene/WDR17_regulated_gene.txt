@@ -1,0 +1,1 @@
+WDR17	C4orf21	0.0427946	normal gene

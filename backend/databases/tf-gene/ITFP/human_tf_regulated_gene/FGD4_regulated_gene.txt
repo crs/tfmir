@@ -1,0 +1,3 @@
+FGD4	ASXL2	0.0436483	normal gene
+FGD4	CFLAR	0.0441817	transcription factor
+FGD4	SEPT10	0.044195	normal gene

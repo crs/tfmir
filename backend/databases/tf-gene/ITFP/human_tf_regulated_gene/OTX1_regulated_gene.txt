@@ -1,0 +1,12 @@
+OTX1	ACRV1	0.0478896	normal gene
+OTX1	APOBEC4	0.044419	normal gene
+OTX1	C1orf190	0.0482764	normal gene
+OTX1	CACNG6	0.0457469	normal gene
+OTX1	CNR2	0.0473128	normal gene
+OTX1	E2F4	0.0485574	transcription factor
+OTX1	HTR3A	0.0442192	normal gene
+OTX1	IFLTD1	0.044559	normal gene
+OTX1	KLHDC4	0.0431696	transcription factor
+OTX1	NECAP1	0.050732	normal gene
+OTX1	NLRP1	0.0451463	transcription factor
+OTX1	TCF20	0.0479086	transcription factor

@@ -1,0 +1,13 @@
+PSMD6	BXDC5	0.0505741	normal gene
+PSMD6	GLRX3	0.0457642	normal gene
+PSMD6	GTF3C3	0.0438756	transcription factor
+PSMD6	LARS2	0.0427824	normal gene
+PSMD6	ME2	0.046997	normal gene
+PSMD6	MRPL39	0.0523848	normal gene
+PSMD6	PSMA1	0.05186	normal gene
+PSMD6	PSMA5	0.051349	normal gene
+PSMD6	PSMB7	0.0473909	normal gene
+PSMD6	PSMC2	0.0462843	normal gene
+PSMD6	PSME3	0.0471971	normal gene
+PSMD6	RBM28	0.0477464	transcription factor
+PSMD6	UTP11L	0.0559936	normal gene

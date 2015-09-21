@@ -1,0 +1,5 @@
+WDR75	EIF3M	0.04463	transcription factor
+WDR75	ESF1	0.0434171	normal gene
+WDR75	NIP7	0.043031	normal gene
+WDR75	PNO1	0.0428942	transcription factor
+WDR75	SSB	0.0448544	transcription factor

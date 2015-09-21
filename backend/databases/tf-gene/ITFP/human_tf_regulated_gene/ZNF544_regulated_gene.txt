@@ -1,0 +1,6 @@
+ZNF544	C9orf79	0.0447632	normal gene
+ZNF544	EIF6	0.043649	normal gene
+ZNF544	ITPKB	0.0446625	normal gene
+ZNF544	MIER2	0.0430169	normal gene
+ZNF544	NA	0.0448341	normal gene
+ZNF544	STX5	0.044998	normal gene

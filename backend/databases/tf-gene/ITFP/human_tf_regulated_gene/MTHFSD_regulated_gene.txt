@@ -1,0 +1,2 @@
+MTHFSD	CRKRS	0.0453308	normal gene
+MTHFSD	SPAG5	0.0434243	normal gene

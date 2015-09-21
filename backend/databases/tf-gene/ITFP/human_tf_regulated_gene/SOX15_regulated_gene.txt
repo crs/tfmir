@@ -1,0 +1,4 @@
+SOX15	ATOH8	0.0440212	normal gene
+SOX15	E2F4	0.0433051	transcription factor
+SOX15	LIMD1	0.0429808	transcription factor
+SOX15	MGAT5	0.0448507	normal gene

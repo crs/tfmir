@@ -1,0 +1,2 @@
+TTC16	DMPK	0.0440505	normal gene
+TTC16	ZNF771	0.0474971	transcription factor

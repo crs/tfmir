@@ -1,0 +1,3 @@
+ZEB2	ANKRD44	0.0448878	transcription factor
+ZEB2	CUGBP2	0.045299	transcription factor
+ZEB2	FCGR2A	0.0436208	normal gene

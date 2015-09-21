@@ -1,0 +1,3 @@
+LARP7	B3GALNT2	0.0431523	normal gene
+LARP7	ELF2	0.0450419	transcription factor
+LARP7	KLHL8	0.0450906	transcription factor

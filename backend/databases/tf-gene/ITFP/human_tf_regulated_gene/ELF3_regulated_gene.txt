@@ -1,0 +1,14 @@
+ELF3	AGR2	0.0496809	normal gene
+ELF3	AP1M2	0.0476458	normal gene
+ELF3	C19orf21	0.0480329	normal gene
+ELF3	CLDN4	0.0465061	normal gene
+ELF3	CLDN7	0.0491781	normal gene
+ELF3	DENND1C	0.0440746	normal gene
+ELF3	GRB7	0.0445119	transcription factor
+ELF3	KRT8	0.0444615	transcription factor
+ELF3	MUC1	0.043959	normal gene
+ELF3	PRSS8	0.0465646	normal gene
+ELF3	SCNN1A	0.0482845	normal gene
+ELF3	SLPI	0.0441145	normal gene
+ELF3	TACSTD1	0.0430519	transcription factor
+ELF3	TSPAN1	0.0434945	normal gene

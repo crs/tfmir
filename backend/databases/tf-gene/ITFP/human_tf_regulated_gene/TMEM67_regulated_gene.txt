@@ -1,0 +1,1 @@
+TMEM67	TIA1	0.0505295	transcription factor

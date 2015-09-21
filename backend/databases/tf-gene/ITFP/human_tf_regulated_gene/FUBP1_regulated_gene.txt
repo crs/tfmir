@@ -1,0 +1,16 @@
+FUBP1	ANAPC5	0.0452164	transcription factor
+FUBP1	CCT5	0.052472	normal gene
+FUBP1	CD244	0.0514422	normal gene
+FUBP1	CSNK1A1	0.0545284	normal gene
+FUBP1	FAM36A	0.0449042	normal gene
+FUBP1	METTL3	0.0442203	normal gene
+FUBP1	NAT13	0.0445766	transcription factor
+FUBP1	NME1-NME2	0.0444469	normal gene
+FUBP1	NR1H2	0.0454812	transcription factor
+FUBP1	RBM39	0.0454641	transcription factor
+FUBP1	SNRPF	0.0473022	normal gene
+FUBP1	TOP2B	0.0476926	normal gene
+FUBP1	UBE2D3	0.04411	normal gene
+FUBP1	UBR5	0.0467857	normal gene
+FUBP1	ZNF207	0.0444414	transcription factor
+FUBP1	ZRANB2	0.0481827	normal gene

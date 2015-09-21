@@ -1,0 +1,14 @@
+RBM39	ACTR1A	0.0442239	normal gene
+RBM39	CD244	0.045437	normal gene
+RBM39	CPSF1	0.0450643	transcription factor
+RBM39	CPSF6	0.0458366	transcription factor
+RBM39	FNBP1	0.0436887	normal gene
+RBM39	FUBP1	0.0454641	transcription factor
+RBM39	GNAS	0.0445936	normal gene
+RBM39	NME1-NME2	0.0502154	normal gene
+RBM39	PCBP2	0.0471155	transcription factor
+RBM39	PLEKHM2	0.0463491	transcription factor
+RBM39	SDCCAG1	0.0429528	normal gene
+RBM39	SENP6	0.0504088	normal gene
+RBM39	SEPT13	0.0464443	normal gene
+RBM39	SFPQ	0.0523827	transcription factor

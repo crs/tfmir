@@ -1,0 +1,2 @@
+ARID4A	PTGER3	0.0457918	normal gene
+ARID4A	RBM38	0.0458168	transcription factor

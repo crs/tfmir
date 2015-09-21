@@ -1,0 +1,12 @@
+GNB1L	BRRN1	0.0463732	normal gene
+GNB1L	BUB3	0.0445261	transcription factor
+GNB1L	C16orf59	0.0460513	normal gene
+GNB1L	DDX31	0.0438479	transcription factor
+GNB1L	EIF2S2	0.0454465	normal gene
+GNB1L	EXOSC2	0.0433813	normal gene
+GNB1L	IDH3B	0.0443943	normal gene
+GNB1L	NOC4L	0.0442806	transcription factor
+GNB1L	SNRPA1	0.0484812	normal gene
+GNB1L	SYNCRIP	0.0433896	transcription factor
+GNB1L	WDR18	0.0431018	transcription factor
+GNB1L	YRDC	0.0433099	normal gene

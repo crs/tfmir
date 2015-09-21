@@ -1,0 +1,11 @@
+PLAA	APC	0.0450478	transcription factor
+PLAA	C12orf35	0.0429578	normal gene
+PLAA	C3orf23	0.0436141	normal gene
+PLAA	CREM	0.0452442	transcription factor
+PLAA	FH	0.0432246	normal gene
+PLAA	GFM2	0.0446916	normal gene
+PLAA	ME2	0.045346	normal gene
+PLAA	SLAIN2	0.0459602	normal gene
+PLAA	SNX13	0.0450542	normal gene
+PLAA	ZDHHC21	0.0441575	normal gene
+PLAA	ZNF252	0.0455168	normal gene

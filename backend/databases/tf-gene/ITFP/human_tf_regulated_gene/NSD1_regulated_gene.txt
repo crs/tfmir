@@ -1,0 +1,3 @@
+NSD1	DLEU2	0.0440355	normal gene
+NSD1	LINS1	0.0437357	normal gene
+NSD1	SSH2	0.0447315	normal gene

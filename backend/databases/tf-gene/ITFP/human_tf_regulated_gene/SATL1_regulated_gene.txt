@@ -1,0 +1,4 @@
+SATL1	C5orf22	0.0466247	normal gene
+SATL1	EXOC6	0.0469488	normal gene
+SATL1	FH	0.0514439	normal gene
+SATL1	PTPN11	0.0478	normal gene

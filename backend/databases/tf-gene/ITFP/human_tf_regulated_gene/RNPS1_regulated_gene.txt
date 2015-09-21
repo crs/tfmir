@@ -1,0 +1,6 @@
+RNPS1	DDX11	0.0450718	transcription factor
+RNPS1	DDX12	0.0438146	transcription factor
+RNPS1	EIF3B	0.0482821	normal gene
+RNPS1	ILF3	0.0436429	transcription factor
+RNPS1	NAT10	0.0428576	transcription factor
+RNPS1	TSEN54	0.0443562	normal gene

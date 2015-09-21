@@ -1,0 +1,4 @@
+SIN3B	ATE1	0.043016	normal gene
+SIN3B	DMN	0.0456329	normal gene
+SIN3B	GABBR2	0.0441997	normal gene
+SIN3B	SGSM2	0.0453575	normal gene

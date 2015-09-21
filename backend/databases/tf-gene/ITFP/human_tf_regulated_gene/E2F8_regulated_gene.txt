@@ -1,0 +1,16 @@
+E2F8	AURKA	0.0455497	normal gene
+E2F8	C11orf73	0.0464762	normal gene
+E2F8	C15orf23	0.0474022	normal gene
+E2F8	C2orf49	0.0456567	normal gene
+E2F8	CCDC21	0.0454816	normal gene
+E2F8	CDCA7	0.0431828	normal gene
+E2F8	CDKN3	0.045032	normal gene
+E2F8	CHAC2	0.044529	normal gene
+E2F8	DHFR	0.0475125	normal gene
+E2F8	KIAA0101	0.0479673	normal gene
+E2F8	LSM5	0.0450905	normal gene
+E2F8	OIP5	0.0520166	normal gene
+E2F8	RAD51	0.0436215	normal gene
+E2F8	RINT1	0.0429856	normal gene
+E2F8	UBE2T	0.0482121	normal gene
+E2F8	WDHD1	0.0448451	transcription factor

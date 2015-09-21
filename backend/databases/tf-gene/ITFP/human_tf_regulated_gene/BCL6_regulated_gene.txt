@@ -1,0 +1,1 @@
+BCL6	C17orf45	0.046119	normal gene

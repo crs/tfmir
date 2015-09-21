@@ -1,0 +1,1 @@
+ZNF238	EIF6	0.044203	normal gene

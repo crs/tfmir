@@ -1,0 +1,2 @@
+OTX2	GOLIM4	0.0438946	normal gene
+OTX2	MAP3K10	0.0436846	normal gene

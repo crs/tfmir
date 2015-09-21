@@ -1,0 +1,13 @@
+PARP10	C17orf27	0.0466047	normal gene
+PARP10	C22orf16	0.0438134	normal gene
+PARP10	C2orf61	0.045755	normal gene
+PARP10	CCNB2	0.0431711	transcription factor
+PARP10	DTX3L	0.0440265	transcription factor
+PARP10	MAPK11	0.0449189	normal gene
+PARP10	NDOR1	0.0430216	normal gene
+PARP10	NPAS4	0.042785	transcription factor
+PARP10	PARP14	0.0451205	transcription factor
+PARP10	RIMBP2	0.0428129	normal gene
+PARP10	TMCC1	0.0429194	normal gene
+PARP10	TRIM7	0.043194	transcription factor
+PARP10	ZAN	0.0431645	normal gene

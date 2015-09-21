@@ -1,0 +1,2 @@
+PLEKHJ1	BCS1L	0.0431055	normal gene
+PLEKHJ1	WBSCR16	0.0436125	normal gene

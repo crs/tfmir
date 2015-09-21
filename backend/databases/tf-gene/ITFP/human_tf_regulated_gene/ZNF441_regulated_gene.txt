@@ -1,0 +1,9 @@
+ZNF441	ASB10	0.0463697	transcription factor
+ZNF441	C15orf55	0.0439528	normal gene
+ZNF441	EEF1G	0.0452885	transcription factor
+ZNF441	GPR153	0.043674	normal gene
+ZNF441	LRRC43	0.0432252	normal gene
+ZNF441	ME2	0.0443643	normal gene
+ZNF441	OBP2A	0.0453719	normal gene
+ZNF441	TMEM77	0.043626	normal gene
+ZNF441	UBE2B	0.0432334	normal gene

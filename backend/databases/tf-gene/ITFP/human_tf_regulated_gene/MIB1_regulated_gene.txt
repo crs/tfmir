@@ -1,0 +1,14 @@
+MIB1	ASCC3	0.0432061	transcription factor
+MIB1	C10orf18	0.043529	normal gene
+MIB1	C6orf62	0.043883	normal gene
+MIB1	CBX3	0.0457336	normal gene
+MIB1	CCDC138	0.0433704	normal gene
+MIB1	ECT2	0.0473286	transcription factor
+MIB1	FBXO5	0.0432971	transcription factor
+MIB1	FN1	0.0441477	normal gene
+MIB1	KIF2A	0.042784	normal gene
+MIB1	MRPL44	0.0436255	transcription factor
+MIB1	MTF2	0.0430466	transcription factor
+MIB1	SAMD4B	0.0444506	transcription factor
+MIB1	UBA6	0.0482266	normal gene
+MIB1	XPOT	0.0441937	normal gene

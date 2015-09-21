@@ -1,0 +1,3 @@
+SHC3	DRAP1	0.0444447	transcription factor
+SHC3	FCGRT	0.0452697	normal gene
+SHC3	RNGTT	0.0467726	transcription factor

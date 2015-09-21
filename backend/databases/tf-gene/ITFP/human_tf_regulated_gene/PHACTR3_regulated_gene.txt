@@ -1,0 +1,1 @@
+PHACTR3	KCNH7	0.042969	normal gene

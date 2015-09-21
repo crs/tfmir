@@ -1,0 +1,2 @@
+KLHL22	C22orf16	0.0434504	normal gene
+KLHL22	ZNF763	0.0442729	normal gene

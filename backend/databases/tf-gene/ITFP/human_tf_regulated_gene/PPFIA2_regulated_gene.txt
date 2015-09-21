@@ -1,0 +1,3 @@
+PPFIA2	KRTAP3-1	0.046316	normal gene
+PPFIA2	SNTG1	0.0445967	transcription factor
+PPFIA2	ZNF785	0.0431284	normal gene

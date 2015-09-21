@@ -1,0 +1,5 @@
+AAAS	ACSF3	0.0431869	normal gene
+AAAS	APRT	0.0458595	normal gene
+AAAS	C12orf52	0.043794	normal gene
+AAAS	FBXL19	0.0442063	transcription factor
+AAAS	G6PC3	0.0466908	normal gene

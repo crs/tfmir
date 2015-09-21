@@ -1,0 +1,16 @@
+WIZ	ADRBK1	0.0481276	normal gene
+WIZ	ARHGDIA	0.046073	normal gene
+WIZ	B9D2	0.043537	normal gene
+WIZ	BTBD2	0.046102	normal gene
+WIZ	CCDC108	0.0430535	normal gene
+WIZ	CRYBB3	0.0428452	normal gene
+WIZ	DBN1	0.047984	normal gene
+WIZ	FAM100A	0.044474	normal gene
+WIZ	HGS	0.0472724	transcription factor
+WIZ	SMOX	0.0459573	normal gene
+WIZ	SORBS3	0.0464308	normal gene
+WIZ	STRN4	0.0430693	transcription factor
+WIZ	SUSD3	0.0447473	normal gene
+WIZ	TAOK3	0.0466166	normal gene
+WIZ	UBA1	0.0444718	normal gene
+WIZ	ZDHHC8	0.0565942	normal gene

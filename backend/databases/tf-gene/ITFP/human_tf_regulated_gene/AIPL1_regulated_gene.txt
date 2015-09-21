@@ -1,0 +1,4 @@
+AIPL1	ASB10	0.0469987	transcription factor
+AIPL1	GRK5	0.0443785	normal gene
+AIPL1	KCNK16	0.0450852	normal gene
+AIPL1	ZNF763	0.0479154	normal gene

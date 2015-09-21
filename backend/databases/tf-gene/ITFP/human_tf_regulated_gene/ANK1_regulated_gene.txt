@@ -1,0 +1,11 @@
+ANK1	ARSD	0.0438256	normal gene
+ANK1	C20orf151	0.0427854	normal gene
+ANK1	CLYBL	0.0455045	normal gene
+ANK1	DCLK2	0.043339	normal gene
+ANK1	HMCN2	0.0433726	normal gene
+ANK1	HTR7	0.0432883	normal gene
+ANK1	ITPKB	0.046612	normal gene
+ANK1	KRT83	0.0443711	normal gene
+ANK1	MBD6	0.0460694	transcription factor
+ANK1	MYO18A	0.0450579	normal gene
+ANK1	WDR90	0.0442104	normal gene

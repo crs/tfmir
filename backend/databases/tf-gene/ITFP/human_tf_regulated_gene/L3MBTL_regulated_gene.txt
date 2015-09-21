@@ -1,0 +1,9 @@
+L3MBTL	LENG3	0.0429854	normal gene
+L3MBTL	MAK	0.0471045	normal gene
+L3MBTL	MUPCDH	0.0446938	normal gene
+L3MBTL	ROCK1	0.044362	normal gene
+L3MBTL	SCT	0.0430281	transcription factor
+L3MBTL	SLC39A5	0.0441684	normal gene
+L3MBTL	TMCC1	0.0434265	normal gene
+L3MBTL	TMEM132A	0.0437901	normal gene
+L3MBTL	TTC28	0.0454528	transcription factor

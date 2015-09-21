@@ -1,0 +1,2 @@
+ANKRD23	SRGAP2	0.044413	normal gene
+ANKRD23	ZNF493	0.0453367	transcription factor

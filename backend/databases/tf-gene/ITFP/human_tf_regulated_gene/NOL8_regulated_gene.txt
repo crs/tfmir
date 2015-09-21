@@ -1,0 +1,4 @@
+NOL8	MKI67IP	0.0429496	transcription factor
+NOL8	MRE11A	0.0433424	normal gene
+NOL8	TOPBP1	0.0437642	transcription factor
+NOL8	VRK1	0.043093	normal gene

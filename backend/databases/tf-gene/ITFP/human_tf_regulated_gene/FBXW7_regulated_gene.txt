@@ -1,0 +1,5 @@
+FBXW7	CUL3	0.0433328	transcription factor
+FBXW7	GANAB	0.0471932	normal gene
+FBXW7	HS1BP3	0.0432345	normal gene
+FBXW7	TMEM179B	0.0479607	normal gene
+FBXW7	USP46	0.0443559	normal gene

@@ -1,0 +1,15 @@
+COPS7B	C1orf159	0.0433056	normal gene
+COPS7B	CAD	0.0428759	normal gene
+COPS7B	CPSF1	0.046933	transcription factor
+COPS7B	FARSA	0.0434439	normal gene
+COPS7B	KIFC1	0.0450787	normal gene
+COPS7B	LIG1	0.0443468	transcription factor
+COPS7B	PDCD11	0.0452327	transcription factor
+COPS7B	POLR2G	0.0445242	transcription factor
+COPS7B	PTBP1	0.0433557	transcription factor
+COPS7B	SF3B2	0.048413	transcription factor
+COPS7B	SNAPC4	0.0436344	transcription factor
+COPS7B	TMEM103	0.043349	normal gene
+COPS7B	TRAF4	0.0430744	transcription factor
+COPS7B	TSEN54	0.0441347	normal gene
+COPS7B	WDR90	0.0431358	normal gene

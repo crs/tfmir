@@ -1,0 +1,9 @@
+KLHDC9	AZI2	0.0437291	normal gene
+KLHDC9	BBS1	0.0468112	normal gene
+KLHDC9	CCDC75	0.0435119	normal gene
+KLHDC9	GNB4	0.0434069	transcription factor
+KLHDC9	MCF2L	0.0449975	normal gene
+KLHDC9	NBN	0.0454706	transcription factor
+KLHDC9	PAK2	0.0476491	normal gene
+KLHDC9	SPSB3	0.0511004	normal gene
+KLHDC9	ZCCHC7	0.0456878	transcription factor

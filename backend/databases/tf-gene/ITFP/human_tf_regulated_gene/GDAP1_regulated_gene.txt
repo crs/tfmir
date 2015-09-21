@@ -1,0 +1,5 @@
+GDAP1	CCT2	0.0432858	normal gene
+GDAP1	DHX35	0.049171	transcription factor
+GDAP1	SENP1	0.0432996	normal gene
+GDAP1	TRRAP	0.0445146	normal gene
+GDAP1	YWHAZ	0.043112	normal gene

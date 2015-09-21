@@ -1,0 +1,2 @@
+ZNF589	RBBP4	0.0444652	transcription factor
+ZNF589	RBM14	0.0431168	transcription factor

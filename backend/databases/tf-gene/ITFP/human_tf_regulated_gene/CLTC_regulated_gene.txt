@@ -1,0 +1,5 @@
+CLTC	GRLF1	0.0445483	normal gene
+CLTC	OR7E104P	0.0431844	normal gene
+CLTC	PIK3CA	0.0449618	normal gene
+CLTC	PSIP1	0.0478199	transcription factor
+CLTC	USP34	0.0455302	normal gene

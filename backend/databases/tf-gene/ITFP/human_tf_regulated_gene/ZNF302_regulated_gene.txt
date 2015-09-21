@@ -1,0 +1,12 @@
+ZNF302	CEP68	0.0436556	normal gene
+ZNF302	CSNK1D	0.0466217	normal gene
+ZNF302	EIF4E2	0.0435504	normal gene
+ZNF302	KLHDC1	0.047197	transcription factor
+ZNF302	RALGPS1	0.0459886	normal gene
+ZNF302	RCOR3	0.045916	transcription factor
+ZNF302	SPTLC2	0.0452914	normal gene
+ZNF302	TIMM17A	0.0457337	normal gene
+ZNF302	UBR2	0.0449552	normal gene
+ZNF302	ZNF25	0.0430442	transcription factor
+ZNF302	ZNF364	0.0440982	transcription factor
+ZNF302	ZNF84	0.0463258	transcription factor

@@ -1,0 +1,10 @@
+BLM	C13orf3	0.0440491	normal gene
+BLM	CDCA2	0.0522967	normal gene
+BLM	CHEK1	0.0452258	normal gene
+BLM	CSNK1G1	0.0462986	normal gene
+BLM	DTL	0.0447167	transcription factor
+BLM	FANCI	0.0484524	normal gene
+BLM	GSG2	0.0449413	normal gene
+BLM	KIF15	0.0507465	normal gene
+BLM	MKI67	0.0467168	normal gene
+BLM	PRIM1	0.0436976	normal gene

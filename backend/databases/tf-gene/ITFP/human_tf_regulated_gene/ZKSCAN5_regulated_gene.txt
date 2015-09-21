@@ -1,0 +1,6 @@
+ZKSCAN5	CKAP5	0.0428906	transcription factor
+ZKSCAN5	DIS3	0.0442955	normal gene
+ZKSCAN5	FAM29A	0.0477001	normal gene
+ZKSCAN5	MSH6	0.0431962	transcription factor
+ZKSCAN5	NUP160	0.0439624	normal gene
+ZKSCAN5	SENP1	0.0460509	normal gene

@@ -1,0 +1,5 @@
+POGK	ASB10	0.0453273	transcription factor
+POGK	BACH1	0.0437267	transcription factor
+POGK	C15orf55	0.0437227	normal gene
+POGK	CALCA	0.0462099	normal gene
+POGK	NA	0.0445532	normal gene

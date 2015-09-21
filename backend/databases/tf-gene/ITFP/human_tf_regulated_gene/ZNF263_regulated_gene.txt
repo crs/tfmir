@@ -1,0 +1,1 @@
+ZNF263	HNRNPC	0.0442298	normal gene

@@ -1,0 +1,8 @@
+C2orf44	AURKA	0.0460096	normal gene
+C2orf44	C9orf40	0.0427778	normal gene
+C2orf44	GINS1	0.0439729	normal gene
+C2orf44	KIF11	0.0428862	normal gene
+C2orf44	MCM4	0.0437611	transcription factor
+C2orf44	PPAT	0.048678	normal gene
+C2orf44	RFC4	0.0428025	transcription factor
+C2orf44	SEC16A	0.0471257	normal gene

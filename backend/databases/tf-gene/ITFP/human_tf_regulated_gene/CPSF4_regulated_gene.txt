@@ -1,0 +1,3 @@
+CPSF4	EIF3B	0.0428723	normal gene
+CPSF4	ILF3	0.0440344	transcription factor
+CPSF4	WDR79	0.0452585	transcription factor

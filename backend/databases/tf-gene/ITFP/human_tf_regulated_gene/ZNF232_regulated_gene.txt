@@ -1,0 +1,8 @@
+ZNF232	ADSL	0.0428162	normal gene
+ZNF232	BOLA3	0.0430912	normal gene
+ZNF232	C12orf52	0.0478125	normal gene
+ZNF232	C14orf2	0.0478579	normal gene
+ZNF232	C8orf38	0.0444146	normal gene
+ZNF232	COQ3	0.0433448	normal gene
+ZNF232	MRPL11	0.0435224	normal gene
+ZNF232	NDUFB6	0.0481608	normal gene

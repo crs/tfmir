@@ -1,0 +1,5 @@
+CLOCK	ANK3	0.043634	transcription factor
+CLOCK	C9orf5	0.0484389	normal gene
+CLOCK	PURA	0.0431422	normal gene
+CLOCK	TMEM165	0.0630375	normal gene
+CLOCK	VPS24	0.0502312	normal gene

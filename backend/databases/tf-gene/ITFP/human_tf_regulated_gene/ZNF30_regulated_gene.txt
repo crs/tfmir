@@ -1,0 +1,2 @@
+ZNF30	ABHD1	0.0428759	normal gene
+ZNF30	APOBEC4	0.0442454	normal gene

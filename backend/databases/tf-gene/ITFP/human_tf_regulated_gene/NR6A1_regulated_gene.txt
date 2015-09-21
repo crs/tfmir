@@ -1,0 +1,10 @@
+NR6A1	ASB10	0.0482814	transcription factor
+NR6A1	BACH1	0.0435344	transcription factor
+NR6A1	C1orf127	0.0435672	normal gene
+NR6A1	NKX1-1	0.0473154	normal gene
+NR6A1	PLG	0.0460333	normal gene
+NR6A1	SLC25A28	0.0432109	normal gene
+NR6A1	THEG	0.0430672	normal gene
+NR6A1	TRIM10	0.0434387	transcription factor
+NR6A1	TSSK3	0.0437567	normal gene
+NR6A1	ZNF804B	0.044583	transcription factor

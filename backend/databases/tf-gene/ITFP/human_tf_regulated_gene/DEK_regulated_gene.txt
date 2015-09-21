@@ -1,0 +1,3 @@
+DEK	HMGB2	0.0473535	transcription factor
+DEK	RIF1	0.0429456	normal gene
+DEK	ZNF367	0.044589	transcription factor

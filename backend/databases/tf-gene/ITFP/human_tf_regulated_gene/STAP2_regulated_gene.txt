@@ -1,0 +1,6 @@
+STAP2	CYB561	0.045183	normal gene
+STAP2	FAM83H	0.04559	normal gene
+STAP2	MYO5B	0.0450226	normal gene
+STAP2	PRSS8	0.0434173	normal gene
+STAP2	SDC1	0.0446886	normal gene
+STAP2	TACSTD2	0.0452231	transcription factor

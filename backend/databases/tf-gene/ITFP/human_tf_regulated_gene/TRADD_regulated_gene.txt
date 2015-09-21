@@ -1,0 +1,8 @@
+TRADD	ARPC4	0.0427824	normal gene
+TRADD	ATF7	0.0438063	transcription factor
+TRADD	CENTD2	0.0484934	transcription factor
+TRADD	HSF2	0.0429352	transcription factor
+TRADD	NAGK	0.0449905	normal gene
+TRADD	PHF11	0.0470396	transcription factor
+TRADD	RNF135	0.0469361	normal gene
+TRADD	TMCO4	0.0476657	normal gene

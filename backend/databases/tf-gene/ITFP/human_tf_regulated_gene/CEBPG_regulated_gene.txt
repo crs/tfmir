@@ -1,0 +1,1 @@
+CEBPG	C10orf119	0.0442478	normal gene

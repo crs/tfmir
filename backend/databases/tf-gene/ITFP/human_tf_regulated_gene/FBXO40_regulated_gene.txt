@@ -1,0 +1,9 @@
+FBXO40	CALCOCO2	0.0432518	normal gene
+FBXO40	LDB3	0.0542611	transcription factor
+FBXO40	MYH7	0.0431437	normal gene
+FBXO40	NRAP	0.0506585	transcription factor
+FBXO40	SGCA	0.0511614	normal gene
+FBXO40	SRL	0.0527424	normal gene
+FBXO40	SYNPO2L	0.0473241	normal gene
+FBXO40	TNNI1	0.051609	normal gene
+FBXO40	ZWILCH	0.0429606	normal gene

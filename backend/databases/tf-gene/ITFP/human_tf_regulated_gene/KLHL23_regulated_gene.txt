@@ -1,0 +1,5 @@
+KLHL23	ASPHD1	0.0454467	normal gene
+KLHL23	RFX3	0.0432329	transcription factor
+KLHL23	TAS2R49	0.0460265	normal gene
+KLHL23	TMEM97	0.0431464	normal gene
+KLHL23	UBA2	0.0444448	normal gene

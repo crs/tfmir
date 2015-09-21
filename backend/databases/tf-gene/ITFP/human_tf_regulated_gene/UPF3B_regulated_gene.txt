@@ -1,0 +1,2 @@
+UPF3B	DNA2	0.0444729	normal gene
+UPF3B	TRIOBP	0.0446371	transcription factor

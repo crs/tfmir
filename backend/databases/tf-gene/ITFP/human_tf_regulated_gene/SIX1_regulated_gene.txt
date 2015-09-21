@@ -1,0 +1,10 @@
+SIX1	CRYBB3	0.047111	normal gene
+SIX1	ENTPD2	0.043029	normal gene
+SIX1	GDF2	0.0434834	transcription factor
+SIX1	KCNQ2	0.0430146	normal gene
+SIX1	LDLR	0.0428322	normal gene
+SIX1	NA	0.0431142	normal gene
+SIX1	NPAS4	0.042909	transcription factor
+SIX1	RTKN	0.0435981	transcription factor
+SIX1	SEMA5A	0.0435748	normal gene
+SIX1	SUSD3	0.0438613	normal gene

@@ -1,0 +1,2 @@
+HIST1H2BK	H2BFS	0.0627633	transcription factor
+HIST1H2BK	HIST2H2AA3	0.0460585	transcription factor

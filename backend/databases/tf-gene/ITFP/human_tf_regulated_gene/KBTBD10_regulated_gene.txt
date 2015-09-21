@@ -1,0 +1,3 @@
+KBTBD10	ACTN2	0.0511231	normal gene
+KBTBD10	NA	0.0470527	normal gene
+KBTBD10	SLC35D3	0.0445847	normal gene

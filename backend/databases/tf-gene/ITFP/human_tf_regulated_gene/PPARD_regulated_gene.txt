@@ -1,0 +1,2 @@
+PPARD	FANCD2	0.0447564	normal gene
+PPARD	PLAGL2	0.0431198	transcription factor

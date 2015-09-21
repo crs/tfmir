@@ -1,0 +1,10 @@
+ZNF554	ALPI	0.0436148	normal gene
+ZNF554	CAPZB	0.0429515	normal gene
+ZNF554	HLA-DOA	0.0453483	normal gene
+ZNF554	KCTD17	0.0429492	normal gene
+ZNF554	LZTS1	0.0440363	normal gene
+ZNF554	SPRN	0.0443093	normal gene
+ZNF554	TMEM30B	0.0437335	normal gene
+ZNF554	TUBGCP6	0.0470061	normal gene
+ZNF554	ZNF414	0.043088	transcription factor
+ZNF554	ZNF771	0.0460919	transcription factor

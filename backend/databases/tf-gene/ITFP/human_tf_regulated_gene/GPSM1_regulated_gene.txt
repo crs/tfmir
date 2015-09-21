@@ -1,0 +1,9 @@
+GPSM1	C2orf61	0.0468256	normal gene
+GPSM1	DNAH3	0.0452595	normal gene
+GPSM1	KCNC3	0.0428264	normal gene
+GPSM1	MAP2K2	0.0436545	normal gene
+GPSM1	PDE4DIP	0.0434927	normal gene
+GPSM1	TMED10	0.0430476	normal gene
+GPSM1	USH1G	0.0434497	transcription factor
+GPSM1	ZAN	0.04723	normal gene
+GPSM1	ZNF219	0.0433824	transcription factor

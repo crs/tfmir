@@ -1,0 +1,3 @@
+CASP8AP2	C10orf137	0.0458262	normal gene
+CASP8AP2	FANCM	0.0451979	transcription factor
+CASP8AP2	GRIPAP1	0.0431609	normal gene

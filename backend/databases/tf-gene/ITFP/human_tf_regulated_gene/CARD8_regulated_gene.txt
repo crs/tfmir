@@ -1,0 +1,2 @@
+CARD8	BNIP2	0.0448768	normal gene
+CARD8	KIAA1429	0.0462072	normal gene

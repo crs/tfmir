@@ -1,0 +1,3 @@
+ZNF205	DMN	0.0447615	normal gene
+ZNF205	TMCC1	0.0431828	normal gene
+ZNF205	ZNHIT4	0.0430387	normal gene

@@ -1,0 +1,10 @@
+BRD2	ACIN1	0.054015	transcription factor
+BRD2	BAT2	0.0510047	normal gene
+BRD2	BRD4	0.045772	transcription factor
+BRD2	CBX4	0.0475639	normal gene
+BRD2	CHD8	0.0458547	transcription factor
+BRD2	SBF1	0.043444	normal gene
+BRD2	SEMA5A	0.0439982	normal gene
+BRD2	SYMPK	0.0461643	transcription factor
+BRD2	TRIM28	0.0446935	transcription factor
+BRD2	YY1	0.0432386	transcription factor

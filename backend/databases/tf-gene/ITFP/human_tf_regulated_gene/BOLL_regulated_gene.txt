@@ -1,0 +1,6 @@
+BOLL	ALDOB	0.0463802	normal gene
+BOLL	CSMD1	0.0441025	normal gene
+BOLL	EPC1	0.0453364	normal gene
+BOLL	INSL3	0.0478446	normal gene
+BOLL	SOX17	0.0453592	transcription factor
+BOLL	TSHB	0.0427965	normal gene

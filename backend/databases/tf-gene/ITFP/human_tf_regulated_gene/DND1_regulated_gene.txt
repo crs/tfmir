@@ -1,0 +1,16 @@
+DND1	ADRBK1	0.0565105	normal gene
+DND1	ANKRD16	0.0450791	transcription factor
+DND1	C14orf166B	0.0460021	normal gene
+DND1	C19orf61	0.0443968	normal gene
+DND1	C20orf181	0.0485113	normal gene
+DND1	C2orf57	0.0490995	normal gene
+DND1	CARD14	0.0457501	normal gene
+DND1	CRYBB3	0.0443339	normal gene
+DND1	DBF4B	0.0430495	normal gene
+DND1	EIF2S2	0.045467	normal gene
+DND1	MAFG	0.0486157	transcription factor
+DND1	MORN1	0.0454164	normal gene
+DND1	MRPS26	0.0435312	normal gene
+DND1	RAD52	0.0460039	normal gene
+DND1	RNF123	0.0432883	normal gene
+DND1	UNC13D	0.0442625	normal gene

@@ -1,0 +1,15 @@
+ANKRD16	CD2BP2	0.0468502	normal gene
+ANKRD16	DDX31	0.0476208	transcription factor
+ANKRD16	DND1	0.0450791	transcription factor
+ANKRD16	FAM86A	0.0455785	normal gene
+ANKRD16	KLF16	0.0470035	transcription factor
+ANKRD16	MAD2L1	0.0433209	normal gene
+ANKRD16	MCM4	0.0448077	transcription factor
+ANKRD16	NA	0.0451406	normal gene
+ANKRD16	PAICS	0.0486187	normal gene
+ANKRD16	PATZ1	0.0428179	transcription factor
+ANKRD16	RRM1	0.0453059	normal gene
+ANKRD16	WDR59	0.0456593	transcription factor
+ANKRD16	WHSC1	0.0443206	transcription factor
+ANKRD16	ZNF346	0.0434255	transcription factor
+ANKRD16	ZNF446	0.048224	transcription factor

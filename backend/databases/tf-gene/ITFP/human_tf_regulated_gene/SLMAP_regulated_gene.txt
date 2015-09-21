@@ -1,0 +1,14 @@
+SLMAP	CAB39	0.0445437	normal gene
+SLMAP	COPS8	0.048533	normal gene
+SLMAP	CPEB3	0.0449593	transcription factor
+SLMAP	DBT	0.0446894	normal gene
+SLMAP	EEF1A1	0.0482628	normal gene
+SLMAP	FBXW2	0.0470208	transcription factor
+SLMAP	GFM2	0.0429452	normal gene
+SLMAP	HIPK3	0.0449833	normal gene
+SLMAP	HSDL2	0.0433151	normal gene
+SLMAP	NKX1-1	0.0428301	normal gene
+SLMAP	SLAIN2	0.0517143	normal gene
+SLMAP	YAF2	0.049444	normal gene
+SLMAP	ZNF687	0.0453902	transcription factor
+SLMAP	ZNF785	0.0453051	normal gene

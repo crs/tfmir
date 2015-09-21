@@ -1,0 +1,14 @@
+TNRC6A	AP2A1	0.0451145	normal gene
+TNRC6A	BAP1	0.0454889	normal gene
+TNRC6A	GAPDH	0.0433909	normal gene
+TNRC6A	KCNH2	0.0438118	normal gene
+TNRC6A	MCM4	0.0438636	transcription factor
+TNRC6A	MTMR1	0.0433676	normal gene
+TNRC6A	NAP1L4	0.0451128	normal gene
+TNRC6A	PLAUR	0.0463894	normal gene
+TNRC6A	PLXNA3	0.0445286	normal gene
+TNRC6A	SEMA5A	0.0452916	normal gene
+TNRC6A	TNRC6B	0.0472948	transcription factor
+TNRC6A	UBE2D2	0.047486	normal gene
+TNRC6A	WHSC1	0.0450361	transcription factor
+TNRC6A	YWHAE	0.0461967	normal gene

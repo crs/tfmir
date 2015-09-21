@@ -1,0 +1,1 @@
+ZNF80	DOCK5	0.0434167	normal gene

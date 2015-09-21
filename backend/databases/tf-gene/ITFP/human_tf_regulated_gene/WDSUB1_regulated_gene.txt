@@ -1,0 +1,7 @@
+WDSUB1	CRKL	0.0436518	normal gene
+WDSUB1	DRAP1	0.0440856	transcription factor
+WDSUB1	GLRX3	0.0461484	normal gene
+WDSUB1	IRAK1	0.0511348	normal gene
+WDSUB1	LMO7	0.0435904	transcription factor
+WDSUB1	MAPKAP1	0.0428426	normal gene
+WDSUB1	PSME3	0.0441841	normal gene

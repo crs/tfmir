@@ -1,0 +1,4 @@
+PPP1R16B	C13orf15	0.0448558	normal gene
+PPP1R16B	FLI1	0.0428677	transcription factor
+PPP1R16B	PIK3R2	0.0441493	normal gene
+PPP1R16B	SH2D3C	0.0522662	normal gene

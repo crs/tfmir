@@ -1,0 +1,17 @@
+TAF6L	ADRM1	0.0428873	normal gene
+TAF6L	CRKL	0.0449637	normal gene
+TAF6L	DEDD	0.0449013	transcription factor
+TAF6L	GEMIN7	0.044637	normal gene
+TAF6L	GLE1	0.0442908	normal gene
+TAF6L	HSF1	0.0439536	transcription factor
+TAF6L	LCE1E	0.0427875	normal gene
+TAF6L	MCART6	0.0446279	normal gene
+TAF6L	POMGNT1	0.0429032	normal gene
+TAF6L	PPIF	0.0430274	normal gene
+TAF6L	PRIM2	0.0447608	normal gene
+TAF6L	RBM33	0.045679	normal gene
+TAF6L	SPAG17	0.0431225	normal gene
+TAF6L	TTLL11	0.0445608	normal gene
+TAF6L	WNT6	0.0496205	normal gene
+TAF6L	ZAN	0.0430429	normal gene
+TAF6L	ZNF317	0.04461	transcription factor

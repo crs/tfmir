@@ -1,0 +1,12 @@
+TRIM4	BAD	0.0488481	normal gene
+TRIM4	C2orf64	0.0445133	normal gene
+TRIM4	C3orf23	0.0432776	normal gene
+TRIM4	CYP1A2	0.0545361	normal gene
+TRIM4	ERCC8	0.0446538	transcription factor
+TRIM4	MRPS12	0.0448373	transcription factor
+TRIM4	NUDCD2	0.0436533	normal gene
+TRIM4	OCIAD1	0.0552595	normal gene
+TRIM4	PDGFB	0.0455609	normal gene
+TRIM4	PIN1	0.04579	transcription factor
+TRIM4	PPP1R7	0.048206	normal gene
+TRIM4	RECK	0.0573742	normal gene

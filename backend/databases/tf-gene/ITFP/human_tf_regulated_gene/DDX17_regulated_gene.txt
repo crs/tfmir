@@ -1,0 +1,15 @@
+DDX17	DPH3	0.0432296	normal gene
+DDX17	DSCR3	0.0435525	normal gene
+DDX17	GOSR2	0.0486041	normal gene
+DDX17	GSTO1	0.0430336	transcription factor
+DDX17	LACTB	0.0445068	normal gene
+DDX17	MRPS15	0.0435352	normal gene
+DDX17	NEK1	0.0440594	normal gene
+DDX17	POGZ	0.0491077	transcription factor
+DDX17	RBM5	0.0457548	transcription factor
+DDX17	SFPQ	0.0454037	transcription factor
+DDX17	SFRS5	0.0438499	transcription factor
+DDX17	UBXD2	0.0459216	normal gene
+DDX17	VDAC1	0.0432967	normal gene
+DDX17	VPS13B	0.0430168	normal gene
+DDX17	ZNF84	0.0427782	transcription factor

@@ -1,0 +1,1 @@
+TRIM32	GMFG	0.047853	normal gene

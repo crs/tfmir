@@ -1,0 +1,12 @@
+MAFB	CCL8	0.0441157	normal gene
+MAFB	CLEC7A	0.0480445	normal gene
+MAFB	CLIC2	0.0460962	transcription factor
+MAFB	EGR2	0.0429449	transcription factor
+MAFB	FUT8	0.0475205	normal gene
+MAFB	HAVCR2	0.043112	normal gene
+MAFB	PECAM1	0.0482403	normal gene
+MAFB	SLAMF8	0.0431271	normal gene
+MAFB	SSX2IP	0.0457089	normal gene
+MAFB	TNFRSF1B	0.0445793	normal gene
+MAFB	TYROBP	0.0475434	normal gene
+MAFB	YWHAQ	0.0449296	normal gene

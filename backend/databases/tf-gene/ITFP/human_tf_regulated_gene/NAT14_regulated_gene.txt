@@ -1,0 +1,2 @@
+NAT14	PRAF2	0.043307	normal gene
+NAT14	SLC35B2	0.0430922	normal gene

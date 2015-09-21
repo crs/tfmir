@@ -1,0 +1,16 @@
+ZNF318	ANKHD1-EIF4EBP3	0.045512	normal gene
+ZNF318	CAPRIN1	0.0451523	normal gene
+ZNF318	ENO1	0.0452825	normal gene
+ZNF318	ERLIN1	0.0463836	normal gene
+ZNF318	GDI2	0.0473185	normal gene
+ZNF318	GTF3C2	0.0462909	transcription factor
+ZNF318	PTBP1	0.0441926	transcription factor
+ZNF318	RNF26	0.043582	normal gene
+ZNF318	SAE1	0.0452966	normal gene
+ZNF318	SEC61A1	0.0435553	normal gene
+ZNF318	SFRS1	0.0462012	transcription factor
+ZNF318	SLC30A5	0.0453641	normal gene
+ZNF318	TRIM27	0.0443292	transcription factor
+ZNF318	WBP11	0.04292	normal gene
+ZNF318	XPO7	0.0485824	normal gene
+ZNF318	XRN2	0.0491004	transcription factor

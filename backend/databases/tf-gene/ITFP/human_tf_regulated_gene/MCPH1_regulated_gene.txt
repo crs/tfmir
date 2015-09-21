@@ -1,0 +1,10 @@
+MCPH1	C10orf78	0.0430581	normal gene
+MCPH1	C9orf98	0.043204	normal gene
+MCPH1	IGHV3OR16-8	0.0445584	normal gene
+MCPH1	KDR	0.0434222	normal gene
+MCPH1	MCF2L	0.0432022	normal gene
+MCPH1	MMRN2	0.0431406	normal gene
+MCPH1	NUP160	0.0449552	normal gene
+MCPH1	PRIM2	0.0430718	normal gene
+MCPH1	RBL1	0.0436638	transcription factor
+MCPH1	SKP2	0.0436131	normal gene

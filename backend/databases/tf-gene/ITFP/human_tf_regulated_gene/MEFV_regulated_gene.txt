@@ -1,0 +1,3 @@
+MEFV	C1orf181	0.0548301	normal gene
+MEFV	CASP2	0.0468362	transcription factor
+MEFV	CDC5L	0.0480542	transcription factor

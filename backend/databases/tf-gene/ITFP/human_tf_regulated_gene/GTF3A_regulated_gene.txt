@@ -1,0 +1,5 @@
+GTF3A	ATP5F1	0.0518101	normal gene
+GTF3A	ATP5O	0.0462992	normal gene
+GTF3A	COPS5	0.0484025	transcription factor
+GTF3A	MRPL16	0.0440119	normal gene
+GTF3A	TIMM23	0.0451837	normal gene

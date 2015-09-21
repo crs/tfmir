@@ -1,0 +1,7 @@
+TNRC4	AIFM1	0.0481078	normal gene
+TNRC4	C22orf16	0.0470255	normal gene
+TNRC4	C6orf15	0.0435764	normal gene
+TNRC4	KCNG1	0.0448212	normal gene
+TNRC4	LGI2	0.0454994	normal gene
+TNRC4	NXNL1	0.0465734	normal gene
+TNRC4	RNF212	0.0438022	normal gene

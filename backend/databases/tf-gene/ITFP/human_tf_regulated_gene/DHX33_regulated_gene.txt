@@ -1,0 +1,3 @@
+DHX33	CSE1L	0.0428115	normal gene
+DHX33	SUPT16H	0.0429325	transcription factor
+DHX33	XPO5	0.0446046	normal gene

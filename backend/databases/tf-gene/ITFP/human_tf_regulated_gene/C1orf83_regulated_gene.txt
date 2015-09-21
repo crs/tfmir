@@ -1,0 +1,2 @@
+C1orf83	C15orf44	0.0474185	transcription factor
+C1orf83	SNHG4	0.0448272	normal gene

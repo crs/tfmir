@@ -1,0 +1,11 @@
+FOXD3	BLR1	0.0428193	normal gene
+FOXD3	C20orf135	0.0507743	normal gene
+FOXD3	CHST13	0.0434402	normal gene
+FOXD3	HS6ST1	0.0442123	normal gene
+FOXD3	KCNQ2	0.0433252	normal gene
+FOXD3	MYCN	0.0470801	transcription factor
+FOXD3	RDH14	0.0446251	normal gene
+FOXD3	SEMA5A	0.0440585	normal gene
+FOXD3	TMEM30B	0.0446091	normal gene
+FOXD3	TREX2	0.0432294	transcription factor
+FOXD3	TRIM65	0.0458984	transcription factor

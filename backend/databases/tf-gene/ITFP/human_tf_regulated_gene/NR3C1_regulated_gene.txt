@@ -1,0 +1,12 @@
+NR3C1	AGTPBP1	0.0455438	normal gene
+NR3C1	ATP2C1	0.044792	normal gene
+NR3C1	ATXN7	0.0493444	transcription factor
+NR3C1	DMXL1	0.0444632	transcription factor
+NR3C1	FCF1	0.0459636	normal gene
+NR3C1	FOXP1	0.0441305	transcription factor
+NR3C1	HNRPD	0.0429169	transcription factor
+NR3C1	LAMB1	0.0435779	transcription factor
+NR3C1	MBNL1	0.0462212	transcription factor
+NR3C1	NRD1	0.0502246	normal gene
+NR3C1	PIAS1	0.0459672	transcription factor
+NR3C1	PPP3R1	0.0433652	normal gene

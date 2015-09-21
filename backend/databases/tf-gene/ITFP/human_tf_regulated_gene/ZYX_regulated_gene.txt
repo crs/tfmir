@@ -1,0 +1,14 @@
+ZYX	ARHGDIA	0.0505157	normal gene
+ZYX	CDC42BPB	0.042887	normal gene
+ZYX	CENPB	0.0453013	normal gene
+ZYX	FLNA	0.0441758	normal gene
+ZYX	GRINA	0.053767	normal gene
+ZYX	HGS	0.0442857	transcription factor
+ZYX	HIP1	0.0435178	normal gene
+ZYX	MYH9	0.0518077	normal gene
+ZYX	PFN1	0.0445971	normal gene
+ZYX	PPP1R11	0.045577	normal gene
+ZYX	SHC1	0.046514	transcription factor
+ZYX	STRN4	0.0431702	transcription factor
+ZYX	TFE3	0.0479631	transcription factor
+ZYX	TRAPPC1	0.043503	normal gene

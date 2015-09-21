@@ -1,0 +1,3 @@
+CCNL1	ATP11B	0.0439029	normal gene
+CCNL1	CDC42SE2	0.0427809	normal gene
+CCNL1	CENTB2	0.0479948	transcription factor

@@ -1,0 +1,1 @@
+ZNF485	PPA2	0.0432548	normal gene

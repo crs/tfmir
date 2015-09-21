@@ -1,0 +1,2 @@
+SPG7	null	0.0460198	normal gene
+SPG7	SPRYD4	0.043418	normal gene

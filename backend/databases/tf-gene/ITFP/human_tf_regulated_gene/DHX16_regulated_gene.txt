@@ -1,0 +1,5 @@
+DHX16	ADRM1	0.0438184	normal gene
+DHX16	C6orf153	0.0458251	normal gene
+DHX16	GEMIN7	0.0432291	normal gene
+DHX16	POLRMT	0.0448771	normal gene
+DHX16	PSMB2	0.043343	normal gene

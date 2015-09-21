@@ -1,0 +1,7 @@
+SMARCE1	BUD31	0.0447942	normal gene
+SMARCE1	CCT5	0.0441263	normal gene
+SMARCE1	MAGOH	0.043418	normal gene
+SMARCE1	NPM1	0.0460417	normal gene
+SMARCE1	SFRS3	0.0454511	transcription factor
+SMARCE1	SNRPD1	0.0451552	normal gene
+SMARCE1	THOC4	0.044524	transcription factor

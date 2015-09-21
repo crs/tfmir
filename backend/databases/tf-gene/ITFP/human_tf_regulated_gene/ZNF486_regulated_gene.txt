@@ -1,0 +1,2 @@
+ZNF486	ATG16L2	0.0430055	normal gene
+ZNF486	MRPL45	0.0445096	normal gene

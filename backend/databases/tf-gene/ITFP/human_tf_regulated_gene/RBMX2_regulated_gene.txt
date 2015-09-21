@@ -1,0 +1,3 @@
+RBMX2	AURKA	0.0461862	normal gene
+RBMX2	C5orf22	0.0435918	normal gene
+RBMX2	FCGRT	0.0427735	normal gene

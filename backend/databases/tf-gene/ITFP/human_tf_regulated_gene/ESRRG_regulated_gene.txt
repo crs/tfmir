@@ -1,0 +1,7 @@
+ESRRG	KIAA1881	0.043287	normal gene
+ESRRG	NEDD1	0.0433692	transcription factor
+ESRRG	PRIM2	0.0470422	normal gene
+ESRRG	RCAN2	0.0443846	normal gene
+ESRRG	SQLE	0.0457402	normal gene
+ESRRG	SRL	0.0434828	normal gene
+ESRRG	ZCCHC4	0.0428107	normal gene

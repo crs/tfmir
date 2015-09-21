@@ -1,0 +1,5 @@
+H2BFS	HIST1H2BD	0.0449532	transcription factor
+H2BFS	HIST1H2BE	0.0684527	normal gene
+H2BFS	HIST1H2BH	0.0608043	transcription factor
+H2BFS	HIST1H2BK	0.0627633	transcription factor
+H2BFS	HIST2H2AA3	0.0442112	transcription factor

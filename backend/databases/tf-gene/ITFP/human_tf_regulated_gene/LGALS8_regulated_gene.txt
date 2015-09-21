@@ -1,0 +1,5 @@
+LGALS8	HEATR1	0.0475497	transcription factor
+LGALS8	KLHDC4	0.0461868	transcription factor
+LGALS8	PPP2R5D	0.0433088	normal gene
+LGALS8	TMEM161A	0.0433399	normal gene
+LGALS8	ZNF546	0.0455189	transcription factor

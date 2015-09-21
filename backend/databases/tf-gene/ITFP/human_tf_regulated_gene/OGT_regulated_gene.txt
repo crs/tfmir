@@ -1,0 +1,14 @@
+OGT	AMY2B	0.0445515	normal gene
+OGT	C1orf63	0.0446904	normal gene
+OGT	CD244	0.0477751	normal gene
+OGT	CHD2	0.0490181	transcription factor
+OGT	DCP1B	0.0444073	normal gene
+OGT	HNRNPA1	0.0439104	normal gene
+OGT	MBTPS1	0.0433394	normal gene
+OGT	SFRS18	0.0477071	normal gene
+OGT	SFRS5	0.0450407	transcription factor
+OGT	UBE2W	0.0429746	normal gene
+OGT	UBR5	0.0449256	normal gene
+OGT	ZFX	0.0434311	transcription factor
+OGT	ZNF207	0.0434922	transcription factor
+OGT	ZRANB2	0.0433466	normal gene

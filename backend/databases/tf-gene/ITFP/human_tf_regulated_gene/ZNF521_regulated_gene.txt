@@ -1,0 +1,2 @@
+ZNF521	CNRIP1	0.0476925	normal gene
+ZNF521	TCF4	0.0428333	transcription factor

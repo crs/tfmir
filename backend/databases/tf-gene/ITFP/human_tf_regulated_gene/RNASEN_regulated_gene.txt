@@ -1,0 +1,2 @@
+RNASEN	CSE1L	0.0444778	normal gene
+RNASEN	PRIM1	0.0444323	normal gene

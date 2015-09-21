@@ -1,0 +1,5 @@
+ZBTB44	AKAP9	0.0441626	normal gene
+ZBTB44	C4orf21	0.0431766	normal gene
+ZBTB44	CRBN	0.0442906	normal gene
+ZBTB44	PPARA	0.0454158	transcription factor
+ZBTB44	ZNF92	0.0437363	transcription factor

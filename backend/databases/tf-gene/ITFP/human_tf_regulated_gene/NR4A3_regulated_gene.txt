@@ -1,0 +1,8 @@
+NR4A3	ANLN	0.0451296	transcription factor
+NR4A3	CCDC99	0.0433305	normal gene
+NR4A3	CCNA2	0.0458525	transcription factor
+NR4A3	CENPA	0.0441101	transcription factor
+NR4A3	MAD2L1	0.0467864	normal gene
+NR4A3	PSRC1	0.0446431	normal gene
+NR4A3	RFC3	0.0437801	normal gene
+NR4A3	SIP1	0.0441395	normal gene

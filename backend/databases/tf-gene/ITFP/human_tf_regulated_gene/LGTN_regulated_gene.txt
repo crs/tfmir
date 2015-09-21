@@ -1,0 +1,12 @@
+LGTN	ADSL	0.0470369	normal gene
+LGTN	AKR7A2	0.0477155	normal gene
+LGTN	C1orf57	0.0480048	normal gene
+LGTN	LAMB1	0.0487908	transcription factor
+LGTN	LSMD1	0.0434068	normal gene
+LGTN	PRICKLE4	0.0433137	transcription factor
+LGTN	QARS	0.0548731	normal gene
+LGTN	RPL29	0.0495843	normal gene
+LGTN	RPS16	0.0431359	normal gene
+LGTN	RPS5	0.0452599	normal gene
+LGTN	TIMM13	0.0436956	normal gene
+LGTN	TMEM103	0.045355	normal gene

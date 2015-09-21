@@ -1,0 +1,11 @@
+SPI1	ARHGAP25	0.0455602	transcription factor
+SPI1	CD37	0.0434459	normal gene
+SPI1	CD52	0.0490535	normal gene
+SPI1	CTSS	0.0454131	normal gene
+SPI1	FGR	0.0464	normal gene
+SPI1	FMNL1	0.0443381	normal gene
+SPI1	HCST	0.0430095	normal gene
+SPI1	LST1	0.0436924	normal gene
+SPI1	NCF4	0.0434081	normal gene
+SPI1	PTPRC	0.044336	normal gene
+SPI1	SIGLEC10	0.0451019	normal gene

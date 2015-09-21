@@ -1,0 +1,2 @@
+SUZ12	NUP153	0.0430832	normal gene
+SUZ12	SUZ12P	0.0435481	normal gene

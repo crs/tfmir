@@ -1,0 +1,2 @@
+SOX9	C1orf136	0.067096	normal gene
+SOX9	USP9Y	0.0452429	normal gene

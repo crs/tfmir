@@ -1,0 +1,4 @@
+C18orf17	APTX	0.0434068	transcription factor
+C18orf17	BUB3	0.0464428	transcription factor
+C18orf17	EXOSC3	0.0428993	normal gene
+C18orf17	MGAT2	0.043122	normal gene

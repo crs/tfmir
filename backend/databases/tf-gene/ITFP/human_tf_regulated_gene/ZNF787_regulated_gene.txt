@@ -1,0 +1,2 @@
+ZNF787	C3orf47	0.0433797	normal gene
+ZNF787	TBC1D1	0.0437785	transcription factor

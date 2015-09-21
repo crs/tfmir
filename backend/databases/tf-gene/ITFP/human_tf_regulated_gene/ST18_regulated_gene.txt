@@ -1,0 +1,13 @@
+ST18	ABHD1	0.0450409	normal gene
+ST18	ACRV1	0.042814	normal gene
+ST18	ALPI	0.0448942	normal gene
+ST18	DLGAP1	0.0430677	normal gene
+ST18	DNAJB13	0.0433602	normal gene
+ST18	EPOR	0.0453036	normal gene
+ST18	GFPT1	0.0441139	normal gene
+ST18	NECAB1	0.0456586	normal gene
+ST18	NLRP1	0.0447754	transcription factor
+ST18	SEMA6A	0.0431868	normal gene
+ST18	SLC23A3	0.0435839	normal gene
+ST18	TCF20	0.0428756	transcription factor
+ST18	ZFP28	0.0438583	transcription factor

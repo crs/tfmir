@@ -1,0 +1,1 @@
+TMTC2	LSM14A	0.0454879	normal gene

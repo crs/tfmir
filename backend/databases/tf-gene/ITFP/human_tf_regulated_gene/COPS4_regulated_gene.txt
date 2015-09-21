@@ -1,0 +1,16 @@
+COPS4	ATP5C1	0.0446359	normal gene
+COPS4	ATP5O	0.0483173	normal gene
+COPS4	CHCHD4	0.0433259	normal gene
+COPS4	COPS5	0.0469142	transcription factor
+COPS4	COQ3	0.0441011	normal gene
+COPS4	DDX1	0.050214	transcription factor
+COPS4	HBS1L	0.0441011	normal gene
+COPS4	HINT1	0.0453386	normal gene
+COPS4	MRPL39	0.0451665	normal gene
+COPS4	MRPS9	0.0508613	normal gene
+COPS4	NDUFAB1	0.0466615	normal gene
+COPS4	NDUFB6	0.044532	normal gene
+COPS4	RMND1	0.0465068	normal gene
+COPS4	SDCCAG10	0.0427956	normal gene
+COPS4	SOD1	0.0442404	normal gene
+COPS4	VDAC3	0.0517948	normal gene

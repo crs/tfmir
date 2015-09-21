@@ -1,0 +1,3 @@
+CENTG2	GSTA4	0.048054	transcription factor
+CENTG2	RNF12	0.0475456	transcription factor
+CENTG2	TJP1	0.0543411	normal gene

@@ -1,0 +1,2 @@
+ZSCAN2	C20orf181	0.0437037	normal gene
+ZSCAN2	IGHV7-81	0.0429323	normal gene

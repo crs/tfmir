@@ -1,0 +1,9 @@
+U2AF2	ARF3	0.0523316	normal gene
+U2AF2	ATAD3B	0.0463728	transcription factor
+U2AF2	HMGA1	0.0490362	transcription factor
+U2AF2	OTUB1	0.050203	normal gene
+U2AF2	OTUD5	0.0435081	normal gene
+U2AF2	PTBP1	0.0432054	transcription factor
+U2AF2	TRABD	0.0548519	normal gene
+U2AF2	WDR79	0.0443419	transcription factor
+U2AF2	ZDHHC12	0.0497151	normal gene

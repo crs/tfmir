@@ -1,0 +1,9 @@
+TRPV2	BTK	0.0452512	normal gene
+TRPV2	CD37	0.0465622	normal gene
+TRPV2	CD53	0.0520113	normal gene
+TRPV2	CTSS	0.0463139	normal gene
+TRPV2	FERMT3	0.0499433	normal gene
+TRPV2	GMFG	0.0465149	normal gene
+TRPV2	LAPTM5	0.0525801	normal gene
+TRPV2	LCP2	0.0452148	transcription factor
+TRPV2	PTPRC	0.0485015	normal gene

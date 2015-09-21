@@ -1,0 +1,5 @@
+TAF13	FAM152A	0.0432852	normal gene
+TAF13	MAP2K4	0.0438888	normal gene
+TAF13	NF2	0.0431833	normal gene
+TAF13	TBC1D12	0.0472977	normal gene
+TAF13	TPP2	0.0433818	normal gene

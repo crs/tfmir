@@ -1,0 +1,9 @@
+RRP12	ABCF2	0.0432866	normal gene
+RRP12	ALG3	0.047351	normal gene
+RRP12	ATAD3B	0.0428112	transcription factor
+RRP12	BOP1	0.0459259	transcription factor
+RRP12	GEMIN7	0.0440923	normal gene
+RRP12	NOC4L	0.0442136	transcription factor
+RRP12	NOLC1	0.0462278	transcription factor
+RRP12	PDCD11	0.0436872	transcription factor
+RRP12	TBRG4	0.0461958	normal gene

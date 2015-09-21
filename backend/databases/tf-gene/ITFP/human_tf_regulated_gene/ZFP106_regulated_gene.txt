@@ -1,0 +1,2 @@
+ZFP106	LRRC2	0.0452056	normal gene
+ZFP106	VPS8	0.0472527	transcription factor

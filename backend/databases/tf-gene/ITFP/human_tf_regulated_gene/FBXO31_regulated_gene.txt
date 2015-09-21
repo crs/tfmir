@@ -1,0 +1,9 @@
+FBXO31	C12orf52	0.047878	normal gene
+FBXO31	DDX49	0.0434898	transcription factor
+FBXO31	EP400	0.0438842	transcription factor
+FBXO31	GTPBP8	0.0471413	normal gene
+FBXO31	HDAC8	0.0439096	normal gene
+FBXO31	POLR2D	0.045995	normal gene
+FBXO31	PRMT5	0.0440057	normal gene
+FBXO31	RNF123	0.0449201	normal gene
+FBXO31	XRCC6BP1	0.044688	normal gene

@@ -1,0 +1,6 @@
+RDBP	CD2BP2	0.0430118	normal gene
+RDBP	CTNND1	0.0431578	transcription factor
+RDBP	MEA1	0.043942	normal gene
+RDBP	POLR2G	0.043362	transcription factor
+RDBP	PSMD9	0.0433573	normal gene
+RDBP	STYXL1	0.0481358	normal gene

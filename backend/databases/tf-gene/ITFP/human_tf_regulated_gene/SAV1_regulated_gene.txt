@@ -1,0 +1,5 @@
+SAV1	EBNA1BP2	0.0428323	normal gene
+SAV1	GABPB2	0.0433817	transcription factor
+SAV1	GYPB	0.0459089	normal gene
+SAV1	RNF12	0.0428863	transcription factor
+SAV1	RPL22L1	0.0441652	normal gene

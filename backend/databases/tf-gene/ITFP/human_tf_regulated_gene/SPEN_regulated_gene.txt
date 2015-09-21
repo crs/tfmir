@@ -1,0 +1,5 @@
+SPEN	C19orf29	0.0428648	normal gene
+SPEN	CIZ1	0.0430021	transcription factor
+SPEN	NPAS4	0.0451511	transcription factor
+SPEN	SMARCA4	0.0428489	transcription factor
+SPEN	WBP11	0.0429182	normal gene

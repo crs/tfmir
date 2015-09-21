@@ -1,0 +1,9 @@
+ZNF444	ATP2A1	0.044584	normal gene
+ZNF444	CAPZB	0.0430431	normal gene
+ZNF444	CFB	0.0453407	normal gene
+ZNF444	ELAVL3	0.0459651	transcription factor
+ZNF444	HIAT1	0.0430382	normal gene
+ZNF444	TMCC1	0.0432843	normal gene
+ZNF444	VPS13D	0.0434834	normal gene
+ZNF444	ZNF414	0.0436541	transcription factor
+ZNF444	ZNF423	0.0432717	transcription factor

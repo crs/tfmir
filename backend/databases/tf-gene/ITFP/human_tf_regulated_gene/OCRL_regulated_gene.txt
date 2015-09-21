@@ -1,0 +1,9 @@
+OCRL	BSG	0.0429927	normal gene
+OCRL	CANT1	0.0435862	normal gene
+OCRL	FNTB	0.0438954	normal gene
+OCRL	MBTPS2	0.0499268	normal gene
+OCRL	NDRG3	0.0446643	normal gene
+OCRL	RHBDD2	0.0442318	normal gene
+OCRL	SLC35A2	0.0432217	normal gene
+OCRL	SOCS6	0.0446696	normal gene
+OCRL	ZER1	0.0439437	normal gene

@@ -1,0 +1,4 @@
+APBB3	HNRPM	0.0432817	transcription factor
+APBB3	MDH1B	0.0431449	normal gene
+APBB3	SIRT3	0.0438883	normal gene
+APBB3	SPSB3	0.0472605	normal gene

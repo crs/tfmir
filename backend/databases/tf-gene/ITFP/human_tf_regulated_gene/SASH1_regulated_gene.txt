@@ -1,0 +1,2 @@
+SASH1	PPAP2B	0.0432716	normal gene
+SASH1	RHOJ	0.048122	normal gene

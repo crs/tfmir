@@ -1,0 +1,5 @@
+TRIM38	ACP5	0.0432527	normal gene
+TRIM38	IFI30	0.0452952	normal gene
+TRIM38	LILRB1	0.0430829	normal gene
+TRIM38	PSMB8	0.0447716	normal gene
+TRIM38	SP100	0.0453063	transcription factor

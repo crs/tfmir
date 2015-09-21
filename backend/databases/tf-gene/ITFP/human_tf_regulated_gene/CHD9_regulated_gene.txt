@@ -1,0 +1,10 @@
+CHD9	ABHD2	0.0486326	normal gene
+CHD9	ATRX	0.0525124	normal gene
+CHD9	C1orf77	0.0464114	normal gene
+CHD9	KIAA0372	0.0448421	normal gene
+CHD9	KIAA1641	0.0437567	normal gene
+CHD9	MALAT1	0.0435426	normal gene
+CHD9	RUFY3	0.0433988	normal gene
+CHD9	SIAH1	0.0432408	normal gene
+CHD9	TCF12	0.0431839	transcription factor
+CHD9	TRIM23	0.0437085	transcription factor

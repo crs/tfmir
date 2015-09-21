@@ -1,0 +1,10 @@
+CORO1C	ARNTL2	0.0493856	transcription factor
+CORO1C	CBX7	0.0428978	normal gene
+CORO1C	CENTB2	0.0440461	transcription factor
+CORO1C	CRY2	0.0502368	normal gene
+CORO1C	GPD1L	0.0428911	normal gene
+CORO1C	NDRG2	0.0472135	normal gene
+CORO1C	NRAS	0.0440328	normal gene
+CORO1C	NUFIP2	0.0429079	normal gene
+CORO1C	RAB8B	0.044085	normal gene
+CORO1C	TNXB	0.0430209	normal gene

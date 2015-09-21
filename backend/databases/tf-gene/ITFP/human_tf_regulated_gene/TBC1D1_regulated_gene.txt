@@ -1,0 +1,4 @@
+TBC1D1	C11orf16	0.0458295	normal gene
+TBC1D1	C3orf47	0.0460025	normal gene
+TBC1D1	PRB4	0.0434755	transcription factor
+TBC1D1	ZNF787	0.0437785	transcription factor

@@ -1,0 +1,11 @@
+ZNF415	ANK3	0.0438281	transcription factor
+ZNF415	ARMCX2	0.0464366	transcription factor
+ZNF415	CRYAB	0.0450315	normal gene
+ZNF415	GPRASP1	0.0499352	normal gene
+ZNF415	KRTAP10-12	0.0435986	normal gene
+ZNF415	NTSR1	0.0454165	normal gene
+ZNF415	SSPN	0.0453774	normal gene
+ZNF415	TMEM50B	0.0437109	normal gene
+ZNF415	ZFP3	0.043226	transcription factor
+ZNF415	ZMYND11	0.0441323	transcription factor
+ZNF415	ZNF447	0.044278	normal gene

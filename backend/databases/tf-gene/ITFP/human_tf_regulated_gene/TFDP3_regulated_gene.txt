@@ -1,0 +1,7 @@
+TFDP3	FOXD4L1	0.0447354	transcription factor
+TFDP3	HNF4A	0.0438457	transcription factor
+TFDP3	IRGM	0.0428352	normal gene
+TFDP3	ROCK1	0.044309	normal gene
+TFDP3	SFTPC	0.0443447	normal gene
+TFDP3	TTC28	0.0434876	transcription factor
+TFDP3	ZCCHC14	0.0440604	transcription factor

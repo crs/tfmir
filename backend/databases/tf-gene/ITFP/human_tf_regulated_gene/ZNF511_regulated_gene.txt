@@ -1,0 +1,2 @@
+ZNF511	ADSL	0.0466537	normal gene
+ZNF511	MRPL37	0.0430548	normal gene

@@ -1,0 +1,2 @@
+ZFYVE16	POGZ	0.0440565	transcription factor
+ZFYVE16	RAB11FIP3	0.0435014	normal gene

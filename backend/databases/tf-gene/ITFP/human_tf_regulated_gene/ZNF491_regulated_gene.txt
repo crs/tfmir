@@ -1,0 +1,15 @@
+ZNF491	ASB10	0.048637	transcription factor
+ZNF491	BACH1	0.0441924	transcription factor
+ZNF491	BTBD9	0.0432952	normal gene
+ZNF491	KRTAP3-1	0.0431062	normal gene
+ZNF491	MAP2K2	0.0441331	normal gene
+ZNF491	NA	0.0445982	normal gene
+ZNF491	NKX1-1	0.0445347	normal gene
+ZNF491	PHLDB1	0.0457154	transcription factor
+ZNF491	PLG	0.0459867	normal gene
+ZNF491	SLC25A28	0.043625	normal gene
+ZNF491	SLC30A2	0.0444562	normal gene
+ZNF491	TSSK3	0.0430482	normal gene
+ZNF491	TTC28	0.0459224	transcription factor
+ZNF491	UBE3C	0.0477944	normal gene
+ZNF491	ZNF763	0.0459066	normal gene

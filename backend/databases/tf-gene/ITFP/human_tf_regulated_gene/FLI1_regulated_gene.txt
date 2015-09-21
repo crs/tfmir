@@ -1,0 +1,13 @@
+FLI1	C10orf128	0.0443943	normal gene
+FLI1	C16orf54	0.0490645	normal gene
+FLI1	CSF2RB	0.05459	normal gene
+FLI1	EWSR1	0.0554683	transcription factor
+FLI1	GIMAP6	0.0454819	normal gene
+FLI1	GMFG	0.0586216	normal gene
+FLI1	KCNH2	0.0549026	normal gene
+FLI1	LCP2	0.048524	transcription factor
+FLI1	PECAM1	0.0458072	normal gene
+FLI1	PPP1R16B	0.0428677	transcription factor
+FLI1	PTGER4	0.0492466	normal gene
+FLI1	SEZ6L2	0.0433429	normal gene
+FLI1	WIPF1	0.0455864	normal gene

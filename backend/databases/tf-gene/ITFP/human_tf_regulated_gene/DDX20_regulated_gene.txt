@@ -1,0 +1,15 @@
+DDX20	CHUK	0.0441594	normal gene
+DDX20	CLP1	0.0456426	normal gene
+DDX20	CSE1L	0.0450307	normal gene
+DDX20	FAM54A	0.0430523	normal gene
+DDX20	MAGOH	0.0441757	normal gene
+DDX20	MED28	0.044633	normal gene
+DDX20	NUP205	0.0467277	normal gene
+DDX20	PPIL5	0.0491234	normal gene
+DDX20	SMNDC1	0.044261	normal gene
+DDX20	TAF5	0.0430522	transcription factor
+DDX20	TDG	0.0508752	normal gene
+DDX20	TFAM	0.0464847	transcription factor
+DDX20	WDR53	0.0446941	transcription factor
+DDX20	ZCCHC10	0.0446879	transcription factor
+DDX20	ZWILCH	0.0447457	normal gene

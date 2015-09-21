@@ -1,0 +1,4 @@
+CDC16	C4orf28	0.0479039	normal gene
+CDC16	MAD2L1	0.0428125	normal gene
+CDC16	RFC3	0.0442604	normal gene
+CDC16	SIP1	0.0431797	normal gene

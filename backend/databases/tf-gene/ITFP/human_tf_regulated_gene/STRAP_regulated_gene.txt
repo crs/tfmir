@@ -1,0 +1,2 @@
+STRAP	CCDC86	0.0441336	normal gene
+STRAP	HEATR2	0.0432236	transcription factor

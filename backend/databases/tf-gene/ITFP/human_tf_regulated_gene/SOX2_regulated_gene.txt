@@ -1,0 +1,2 @@
+SOX2	ADRBK1	0.042779	normal gene
+SOX2	USP48	0.0432367	normal gene

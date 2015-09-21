@@ -1,0 +1,3 @@
+ELMO1	MIZF	0.0437754	transcription factor
+ELMO1	NCK1	0.0454453	normal gene
+ELMO1	P2RY4	0.0470085	normal gene

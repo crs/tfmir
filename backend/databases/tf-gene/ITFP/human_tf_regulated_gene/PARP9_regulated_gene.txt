@@ -1,0 +1,13 @@
+PARP9	B2M	0.0498478	normal gene
+PARP9	C17orf27	0.0462411	normal gene
+PARP9	DDX60	0.0484527	normal gene
+PARP9	DTX3L	0.0577829	transcription factor
+PARP9	GBP1	0.0471787	normal gene
+PARP9	IFI44	0.0466099	normal gene
+PARP9	IFI44L	0.043591	normal gene
+PARP9	IFIT2	0.0446949	transcription factor
+PARP9	IFIT3	0.0506752	transcription factor
+PARP9	MX1	0.0478913	normal gene
+PARP9	RARRES3	0.0429839	normal gene
+PARP9	STAT1	0.0466616	transcription factor
+PARP9	TRIM22	0.0434933	transcription factor

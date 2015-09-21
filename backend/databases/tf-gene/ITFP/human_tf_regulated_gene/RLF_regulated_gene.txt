@@ -1,0 +1,7 @@
+RLF	AQR	0.046129	normal gene
+RLF	CDC73	0.0443444	normal gene
+RLF	FAM98A	0.0439226	normal gene
+RLF	PICALM	0.0466791	normal gene
+RLF	RAPGEF6	0.0451259	normal gene
+RLF	TRIM33	0.0463352	transcription factor
+RLF	USP3	0.0440193	normal gene

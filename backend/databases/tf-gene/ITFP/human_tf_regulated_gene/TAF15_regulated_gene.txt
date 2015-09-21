@@ -1,0 +1,15 @@
+TAF15	ANAPC5	0.0494843	transcription factor
+TAF15	ARIH1	0.0453314	normal gene
+TAF15	CCAR1	0.0466439	transcription factor
+TAF15	CPSF1	0.049396	transcription factor
+TAF15	CTGLF1	0.0433521	transcription factor
+TAF15	EIF3C	0.0441513	normal gene
+TAF15	FN1	0.0439505	normal gene
+TAF15	FNBP1	0.0434585	normal gene
+TAF15	IREB2	0.0478681	normal gene
+TAF15	PEX3	0.0449468	normal gene
+TAF15	SFRS4	0.0469888	transcription factor
+TAF15	SLC25A36	0.0435981	normal gene
+TAF15	STAG3L1	0.0428965	normal gene
+TAF15	SUV420H1	0.0428407	normal gene
+TAF15	ZFR	0.045953	normal gene

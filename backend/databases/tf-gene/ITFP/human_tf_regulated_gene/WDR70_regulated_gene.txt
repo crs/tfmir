@@ -1,0 +1,2 @@
+WDR70	AOF2	0.0444113	normal gene
+WDR70	WDR57	0.0451394	transcription factor

@@ -1,0 +1,13 @@
+DDX28	ABT1	0.04557	transcription factor
+DDX28	ADSL	0.0439571	normal gene
+DDX28	C10orf2	0.0448166	normal gene
+DDX28	C2orf47	0.0490523	normal gene
+DDX28	CIRH1A	0.0486474	transcription factor
+DDX28	CLP1	0.044138	normal gene
+DDX28	DCTN5	0.0433759	normal gene
+DDX28	MAP7D3	0.0440933	normal gene
+DDX28	PDF	0.0433054	normal gene
+DDX28	PMPCA	0.0428487	normal gene
+DDX28	RPUSD2	0.0454479	normal gene
+DDX28	TMEM30A	0.0430975	normal gene
+DDX28	WDR74	0.0456279	transcription factor

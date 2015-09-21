@@ -1,0 +1,7 @@
+DDEF1	BIRC4	0.0427881	normal gene
+DDEF1	CIRBP	0.042877	transcription factor
+DDEF1	EXOC5	0.0428925	normal gene
+DDEF1	LACTB	0.0517565	normal gene
+DDEF1	MFAP3	0.0454856	normal gene
+DDEF1	RAB8B	0.0441245	normal gene
+DDEF1	TGOLN2	0.0443257	normal gene

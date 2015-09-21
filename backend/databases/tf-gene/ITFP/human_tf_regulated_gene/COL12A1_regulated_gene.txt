@@ -1,0 +1,6 @@
+COL12A1	ALDH1A3	0.0432305	normal gene
+COL12A1	COL5A1	0.0447896	transcription factor
+COL12A1	COL5A2	0.0495605	normal gene
+COL12A1	LAMA4	0.0433015	transcription factor
+COL12A1	TPM2	0.0466978	normal gene
+COL12A1	VGLL3	0.0435069	normal gene

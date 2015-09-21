@@ -1,0 +1,4 @@
+INPPL1	AGPAT1	0.0494835	transcription factor
+INPPL1	ATF2	0.0445592	transcription factor
+INPPL1	KIAA0195	0.0431451	normal gene
+INPPL1	TBC1D10B	0.0461326	normal gene

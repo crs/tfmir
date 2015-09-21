@@ -1,0 +1,8 @@
+ZFPM2	ATP5J	0.0446104	normal gene
+ZFPM2	COX6B1	0.0429317	normal gene
+ZFPM2	EPHA4	0.0436967	normal gene
+ZFPM2	FHL1	0.0449625	transcription factor
+ZFPM2	NUAK1	0.0452526	normal gene
+ZFPM2	RCAN2	0.0468544	normal gene
+ZFPM2	RGS5	0.0482362	normal gene
+ZFPM2	ZNF423	0.0495094	transcription factor

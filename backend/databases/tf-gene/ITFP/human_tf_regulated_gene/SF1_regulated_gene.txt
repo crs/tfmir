@@ -1,0 +1,6 @@
+SF1	C14orf118	0.045676	normal gene
+SF1	KHSRP	0.0483457	transcription factor
+SF1	MGA	0.0432741	normal gene
+SF1	PCBP2	0.0454738	transcription factor
+SF1	RDH14	0.0466694	normal gene
+SF1	VPS13B	0.043584	normal gene

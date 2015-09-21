@@ -1,0 +1,2 @@
+FOSB	EGR1	0.0449254	transcription factor
+FOSB	IER2	0.0514957	normal gene

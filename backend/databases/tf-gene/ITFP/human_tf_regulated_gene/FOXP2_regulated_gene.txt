@@ -1,0 +1,1 @@
+FOXP2	RBM38	0.0428912	transcription factor

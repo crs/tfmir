@@ -1,0 +1,5 @@
+UTY	CD24	0.0470142	normal gene
+UTY	DDX3Y	0.0460076	transcription factor
+UTY	EIF1AY	0.0454295	transcription factor
+UTY	USP9Y	0.0468941	normal gene
+UTY	ZFY	0.0513402	transcription factor

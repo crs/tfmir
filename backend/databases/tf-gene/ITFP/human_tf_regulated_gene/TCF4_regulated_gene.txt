@@ -1,0 +1,1 @@
+TCF4	ZNF521	0.0428333	transcription factor

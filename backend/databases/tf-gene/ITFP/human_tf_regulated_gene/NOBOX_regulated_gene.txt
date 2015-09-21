@@ -1,0 +1,1 @@
+NOBOX	ZNF763	0.0429027	normal gene

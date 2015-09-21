@@ -1,0 +1,6 @@
+PPARA	ADSS	0.0435331	normal gene
+PPARA	DKK2	0.0472988	normal gene
+PPARA	DUSP3	0.0455349	normal gene
+PPARA	PCYT1A	0.0446076	normal gene
+PPARA	STX8	0.0439691	normal gene
+PPARA	ZBTB44	0.0454158	transcription factor

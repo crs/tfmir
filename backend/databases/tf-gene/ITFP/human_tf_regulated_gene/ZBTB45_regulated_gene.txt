@@ -1,0 +1,2 @@
+ZBTB45	ARHGDIA	0.0483964	normal gene
+ZBTB45	RAB11B	0.046367	normal gene

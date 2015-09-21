@@ -1,0 +1,1 @@
+NAT5	C2orf47	0.0437053	normal gene

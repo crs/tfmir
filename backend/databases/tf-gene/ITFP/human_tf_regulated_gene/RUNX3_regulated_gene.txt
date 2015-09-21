@@ -1,0 +1,3 @@
+RUNX3	HMHA1	0.0448265	normal gene
+RUNX3	PLCG2	0.0428769	normal gene
+RUNX3	PTPRC	0.0432812	normal gene

@@ -1,0 +1,2 @@
+RPS23	RPL36A	0.0455222	normal gene
+RPS23	RPS10	0.044609	normal gene

@@ -1,0 +1,1 @@
+FOXA2	PLA2G3	0.0449085	normal gene

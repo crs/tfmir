@@ -1,0 +1,2 @@
+EHMT2	ABCB6	0.0430703	normal gene
+EHMT2	OXER1	0.0433981	normal gene

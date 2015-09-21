@@ -1,0 +1,5 @@
+SHPRH	AASDHPPT	0.0438089	normal gene
+SHPRH	ASF1A	0.0431411	normal gene
+SHPRH	GPRASP1	0.0475161	normal gene
+SHPRH	PAQR3	0.0450651	normal gene
+SHPRH	TCERG1	0.0449253	transcription factor

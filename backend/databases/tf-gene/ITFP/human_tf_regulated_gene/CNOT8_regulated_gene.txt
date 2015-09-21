@@ -1,0 +1,2 @@
+CNOT8	APAF1	0.0462745	transcription factor
+CNOT8	ARPC5	0.0454482	normal gene

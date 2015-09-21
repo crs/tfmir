@@ -1,0 +1,4 @@
+RPS11	RPL15	0.0469856	normal gene
+RPS11	RPL23A	0.0455677	transcription factor
+RPS11	RPL27A	0.0480875	normal gene
+RPS11	RPL35A	0.0441551	normal gene

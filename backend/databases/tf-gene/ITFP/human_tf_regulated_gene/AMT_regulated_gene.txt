@@ -1,0 +1,5 @@
+AMT	ADHFE1	0.0429579	normal gene
+AMT	GPRASP1	0.0441783	normal gene
+AMT	KLHDC2	0.0467512	transcription factor
+AMT	MCF2L	0.0435056	normal gene
+AMT	TMOD3	0.0435992	normal gene

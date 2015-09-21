@@ -1,0 +1,5 @@
+NFKBIE	BID	0.0442342	normal gene
+NFKBIE	FAM105B	0.0466106	normal gene
+NFKBIE	IKBKE	0.0456105	normal gene
+NFKBIE	PBX1	0.0442492	transcription factor
+NFKBIE	RIPK2	0.0456884	normal gene

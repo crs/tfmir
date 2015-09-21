@@ -1,0 +1,1 @@
+LPGAT1	KIAA0100	0.0471461	normal gene

@@ -1,0 +1,2 @@
+SP100	HLA-E	0.0428156	normal gene
+SP100	TRIM38	0.0453063	transcription factor

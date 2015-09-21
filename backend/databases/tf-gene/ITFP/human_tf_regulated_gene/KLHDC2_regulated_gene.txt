@@ -1,0 +1,4 @@
+KLHDC2	AMT	0.0467512	transcription factor
+KLHDC2	BBS1	0.0462007	normal gene
+KLHDC2	TMEM106B	0.0432641	normal gene
+KLHDC2	TMOD3	0.0439592	normal gene

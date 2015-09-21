@@ -1,0 +1,6 @@
+PAK1IP1	CCT6A	0.0454813	normal gene
+PAK1IP1	GNL2	0.0442318	normal gene
+PAK1IP1	GNL3	0.0471962	normal gene
+PAK1IP1	NAGK	0.0519935	normal gene
+PAK1IP1	NIP7	0.0449766	normal gene
+PAK1IP1	SSB	0.0457701	transcription factor

@@ -1,0 +1,2 @@
+SAMD4A	EXOC6B	0.0453818	normal gene
+SAMD4A	KIAA1128	0.0441051	normal gene

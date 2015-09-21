@@ -1,0 +1,1 @@
+TBR1	TAS2R16	0.0477042	normal gene

@@ -1,0 +1,2 @@
+HNRPH3	HNRPA3	0.043533	transcription factor
+HNRPH3	PTMA	0.0436305	normal gene

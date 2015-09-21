@@ -1,0 +1,4 @@
+LASS3	C19orf34	0.043716	normal gene
+LASS3	IL1RAPL2	0.0431129	normal gene
+LASS3	NLRP1	0.0454517	transcription factor
+LASS3	SPAG17	0.043007	normal gene

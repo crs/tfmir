@@ -1,0 +1,4 @@
+ZBTB38	SERINC3	0.044076	normal gene
+ZBTB38	TRAK2	0.0447711	normal gene
+ZBTB38	WHSC2	0.0434848	normal gene
+ZBTB38	ZNF148	0.0437862	transcription factor

@@ -1,0 +1,2 @@
+H2AFY	DICER1	0.0452639	transcription factor
+H2AFY	KCNH2	0.0427898	normal gene

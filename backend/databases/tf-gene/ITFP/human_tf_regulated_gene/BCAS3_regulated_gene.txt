@@ -1,0 +1,16 @@
+BCAS3	GJC2	0.0466754	normal gene
+BCAS3	HTR4	0.0436661	normal gene
+BCAS3	IDUA	0.0455927	normal gene
+BCAS3	KIAA1609	0.0471434	normal gene
+BCAS3	MASP2	0.0444614	normal gene
+BCAS3	MRPL12	0.0445224	normal gene
+BCAS3	MYCN	0.0461978	transcription factor
+BCAS3	NCKIPSD	0.0455422	normal gene
+BCAS3	NDOR1	0.0450476	normal gene
+BCAS3	PDYN	0.0433254	normal gene
+BCAS3	PGAM5	0.0479255	normal gene
+BCAS3	RDH14	0.0518326	normal gene
+BCAS3	SHBG	0.0466046	transcription factor
+BCAS3	STK24	0.0454374	normal gene
+BCAS3	TNRC21	0.045252	normal gene
+BCAS3	ZAN	0.0436821	normal gene

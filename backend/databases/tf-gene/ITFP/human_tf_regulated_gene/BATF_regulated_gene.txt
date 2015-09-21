@@ -1,0 +1,12 @@
+BATF	APBB1IP	0.0432735	transcription factor
+BATF	BTK	0.0450254	normal gene
+BATF	CD52	0.044961	normal gene
+BATF	CTSS	0.0446455	normal gene
+BATF	FERMT3	0.0486234	normal gene
+BATF	HMHA1	0.0437568	normal gene
+BATF	LAT2	0.0451615	normal gene
+BATF	LSP1	0.0444068	normal gene
+BATF	MYO1G	0.0434557	normal gene
+BATF	PLEK	0.0429988	transcription factor
+BATF	PTPRC	0.0437661	normal gene
+BATF	SELPLG	0.0440187	normal gene

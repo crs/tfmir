@@ -1,0 +1,2 @@
+ZNF154	DLG1	0.0441992	normal gene
+ZNF154	KIAA1377	0.0445768	normal gene

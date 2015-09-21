@@ -1,0 +1,2 @@
+GIT2	PTP4A1	0.044481	normal gene
+GIT2	RCBTB2	0.0443061	normal gene

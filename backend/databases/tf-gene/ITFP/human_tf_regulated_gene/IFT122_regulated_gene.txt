@@ -1,0 +1,3 @@
+IFT122	FOXN3	0.0435176	transcription factor
+IFT122	SPRR4	0.0450481	normal gene
+IFT122	TAC3	0.0441275	normal gene

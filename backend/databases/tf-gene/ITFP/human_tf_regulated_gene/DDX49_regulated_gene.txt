@@ -1,0 +1,8 @@
+DDX49	ARL16	0.0430568	normal gene
+DDX49	C12orf52	0.0428776	normal gene
+DDX49	EIF4E2	0.0441693	normal gene
+DDX49	FBXO31	0.0434898	transcription factor
+DDX49	NUBP2	0.0428359	normal gene
+DDX49	PRPF31	0.046545	normal gene
+DDX49	SCNM1	0.0436226	normal gene
+DDX49	WDR74	0.0443083	transcription factor

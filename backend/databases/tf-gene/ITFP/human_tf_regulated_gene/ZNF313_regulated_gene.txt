@@ -1,0 +1,6 @@
+ZNF313	NAT13	0.0450883	transcription factor
+ZNF313	NUPL1	0.0439113	normal gene
+ZNF313	PCBP2	0.0495894	transcription factor
+ZNF313	SPAG9	0.0459118	transcription factor
+ZNF313	TBC1D23	0.0433725	normal gene
+ZNF313	ZNF207	0.0432724	transcription factor

@@ -1,0 +1,8 @@
+NRAP	CSRP3	0.0480276	transcription factor
+NRAP	FBXO40	0.0506585	transcription factor
+NRAP	LDB3	0.0539785	transcription factor
+NRAP	LMOD2	0.0479069	normal gene
+NRAP	SGCA	0.0531292	normal gene
+NRAP	SRL	0.0540676	normal gene
+NRAP	TCAP	0.0487685	normal gene
+NRAP	TNNI1	0.051333	normal gene

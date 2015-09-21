@@ -1,0 +1,2 @@
+TGIF2	ARL6IP6	0.0447768	normal gene
+TGIF2	PTBP1	0.0431641	transcription factor

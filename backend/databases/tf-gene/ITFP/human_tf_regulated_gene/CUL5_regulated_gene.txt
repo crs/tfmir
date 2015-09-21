@@ -1,0 +1,8 @@
+CUL5	ADRBK1	0.0447138	normal gene
+CUL5	AUH	0.0430535	normal gene
+CUL5	LMF2	0.0445107	normal gene
+CUL5	OXER1	0.0449253	normal gene
+CUL5	PSIP1	0.04646	transcription factor
+CUL5	RHOT2	0.0467233	normal gene
+CUL5	VAPA	0.046825	normal gene
+CUL5	YIPF4	0.0465988	normal gene

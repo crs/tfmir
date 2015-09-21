@@ -1,0 +1,8 @@
+EIF2C2	C4orf42	0.0437298	normal gene
+EIF2C2	DOC2B	0.0430413	normal gene
+EIF2C2	KIAA0907	0.0451281	normal gene
+EIF2C2	KIR2DS5	0.0432379	normal gene
+EIF2C2	LGI2	0.0457485	normal gene
+EIF2C2	MAPK12	0.0494731	normal gene
+EIF2C2	NXNL1	0.0429234	normal gene
+EIF2C2	PBRM1	0.0437476	transcription factor

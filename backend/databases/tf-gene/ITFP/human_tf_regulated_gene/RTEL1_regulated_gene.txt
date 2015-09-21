@@ -1,0 +1,7 @@
+RTEL1	ATAD3B	0.0459852	transcription factor
+RTEL1	CAPN7	0.0453816	normal gene
+RTEL1	GRK6	0.0428155	normal gene
+RTEL1	LYPLA2	0.0429363	normal gene
+RTEL1	RHOT2	0.044418	normal gene
+RTEL1	TMEM161A	0.0427923	normal gene
+RTEL1	TSEN54	0.0436827	normal gene

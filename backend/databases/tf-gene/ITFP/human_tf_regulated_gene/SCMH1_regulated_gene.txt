@@ -1,0 +1,11 @@
+SCMH1	C17orf57	0.045475	normal gene
+SCMH1	CAPN7	0.0455667	normal gene
+SCMH1	DLG1	0.0458352	normal gene
+SCMH1	FAM133B	0.0439266	normal gene
+SCMH1	INTS10	0.0429521	normal gene
+SCMH1	KPNA3	0.0473044	transcription factor
+SCMH1	PIK3CA	0.0442082	normal gene
+SCMH1	PUS10	0.0438612	normal gene
+SCMH1	TNRC15	0.0455406	normal gene
+SCMH1	USP15	0.0431473	normal gene
+SCMH1	WDR89	0.0440902	transcription factor

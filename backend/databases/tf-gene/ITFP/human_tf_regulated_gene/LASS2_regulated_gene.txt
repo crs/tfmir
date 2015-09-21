@@ -1,0 +1,2 @@
+LASS2	GANAB	0.0432528	normal gene
+LASS2	TMEM179B	0.0440524	normal gene

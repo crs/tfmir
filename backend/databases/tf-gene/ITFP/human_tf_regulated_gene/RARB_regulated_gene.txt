@@ -1,0 +1,3 @@
+RARB	APOBEC4	0.0428064	normal gene
+RARB	NLRP1	0.0442071	transcription factor
+RARB	PRL	0.0436817	normal gene

@@ -1,0 +1,2 @@
+PEX10	DDA1	0.0498145	normal gene
+PEX10	FOXK2	0.0455239	transcription factor

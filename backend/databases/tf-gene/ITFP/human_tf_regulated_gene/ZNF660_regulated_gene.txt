@@ -1,0 +1,9 @@
+ZNF660	APOBEC4	0.0438679	normal gene
+ZNF660	C20orf11	0.0440806	transcription factor
+ZNF660	C22orf24	0.0442257	normal gene
+ZNF660	EEF1DP5	0.0441771	normal gene
+ZNF660	KRT38	0.0468529	normal gene
+ZNF660	NECAP1	0.0443688	normal gene
+ZNF660	OR2S2	0.0441184	normal gene
+ZNF660	OR5U1	0.0433882	normal gene
+ZNF660	VASH2	0.0499723	normal gene

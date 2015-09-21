@@ -1,0 +1,8 @@
+DHX37	ATAD3B	0.0465479	transcription factor
+DHX37	CCDC137	0.0457264	normal gene
+DHX37	KIAA1109	0.0448147	normal gene
+DHX37	NOC4L	0.04478	transcription factor
+DHX37	PES1	0.0524499	transcription factor
+DHX37	RAB35	0.0442673	normal gene
+DHX37	RCC1	0.0461291	normal gene
+DHX37	TXNDC12	0.042886	normal gene

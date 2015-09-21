@@ -1,0 +1,1 @@
+RNF20	C9orf125	0.0586932	normal gene

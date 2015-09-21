@@ -1,0 +1,9 @@
+FOXJ2	CCNJ	0.044311	transcription factor
+FOXJ2	CSTF2	0.0437167	transcription factor
+FOXJ2	FAM29A	0.0456133	normal gene
+FOXJ2	FBXO22	0.0452811	transcription factor
+FOXJ2	HCG18	0.0467121	normal gene
+FOXJ2	HSPE1	0.0455043	normal gene
+FOXJ2	KIF22	0.0439026	normal gene
+FOXJ2	NCOA1	0.042948	transcription factor
+FOXJ2	PSPH	0.0463495	normal gene

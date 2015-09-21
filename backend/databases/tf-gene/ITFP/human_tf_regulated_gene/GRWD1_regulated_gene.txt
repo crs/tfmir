@@ -1,0 +1,3 @@
+GRWD1	MBD3	0.043249	transcription factor
+GRWD1	PHB	0.0435926	normal gene
+GRWD1	TIGD5	0.0456951	normal gene

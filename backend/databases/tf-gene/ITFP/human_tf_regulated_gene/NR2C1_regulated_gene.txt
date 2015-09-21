@@ -1,0 +1,4 @@
+NR2C1	CENPQ	0.0447628	normal gene
+NR2C1	EFCAB7	0.0435717	normal gene
+NR2C1	SEC16A	0.0477398	normal gene
+NR2C1	SIP1	0.0478374	normal gene

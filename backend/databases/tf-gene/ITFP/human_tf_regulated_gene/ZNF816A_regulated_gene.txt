@@ -1,0 +1,2 @@
+ZNF816A	CASP2	0.0466823	transcription factor
+ZNF816A	TRIM65	0.0459045	transcription factor

@@ -1,0 +1,12 @@
+CENTA1	CAPZB	0.0449062	normal gene
+CENTA1	ELAVL3	0.0469703	transcription factor
+CENTA1	FMN2	0.0428239	normal gene
+CENTA1	HIAT1	0.0497939	normal gene
+CENTA1	IRGM	0.0451069	normal gene
+CENTA1	KREMEN1	0.0432019	normal gene
+CENTA1	PWWP2B	0.0452796	transcription factor
+CENTA1	SNX13	0.0439881	normal gene
+CENTA1	TMCC1	0.042948	normal gene
+CENTA1	UNC13A	0.0436793	normal gene
+CENTA1	ZNF423	0.0471108	transcription factor
+CENTA1	ZNF771	0.0428234	transcription factor

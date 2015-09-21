@@ -1,0 +1,2 @@
+ZNF643	DIS3	0.0442528	normal gene
+ZNF643	MITD1	0.0431361	normal gene

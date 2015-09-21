@@ -1,0 +1,2 @@
+SYAP1	HSD17B10	0.0436894	normal gene
+SYAP1	NOLA2	0.0438016	normal gene

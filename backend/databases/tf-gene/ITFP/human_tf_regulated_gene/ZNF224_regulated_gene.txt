@@ -1,0 +1,2 @@
+ZNF224	HEXA	0.0436573	normal gene
+ZNF224	PIK3CA	0.0463096	normal gene

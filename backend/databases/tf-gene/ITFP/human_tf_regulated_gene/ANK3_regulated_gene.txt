@@ -1,0 +1,14 @@
+ANK3	ABCA8	0.0428066	normal gene
+ANK3	CHEK2	0.0437636	normal gene
+ANK3	CLOCK	0.043634	transcription factor
+ANK3	CXADR	0.0451542	normal gene
+ANK3	FAM134B	0.0511524	normal gene
+ANK3	HSPB2	0.0465032	normal gene
+ANK3	INADL	0.050597	normal gene
+ANK3	LAMA2	0.0446359	normal gene
+ANK3	MAML2	0.0467027	normal gene
+ANK3	PPAP2A	0.0466115	normal gene
+ANK3	RCAN2	0.0469095	normal gene
+ANK3	SSPN	0.0467333	normal gene
+ANK3	TMEM165	0.0440667	normal gene
+ANK3	ZNF415	0.0438281	transcription factor

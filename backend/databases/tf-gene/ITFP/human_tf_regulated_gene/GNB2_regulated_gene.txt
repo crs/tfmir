@@ -1,0 +1,8 @@
+GNB2	AP2S1	0.0467719	normal gene
+GNB2	ARHGDIA	0.0434139	normal gene
+GNB2	C9orf16	0.043865	normal gene
+GNB2	COPE	0.0444981	transcription factor
+GNB2	ELOVL1	0.0432289	normal gene
+GNB2	MYO9B	0.0444012	normal gene
+GNB2	PFN1	0.0463257	normal gene
+GNB2	RELA	0.0439416	transcription factor

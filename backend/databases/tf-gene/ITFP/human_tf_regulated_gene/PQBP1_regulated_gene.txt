@@ -1,0 +1,14 @@
+PQBP1	ARHGAP30	0.0429192	normal gene
+PQBP1	C19orf10	0.0430497	normal gene
+PQBP1	C9orf105	0.0440768	normal gene
+PQBP1	CEP76	0.0428819	transcription factor
+PQBP1	CNPY2	0.0467533	normal gene
+PQBP1	LSM7	0.0502502	normal gene
+PQBP1	NUP98	0.0522471	normal gene
+PQBP1	OTUB1	0.0473556	normal gene
+PQBP1	RAN	0.0431581	normal gene
+PQBP1	RPL18	0.0433804	normal gene
+PQBP1	RPL18A	0.0455151	normal gene
+PQBP1	SFRS3	0.0476617	transcription factor
+PQBP1	SNRPB	0.0454215	normal gene
+PQBP1	YRDC	0.0467063	normal gene

@@ -1,0 +1,4 @@
+PBX2	CNOT3	0.0449019	transcription factor
+PBX2	MAPKAPK2	0.0448693	normal gene
+PBX2	SUPT6H	0.0428426	normal gene
+PBX2	TRIM8	0.0445686	transcription factor

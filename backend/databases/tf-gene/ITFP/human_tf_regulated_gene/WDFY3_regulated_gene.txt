@@ -1,0 +1,5 @@
+WDFY3	C20orf194	0.0447884	transcription factor
+WDFY3	CENPN	0.0436335	normal gene
+WDFY3	LMBRD1	0.0434262	normal gene
+WDFY3	PHF19	0.0449978	normal gene
+WDFY3	RNF146	0.0475047	transcription factor

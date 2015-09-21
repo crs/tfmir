@@ -1,0 +1,8 @@
+ASB14	CYP2C9	0.0449051	normal gene
+ASB14	EPOR	0.0465291	normal gene
+ASB14	HDGFL1	0.0484687	normal gene
+ASB14	NA	0.0430796	normal gene
+ASB14	NLRP1	0.0439106	transcription factor
+ASB14	SLC23A3	0.0463909	normal gene
+ASB14	SLC5A12	0.0428953	normal gene
+ASB14	SPRR4	0.0451316	normal gene

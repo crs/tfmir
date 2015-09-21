@@ -1,0 +1,5 @@
+C14orf174	BCL2L10	0.0432108	normal gene
+C14orf174	CSTB	0.0436315	normal gene
+C14orf174	KIR3DL3	0.0444989	normal gene
+C14orf174	PIGO	0.0429033	normal gene
+C14orf174	VWA3A	0.0465121	normal gene

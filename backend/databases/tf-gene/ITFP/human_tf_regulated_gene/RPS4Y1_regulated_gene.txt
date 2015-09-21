@@ -1,0 +1,6 @@
+RPS4Y1	CYorf15A	0.0556979	normal gene
+RPS4Y1	CYorf15B	0.0585809	normal gene
+RPS4Y1	DDX3Y	0.047105	transcription factor
+RPS4Y1	JARID1D	0.0578853	transcription factor
+RPS4Y1	TTTY15	0.0495837	normal gene
+RPS4Y1	XIST	0.04332	normal gene

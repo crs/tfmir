@@ -1,0 +1,8 @@
+R3HDM1	CTSO	0.0439217	normal gene
+R3HDM1	CUGBP1	0.0447515	transcription factor
+R3HDM1	EXOC4	0.0445654	normal gene
+R3HDM1	FIP1L1	0.0445232	normal gene
+R3HDM1	GARNL1	0.0441297	normal gene
+R3HDM1	HLA-E	0.0462931	normal gene
+R3HDM1	HLA-F	0.0430989	normal gene
+R3HDM1	HLA-G	0.0448538	normal gene

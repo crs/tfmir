@@ -1,0 +1,12 @@
+CUGBP2	AP1S2	0.0441506	normal gene
+CUGBP2	GAS7	0.0446204	transcription factor
+CUGBP2	GJC2	0.0443257	normal gene
+CUGBP2	MYCN	0.0490838	transcription factor
+CUGBP2	PGAM5	0.0453594	normal gene
+CUGBP2	PITX1	0.0439669	transcription factor
+CUGBP2	QKI	0.0433069	transcription factor
+CUGBP2	RDH14	0.0509934	normal gene
+CUGBP2	TRIM65	0.0520215	transcription factor
+CUGBP2	USP4	0.0431331	normal gene
+CUGBP2	ZEB2	0.0439381	transcription factor
+CUGBP2	ZNF407	0.0433947	transcription factor

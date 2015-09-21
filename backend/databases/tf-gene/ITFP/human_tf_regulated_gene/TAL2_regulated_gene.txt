@@ -1,0 +1,4 @@
+TAL2	AIFM1	0.0428204	normal gene
+TAL2	DEFB124	0.0441746	normal gene
+TAL2	MAPK12	0.0445345	normal gene
+TAL2	RNF123	0.0430132	normal gene

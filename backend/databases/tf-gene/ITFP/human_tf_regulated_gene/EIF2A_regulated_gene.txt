@@ -1,0 +1,3 @@
+EIF2A	PPP1CC	0.0479932	normal gene
+EIF2A	RPS3A	0.0428164	normal gene
+EIF2A	ZC3H8	0.0450699	transcription factor

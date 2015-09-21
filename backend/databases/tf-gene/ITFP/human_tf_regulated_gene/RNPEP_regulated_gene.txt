@@ -1,0 +1,14 @@
+RNPEP	AP2S1	0.042897	normal gene
+RNPEP	C19orf10	0.043992	normal gene
+RNPEP	COMMD4	0.0443595	normal gene
+RNPEP	ELOVL1	0.0441849	normal gene
+RNPEP	G6PD	0.0504703	normal gene
+RNPEP	MTX1	0.0446728	transcription factor
+RNPEP	null	0.0437399	normal gene
+RNPEP	OTUB1	0.0449441	normal gene
+RNPEP	PFN1	0.0435521	normal gene
+RNPEP	PTBP1	0.0432309	transcription factor
+RNPEP	SLC25A1	0.0463306	normal gene
+RNPEP	TKT	0.0434425	normal gene
+RNPEP	TMEM189-UBE2V1	0.0780706	normal gene
+RNPEP	TXNDC17	0.0428854	normal gene

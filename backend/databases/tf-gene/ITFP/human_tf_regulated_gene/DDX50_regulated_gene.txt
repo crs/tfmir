@@ -1,0 +1,12 @@
+DDX50	ALDH18A1	0.0448274	normal gene
+DDX50	APEX1	0.0462048	transcription factor
+DDX50	CCT4	0.0472707	normal gene
+DDX50	DKC1	0.0439545	normal gene
+DDX50	FBL	0.0431887	normal gene
+DDX50	IMPDH2	0.0469766	normal gene
+DDX50	MCM7	0.0443936	transcription factor
+DDX50	NA	0.0427922	normal gene
+DDX50	PAICS	0.0484244	normal gene
+DDX50	RPL7A	0.0430311	normal gene
+DDX50	SRP72	0.0444598	transcription factor
+DDX50	SSRP1	0.0464239	transcription factor

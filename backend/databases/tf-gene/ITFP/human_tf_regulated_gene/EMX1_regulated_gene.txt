@@ -1,0 +1,2 @@
+EMX1	OSIL	0.0429021	normal gene
+EMX1	PITX3	0.043619	transcription factor

@@ -1,0 +1,6 @@
+ETV6	CASP1	0.0528422	normal gene
+ETV6	HLA-E	0.0434908	normal gene
+ETV6	IL1B	0.0433394	normal gene
+ETV6	ITPR2	0.044312	normal gene
+ETV6	PTGER4	0.0438316	normal gene
+ETV6	RFWD2	0.0450851	transcription factor

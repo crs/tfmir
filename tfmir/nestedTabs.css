@@ -1,0 +1,237 @@
+
+.sidebarimg {
+    height:70px;
+}
+
+.sidebarimgLrg {
+	height:100px;
+
+}
+
+.ui-widget-content {
+	border:none !important;
+}
+
+.ui-dialog {
+	border:1px solid !important;
+}
+
+#tabs-nested > .ui-tabs-panel {
+	/*padding: 0em;
+	margin:1em;*/
+	height:1000px;
+}
+
+#tabs-nested-left {
+	position: relative;
+	/*padding-left: 6.5em;*/
+	height:1000px;
+}
+#tabs-nested-left .ui-tabs-nav {
+	/*
+	position: absolute;
+	left: 0.25em;
+	top: 0.25em;
+	bottom: 0.25em;
+	width: 14em;
+	padding: 0.2em 0 0.2em 0.2em;
+	background:transparent;
+	border-width:0px 1px 0px 0px;
+	border-color:#CCC;
+	border-bottom:none !important;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;*/
+	left:0.25em;
+	top:0.25em;
+	width:12em;
+	position:absolute;
+	background:transparent;
+	padding:0;
+	margin:auto;
+}
+
+
+
+#tabs-nested-left .ui-tabs-nav ul {
+	background:none;
+}
+
+#tabs-nested-left .ui-tabs-nav li {
+	/*height:100px;*/
+	overflow:inherit;
+	list-style-type:none;
+	text-align:center;
+	border:none;
+	margin-bottom:5px;
+	vertical-align: middle;
+	padding:auto;
+	border:inset 1px #F58723;
+
+	/*right: 1px;
+	width: 100%;
+	border: none;
+	border-bottom-width: 1px !important;
+	-moz-border-radius: 4px 0px 0px 4px;
+	-webkit-border-radius: 4px 0px 0px 4px;
+	border-radius: 4px 0px 0px 4px;
+
+	 -moz-border-radius:0 !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    overflow: hidden;*/
+    /*padding:0em !important*/
+}
+
+#tabs-nested-left .ui-tabs-nav li.ui-state-hover {
+    -webkit-box-shadow:0 0px 20px #F58723 inset; 
+    -moz-box-shadow: 0 0px 20px #F58723 inset; 
+    box-shadow:0 0 20px #F58723 inset;
+}
+
+
+#tabs-nested-left .ui-tabs-nav li.ui-state-default {
+    background-color:#F1ECDF;
+    background-image:none;
+}
+
+#tabs-nested-left .ui-tabs-nav li.ui-tabs-selected,
+#tabs-nested-left .ui-tabs-nav li.ui-state-active {
+	border: 1px solid black transparent;
+}
+
+#tabs-nested-left .ui-tabs-nav li a {
+	/*float: left;*/
+	width: 10em;
+	/*height:70px;*/
+	text-align: right;
+}
+#tabs-nested-left > div {
+	position:relative;
+	left:16.5em;
+	height:auto;
+	width:auto;
+	overflow: hidden;
+}
+
+#tabs-nested-left > .tabs-min  {
+	color:yellow;
+}
+
+#tabs-nested-left .tabs-min .ui-tabs-nav {
+	
+	height:auto;
+	border:none !important;
+	/*border-bottom: 1px #C7BA99 solid !important;*/
+ 	float:none;
+}
+
+#tabs-nested-left .tabs-min {
+	border:none;
+}
+
+#tabs-nested-left .ui-widget-header {
+	border-bottom: 1px solid #C7BA99; 
+}
+
+#tabs-nested-left .tabs-min .ui-tabs-nav {
+ 	width:100%;
+ 	height:auto;
+    /*border-bottom: 1px solid #C7BA99 !important;*/
+    /*padding:0 0 10px 0 !important;*/
+}
+
+#tabs-nested-left .tabs-min .ui-tabs-nav .ui-state-default { 
+    background: transparent; 
+	/*border-bottom: 1px solid #C7BA99 !important; */
+	margin:0 !important;
+} 
+
+#tabs-nested-left .tabs-min .ui-tabs-nav .ui-state-active a {
+	background: transparent url(./uiTabsArrow.png) no-repeat bottom center; 
+    border: none !important;
+    padding-bottom:10px !important;
+}
+
+#tabs-nested-left .tabs-min .ui-tabs-nav  {
+	float:none;
+	height:auto;
+}
+#tabs-nested-left .tabs-min .ui-tabs-nav li {
+	float:none; display:inline; border:none;
+	/*margin-bottom:10px !important;*/
+	}
+
+#tabs-nested-left .tabs-min .ui-tabs-nav li a {
+ display:inline;
+ float:initial;
+ text-align:center;
+}
+
+
+
+.tabs-min .ui-widget-header { 
+	height:100% !important;
+	/*border:1px black solid !important;*/
+    padding:0 !important;
+    margin:0 !important;
+}
+
+.tabs-min .ui-tabs-nav li.ui-state-hover {
+	-webkit-box-shadow:0 0 0px black !important;
+    -moz-box-shadow:0 0 0px black !important;
+    box-shadow:0 0 0px black !important;
+    color:#F58723;
+}
+
+.tabs-min .ui-tabs-nav li.ui-state-hover a {
+	color:#F58723 !important;
+	height:auto !important;
+}
+
+.tabs-min .ui-tabs-nav li.ui-state-default a {
+	/*border-bottom: 1px solid black;*/
+	/*padding-bottom: 8px;*/
+}
+
+.tabs-min .ui-tabs-nav li.ui-state-default {
+	border-bottom: 1px solid #C7BA99 !important;
+	padding-bottom:9px;
+	height:25px;
+	background:transparent;
+}
+
+.tabs-min .ui-tabs-nav li {
+
+}
+
+.tabs-min .ui-tabs-panel {
+	/*border:1px solid black;*/
+	margin-top:17px;
+	overflow:auto;
+	z-index:100;
+	font-size:10pt;
+	padding-left:0;
+}
+
+.innerPanels {
+	/*width:900px !important;
+	height:600px !important;*/
+}
+a: {
+	color:black;
+}
+
+a.ui-tabs-anchor:hover {
+	color:#F58723;
+}
+
+hr {
+	color:#F58723;
+	background-color:#F58723;
+	height:1px;
+	border-color: #F58723;
+	border:0px 0px 0px 0px;
+	border-style: solid;
+	border:0;
+}

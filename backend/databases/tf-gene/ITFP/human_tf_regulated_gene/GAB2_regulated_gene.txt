@@ -1,0 +1,6 @@
+GAB2	ABCB6	0.0441735	normal gene
+GAB2	ARHGAP30	0.0449731	normal gene
+GAB2	DMN	0.0431136	normal gene
+GAB2	SFTPC	0.0431984	normal gene
+GAB2	TAC4	0.0429907	normal gene
+GAB2	TMEM105	0.0459037	normal gene

@@ -1,0 +1,4 @@
+PSCD4	CD53	0.0444516	normal gene
+PSCD4	ITGB2	0.0432263	normal gene
+PSCD4	PIK3R5	0.0428602	normal gene
+PSCD4	PLEK	0.0455392	transcription factor

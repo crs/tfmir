@@ -1,0 +1,3 @@
+ID4	CADM1	0.0430323	normal gene
+ID4	PTN	0.0462035	normal gene
+ID4	TRIM2	0.0428893	transcription factor

@@ -1,0 +1,3 @@
+SOX7	DOCK9	0.046346	transcription factor
+SOX7	MMRN2	0.0440355	normal gene
+SOX7	PTPRB	0.0456113	normal gene

@@ -1,0 +1,1 @@
+NFATC1	GPR157	0.0437523	normal gene

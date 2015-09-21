@@ -1,0 +1,6 @@
+SCAPER	CYorf14	0.0453148	normal gene
+SCAPER	KIR2DS5	0.0440736	normal gene
+SCAPER	NA	0.0434331	normal gene
+SCAPER	RPL7L1	0.0430049	normal gene
+SCAPER	SERPINA9	0.0451827	normal gene
+SCAPER	ZNF804B	0.0428376	transcription factor

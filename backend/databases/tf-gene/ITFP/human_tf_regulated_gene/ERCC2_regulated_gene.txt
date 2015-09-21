@@ -1,0 +1,12 @@
+ERCC2	C12orf52	0.0448584	normal gene
+ERCC2	C15orf44	0.0459899	transcription factor
+ERCC2	C16orf13	0.0453573	normal gene
+ERCC2	C6orf108	0.0441566	normal gene
+ERCC2	COASY	0.0430975	normal gene
+ERCC2	CSNK2B	0.0428749	normal gene
+ERCC2	DRG2	0.0432823	normal gene
+ERCC2	EXOSC2	0.0442272	normal gene
+ERCC2	FBXL19	0.0434358	transcription factor
+ERCC2	MRPL4	0.0468218	normal gene
+ERCC2	PIGO	0.0450187	normal gene
+ERCC2	WDR18	0.0438132	transcription factor

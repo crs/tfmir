@@ -1,0 +1,14 @@
+FIS1	C8orf40	0.0439295	normal gene
+FIS1	CALR3	0.057063	normal gene
+FIS1	COX5B	0.0450822	normal gene
+FIS1	DCTN3	0.0561854	normal gene
+FIS1	FAM54B	0.0500611	normal gene
+FIS1	GRHPR	0.0468756	normal gene
+FIS1	LSMD1	0.0458475	normal gene
+FIS1	NDUFA13	0.0563674	normal gene
+FIS1	NDUFB2	0.0470123	normal gene
+FIS1	NDUFB7	0.045311	normal gene
+FIS1	NDUFC1	0.0434892	normal gene
+FIS1	NDUFS7	0.0471889	normal gene
+FIS1	STUB1	0.0436673	transcription factor
+FIS1	ZSWIM7	0.0508988	normal gene

@@ -1,0 +1,4 @@
+APPL2	ASB10	0.0473427	transcription factor
+APPL2	GALNT14	0.0433746	normal gene
+APPL2	ITFG1	0.0435466	normal gene
+APPL2	KLC3	0.0435101	transcription factor

@@ -1,0 +1,2 @@
+REV3L	SAPS3	0.044038	normal gene
+REV3L	WDR42A	0.0434873	transcription factor

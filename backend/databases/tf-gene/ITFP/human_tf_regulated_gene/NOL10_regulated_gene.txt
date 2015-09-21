@@ -1,0 +1,6 @@
+NOL10	CDCA4	0.0435212	normal gene
+NOL10	GNPNAT1	0.0456959	transcription factor
+NOL10	HEATR1	0.0461909	transcription factor
+NOL10	POLQ	0.0431402	transcription factor
+NOL10	PUS7	0.0448604	normal gene
+NOL10	UMPS	0.0437926	normal gene

@@ -1,0 +1,5 @@
+ZNF532	KIAA1128	0.0436131	normal gene
+ZNF532	NFIA	0.0442797	transcription factor
+ZNF532	NFIB	0.0470885	transcription factor
+ZNF532	SPTLC2	0.0442627	normal gene
+ZNF532	ZNF447	0.0430738	normal gene

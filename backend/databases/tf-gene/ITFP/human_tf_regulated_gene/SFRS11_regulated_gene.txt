@@ -1,0 +1,12 @@
+SFRS11	EXOC5	0.0467218	normal gene
+SFRS11	FAM133B	0.0452284	normal gene
+SFRS11	GNAS	0.0431389	normal gene
+SFRS11	HIATL1	0.0448024	normal gene
+SFRS11	MAP3K2	0.0449549	normal gene
+SFRS11	MFN1	0.0444947	normal gene
+SFRS11	NCOA2	0.0438626	transcription factor
+SFRS11	PIK3C2A	0.0445533	normal gene
+SFRS11	PPP3CA	0.0455617	normal gene
+SFRS11	SFRS4	0.0444249	transcription factor
+SFRS11	THOC2	0.0439348	normal gene
+SFRS11	ZC3H7A	0.0430269	transcription factor

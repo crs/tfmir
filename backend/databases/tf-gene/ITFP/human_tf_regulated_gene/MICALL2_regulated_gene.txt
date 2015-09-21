@@ -1,0 +1,7 @@
+MICALL2	BRD4	0.0438209	transcription factor
+MICALL2	C9orf44	0.042932	normal gene
+MICALL2	EMID2	0.0442094	normal gene
+MICALL2	FMN2	0.0480317	normal gene
+MICALL2	HOXB8	0.04709	transcription factor
+MICALL2	ITGA8	0.045046	normal gene
+MICALL2	TCF15	0.0430975	transcription factor

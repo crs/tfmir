@@ -1,0 +1,11 @@
+SP1	DDX3X	0.0454862	transcription factor
+SP1	DHX9	0.0435307	transcription factor
+SP1	MAP3K2	0.0431351	normal gene
+SP1	MCL1	0.0446979	normal gene
+SP1	NCOA2	0.0436976	transcription factor
+SP1	PICALM	0.0439466	normal gene
+SP1	PIK3C2A	0.0437001	normal gene
+SP1	SETD5	0.0493413	normal gene
+SP1	STX16	0.043916	normal gene
+SP1	SUPT6H	0.0463354	normal gene
+SP1	ZNF655	0.0440073	transcription factor

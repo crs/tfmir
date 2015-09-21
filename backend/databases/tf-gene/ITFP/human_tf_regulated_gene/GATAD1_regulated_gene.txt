@@ -1,0 +1,2 @@
+GATAD1	SERINC3	0.0481726	normal gene
+GATAD1	ZNF12	0.0483746	transcription factor

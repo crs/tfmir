@@ -1,0 +1,6 @@
+ERCC3	C12orf24	0.042892	normal gene
+ERCC3	FEN1	0.0457247	normal gene
+ERCC3	GTF2H4	0.04286	normal gene
+ERCC3	MSH2	0.0427859	transcription factor
+ERCC3	RAE1	0.048721	transcription factor
+ERCC3	RFC3	0.0449659	normal gene

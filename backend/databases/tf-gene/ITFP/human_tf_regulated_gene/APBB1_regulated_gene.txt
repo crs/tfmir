@@ -1,0 +1,6 @@
+APBB1	BAZ1A	0.0452127	transcription factor
+APBB1	CAPZA1	0.0463855	normal gene
+APBB1	DUSP3	0.0444503	normal gene
+APBB1	FAM127A	0.0430341	normal gene
+APBB1	MPDZ	0.0434319	normal gene
+APBB1	RAP2B	0.0428378	normal gene

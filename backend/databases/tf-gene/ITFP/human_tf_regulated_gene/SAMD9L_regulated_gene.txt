@@ -1,0 +1,4 @@
+SAMD9L	GBP1	0.0493431	normal gene
+SAMD9L	HLA-DPA1	0.04426	normal gene
+SAMD9L	HLA-DQB1	0.0449542	normal gene
+SAMD9L	IFI44	0.0450937	normal gene

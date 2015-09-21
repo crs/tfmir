@@ -1,0 +1,2 @@
+LHX4	GPATCH4	0.0452629	normal gene
+LHX4	RDH14	0.0449728	normal gene

@@ -1,0 +1,12 @@
+DTX3	ARMCX2	0.0435103	transcription factor
+DTX3	BBS1	0.0429079	normal gene
+DTX3	CLIP3	0.0476916	transcription factor
+DTX3	DNALI1	0.0434702	normal gene
+DTX3	DPH3	0.0468603	normal gene
+DTX3	MED28	0.0448378	normal gene
+DTX3	null	0.0431215	normal gene
+DTX3	SLC22A17	0.0435689	normal gene
+DTX3	ST5	0.0441939	normal gene
+DTX3	TOM1L2	0.045056	normal gene
+DTX3	ZNF447	0.0458308	normal gene
+DTX3	ZNF84	0.0440578	transcription factor

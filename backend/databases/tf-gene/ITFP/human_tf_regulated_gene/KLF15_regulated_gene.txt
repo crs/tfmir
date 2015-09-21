@@ -1,0 +1,8 @@
+KLF15	C9orf98	0.0442008	normal gene
+KLF15	CYP2C9	0.0461435	normal gene
+KLF15	DYNLRB1	0.0465659	normal gene
+KLF15	EGFR	0.0432183	normal gene
+KLF15	FBLN1	0.0441819	normal gene
+KLF15	HNF1B	0.0440524	normal gene
+KLF15	RGMB	0.048183	normal gene
+KLF15	ZNF321	0.0437788	normal gene

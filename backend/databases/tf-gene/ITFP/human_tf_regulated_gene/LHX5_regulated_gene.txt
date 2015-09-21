@@ -1,0 +1,16 @@
+LHX5	ADAMTS15	0.0434996	normal gene
+LHX5	DAPK3	0.0471763	normal gene
+LHX5	ENTPD2	0.0438105	normal gene
+LHX5	GJC2	0.0473967	normal gene
+LHX5	KCNQ2	0.0472596	normal gene
+LHX5	MRPL12	0.0475255	normal gene
+LHX5	MYCN	0.0493325	transcription factor
+LHX5	NPAS4	0.0503691	transcription factor
+LHX5	PER1	0.0478351	normal gene
+LHX5	PGAM5	0.0474124	normal gene
+LHX5	PRDM8	0.0461599	transcription factor
+LHX5	RDH14	0.0539383	normal gene
+LHX5	TREX2	0.0473401	transcription factor
+LHX5	TRIM65	0.0550557	transcription factor
+LHX5	WWTR1	0.0479829	transcription factor
+LHX5	ZNF497	0.0430319	transcription factor

@@ -1,0 +1,3 @@
+SH3GLB2	ARVCF	0.0430226	transcription factor
+SH3GLB2	NUMA1	0.0442067	normal gene
+SH3GLB2	TMEM16F	0.0429176	normal gene

@@ -1,0 +1,2 @@
+PSCD1	ABI2	0.0441038	normal gene
+PSCD1	KDELR3	0.0434021	normal gene

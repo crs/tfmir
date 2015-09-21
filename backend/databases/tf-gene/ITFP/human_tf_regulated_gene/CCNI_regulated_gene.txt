@@ -1,0 +1,2 @@
+CCNI	NPTN	0.045634	normal gene
+CCNI	NUDCD3	0.0428162	normal gene

@@ -1,0 +1,10 @@
+PDPK1	ARSD	0.0428042	normal gene
+PDPK1	CAPZB	0.0444153	normal gene
+PDPK1	CITED2	0.0440248	normal gene
+PDPK1	DLEC1	0.0434197	normal gene
+PDPK1	EMID2	0.0430039	normal gene
+PDPK1	HNF4A	0.0433171	transcription factor
+PDPK1	IRGM	0.0475802	normal gene
+PDPK1	PWWP2B	0.0449336	transcription factor
+PDPK1	TMCC1	0.0442942	normal gene
+PDPK1	TUBGCP6	0.0437209	normal gene

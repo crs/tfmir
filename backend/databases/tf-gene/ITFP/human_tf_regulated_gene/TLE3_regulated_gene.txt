@@ -1,0 +1,3 @@
+TLE3	TMEM194	0.0451839	normal gene
+TLE3	UBE2S	0.0470164	normal gene
+TLE3	UGCGL2	0.0451659	normal gene

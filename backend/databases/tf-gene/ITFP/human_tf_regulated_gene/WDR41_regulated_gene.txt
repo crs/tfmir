@@ -1,0 +1,2 @@
+WDR41	FAM29A	0.043434	normal gene
+WDR41	TXNDC1	0.044149	normal gene

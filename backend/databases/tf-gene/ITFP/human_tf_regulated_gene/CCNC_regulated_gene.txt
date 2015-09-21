@@ -1,0 +1,14 @@
+CCNC	C14orf166	0.0448184	normal gene
+CCNC	C21orf114	0.0455144	normal gene
+CCNC	CCT6A	0.0434367	normal gene
+CCNC	DDX55	0.046308	transcription factor
+CCNC	FBXL8	0.0430144	transcription factor
+CCNC	MKI67IP	0.0441881	transcription factor
+CCNC	NOB1	0.0432118	normal gene
+CCNC	NPM1	0.0501334	normal gene
+CCNC	NR1I2	0.0436773	transcription factor
+CCNC	RPL17	0.0427932	normal gene
+CCNC	RPS21	0.0462314	normal gene
+CCNC	RPS27A	0.0435828	normal gene
+CCNC	SLBP	0.0428022	normal gene
+CCNC	SNRPD1	0.0461261	normal gene

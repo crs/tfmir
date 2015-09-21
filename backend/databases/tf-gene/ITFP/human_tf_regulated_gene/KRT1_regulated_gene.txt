@@ -1,0 +1,7 @@
+KRT1	BEST1	0.0456176	normal gene
+KRT1	INHBC	0.0457379	transcription factor
+KRT1	KRT2	0.046125	normal gene
+KRT1	LCE1E	0.0446467	normal gene
+KRT1	NLRP1	0.04287	transcription factor
+KRT1	PGLYRP4	0.0431947	normal gene
+KRT1	SERPINB8	0.0436925	normal gene

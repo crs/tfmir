@@ -1,0 +1,15 @@
+SCYE1	ACP1	0.0467118	normal gene
+SCYE1	CAPRIN1	0.0449578	normal gene
+SCYE1	CEP57	0.0447985	normal gene
+SCYE1	DDX18	0.0481195	transcription factor
+SCYE1	GTF3C3	0.0430489	transcription factor
+SCYE1	KARS	0.0441436	transcription factor
+SCYE1	MRPL42	0.047206	normal gene
+SCYE1	NMD3	0.0506087	normal gene
+SCYE1	NPM1	0.045309	normal gene
+SCYE1	PSMA3	0.0431119	normal gene
+SCYE1	SFRS1	0.0433991	transcription factor
+SCYE1	SNW1	0.0456489	normal gene
+SCYE1	XRCC5	0.0475776	transcription factor
+SCYE1	XRN2	0.0438866	transcription factor
+SCYE1	ZNF146	0.0490242	transcription factor

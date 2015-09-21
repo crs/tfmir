@@ -1,0 +1,6 @@
+SETBP1	ASH1L	0.0459216	transcription factor
+SETBP1	FAM82B	0.0434335	transcription factor
+SETBP1	MED8	0.0442824	normal gene
+SETBP1	NFIB	0.0482709	transcription factor
+SETBP1	PRELID1	0.04406	normal gene
+SETBP1	WDR42A	0.044543	transcription factor

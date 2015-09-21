@@ -1,0 +1,4 @@
+CSRP3	NRAP	0.0480276	transcription factor
+CSRP3	SGCA	0.0440673	normal gene
+CSRP3	SRL	0.0467119	normal gene
+CSRP3	TNNI1	0.0440229	normal gene

@@ -1,0 +1,1 @@
+MZF1	TMEM16F	0.0443749	normal gene

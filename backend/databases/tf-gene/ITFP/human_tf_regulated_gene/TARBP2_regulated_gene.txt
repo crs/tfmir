@@ -1,0 +1,3 @@
+TARBP2	ATAD3A	0.0431312	transcription factor
+TARBP2	CAD	0.0438278	normal gene
+TARBP2	CLN6	0.0451589	normal gene

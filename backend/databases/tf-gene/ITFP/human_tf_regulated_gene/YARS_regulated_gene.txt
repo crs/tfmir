@@ -1,0 +1,14 @@
+YARS	ACOT7	0.0431449	normal gene
+YARS	DNMT1	0.0439228	normal gene
+YARS	FAM54A	0.0432263	normal gene
+YARS	GARS	0.0564848	normal gene
+YARS	ILF3	0.0434261	transcription factor
+YARS	MRTO4	0.0434169	normal gene
+YARS	MTHFD1L	0.0497821	normal gene
+YARS	NUDT5	0.0429452	normal gene
+YARS	PHF19	0.0504442	normal gene
+YARS	SEH1L	0.0432563	transcription factor
+YARS	SHMT2	0.0470493	normal gene
+YARS	SMCR7L	0.043475	normal gene
+YARS	TIPIN	0.043564	normal gene
+YARS	TRMT1	0.0468812	transcription factor

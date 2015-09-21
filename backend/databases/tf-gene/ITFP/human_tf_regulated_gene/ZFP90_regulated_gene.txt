@@ -1,0 +1,4 @@
+ZFP90	CACNB3	0.0429292	normal gene
+ZFP90	EIF4EBP2	0.0430772	normal gene
+ZFP90	MAGED1	0.043676	normal gene
+ZFP90	TCTN1	0.0477368	normal gene

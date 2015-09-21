@@ -1,0 +1,5 @@
+WDR48	E2F4	0.0455117	transcription factor
+WDR48	GDPD1	0.0437754	normal gene
+WDR48	SH3GLP2	0.0471957	normal gene
+WDR48	SVEP1	0.0431124	normal gene
+WDR48	USE1	0.0460531	normal gene

@@ -1,0 +1,2 @@
+KLHDC3	CHCHD2	0.043278	normal gene
+KLHDC3	SLC29A1	0.0479851	normal gene

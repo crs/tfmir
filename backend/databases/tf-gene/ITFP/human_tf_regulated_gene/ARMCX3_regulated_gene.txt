@@ -1,0 +1,5 @@
+ARMCX3	ARMCX1	0.0496422	transcription factor
+ARMCX3	GPRASP2	0.0432536	normal gene
+ARMCX3	KARS	0.0457269	transcription factor
+ARMCX3	MAGEH1	0.0566754	normal gene
+ARMCX3	NDFIP1	0.043736	normal gene

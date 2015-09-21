@@ -1,0 +1,3 @@
+ZNF10	C2orf14	0.0452286	normal gene
+ZNF10	TMEM50B	0.0459266	normal gene
+ZNF10	ZNF84	0.0449823	transcription factor

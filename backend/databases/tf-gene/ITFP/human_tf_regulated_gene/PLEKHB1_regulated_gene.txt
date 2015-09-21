@@ -1,0 +1,2 @@
+PLEKHB1	CADM1	0.0449503	normal gene
+PLEKHB1	RBM38	0.0472317	transcription factor

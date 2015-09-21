@@ -1,0 +1,5 @@
+PLAGL2	CLP1	0.0503923	normal gene
+PLAGL2	FAM149A	0.0497425	normal gene
+PLAGL2	MRPS30	0.0431082	normal gene
+PLAGL2	PPARD	0.0431198	transcription factor
+PLAGL2	ZBTB20	0.0427995	transcription factor

@@ -1,0 +1,13 @@
+ZNF384	BICD1	0.0456989	normal gene
+ZNF384	C1orf136	0.0466633	normal gene
+ZNF384	C20orf71	0.0457305	normal gene
+ZNF384	C9orf98	0.0487458	normal gene
+ZNF384	DMWD	0.0457983	transcription factor
+ZNF384	EGFR	0.0433312	normal gene
+ZNF384	EPOR	0.0496731	normal gene
+ZNF384	FMO4	0.0446701	normal gene
+ZNF384	HDGFL1	0.0493419	normal gene
+ZNF384	PAPOLG	0.0446968	normal gene
+ZNF384	RGMB	0.0443185	normal gene
+ZNF384	TEK	0.0465751	normal gene
+ZNF384	WHDC1L1	0.0462625	normal gene

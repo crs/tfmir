@@ -1,0 +1,2 @@
+SALL2	LPHN1	0.0431248	normal gene
+SALL2	SV2A	0.0429624	normal gene

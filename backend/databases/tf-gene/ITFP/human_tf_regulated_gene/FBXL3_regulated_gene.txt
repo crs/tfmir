@@ -1,0 +1,4 @@
+FBXL3	FBXW12	0.0428511	transcription factor
+FBXL3	OSBPL9	0.0464645	transcription factor
+FBXL3	STT3B	0.0494691	normal gene
+FBXL3	UBR5	0.0439124	normal gene

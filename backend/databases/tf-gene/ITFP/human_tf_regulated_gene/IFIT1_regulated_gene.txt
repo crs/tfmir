@@ -1,0 +1,2 @@
+IFIT1	IFI44L	0.0478172	normal gene
+IFIT1	IFIT3	0.0442214	transcription factor

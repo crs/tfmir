@@ -1,0 +1,2 @@
+HNRPK	BUB3	0.0473432	transcription factor
+HNRPK	HNRNPU	0.0451279	normal gene

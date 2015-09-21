@@ -1,0 +1,6 @@
+STRN3	ATE1	0.0469441	normal gene
+STRN3	IPO7	0.0428683	normal gene
+STRN3	KIAA0776	0.0456414	normal gene
+STRN3	MARCH7	0.0441604	normal gene
+STRN3	NAGK	0.0447302	normal gene
+STRN3	WWP1	0.0436621	normal gene

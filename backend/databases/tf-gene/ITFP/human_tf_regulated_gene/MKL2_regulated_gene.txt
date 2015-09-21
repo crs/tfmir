@@ -1,0 +1,16 @@
+MKL2	ADPGK	0.0428931	normal gene
+MKL2	CUGBP1	0.0441269	transcription factor
+MKL2	ECM2	0.046399	normal gene
+MKL2	FBLN1	0.0441726	normal gene
+MKL2	GARNL1	0.043121	normal gene
+MKL2	GNB1	0.0520459	transcription factor
+MKL2	KIAA1217	0.0489638	normal gene
+MKL2	MAPK1	0.0445064	normal gene
+MKL2	MGAT2	0.0462911	normal gene
+MKL2	MYO9B	0.0431982	normal gene
+MKL2	NUP50	0.0438567	transcription factor
+MKL2	OTUB1	0.046681	normal gene
+MKL2	PRPF40A	0.0440349	transcription factor
+MKL2	SEPP1	0.0457358	normal gene
+MKL2	SPRY1	0.0474524	normal gene
+MKL2	TNS1	0.042844	normal gene

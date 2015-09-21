@@ -1,0 +1,10 @@
+RECQL	C14orf106	0.0438488	transcription factor
+RECQL	ECHDC2	0.0435859	normal gene
+RECQL	ETNK1	0.042982	normal gene
+RECQL	GNG13	0.045939	normal gene
+RECQL	GOLT1B	0.0468276	normal gene
+RECQL	HERC4	0.0437482	normal gene
+RECQL	NRAS	0.0472739	normal gene
+RECQL	TMOD3	0.0480791	normal gene
+RECQL	TPP2	0.0484928	normal gene
+RECQL	ZCCHC7	0.0464124	transcription factor

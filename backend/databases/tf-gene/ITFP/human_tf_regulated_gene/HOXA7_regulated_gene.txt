@@ -1,0 +1,14 @@
+HOXA7	ANKRD17	0.0438096	transcription factor
+HOXA7	BRWD2	0.0450898	transcription factor
+HOXA7	C14orf101	0.0431909	normal gene
+HOXA7	ETNK1	0.0449525	normal gene
+HOXA7	HOXA5	0.0579594	transcription factor
+HOXA7	JMJD2C	0.0460266	normal gene
+HOXA7	KCNH2	0.0438096	normal gene
+HOXA7	METAP2	0.0440977	transcription factor
+HOXA7	PAN3	0.0451064	normal gene
+HOXA7	PAPD4	0.0462444	normal gene
+HOXA7	SEPT2	0.0468221	normal gene
+HOXA7	ZCCHC7	0.0457207	transcription factor
+HOXA7	ZFR	0.0433208	normal gene
+HOXA7	ZNF638	0.0513956	transcription factor

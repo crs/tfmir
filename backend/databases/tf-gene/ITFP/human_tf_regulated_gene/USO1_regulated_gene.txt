@@ -1,0 +1,6 @@
+USO1	KIAA1128	0.0526096	normal gene
+USO1	MBNL1	0.043179	transcription factor
+USO1	PIAS1	0.0475701	transcription factor
+USO1	TIMM17A	0.0466037	normal gene
+USO1	TNRC6B	0.0428351	transcription factor
+USO1	ZNF364	0.0431247	transcription factor

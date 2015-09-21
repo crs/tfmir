@@ -1,0 +1,4 @@
+AAMP	NLE1	0.0431282	transcription factor
+AAMP	PES1	0.0429849	transcription factor
+AAMP	PRMT5	0.0446997	normal gene
+AAMP	RCC1	0.0453655	normal gene

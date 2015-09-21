@@ -1,0 +1,3 @@
+ASB6	MED27	0.0441774	normal gene
+ASB6	PSMD9	0.0469922	normal gene
+ASB6	ZDHHC12	0.0444698	normal gene

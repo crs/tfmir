@@ -1,0 +1,2 @@
+ZNF74	ANKRD15	0.04667	transcription factor
+ZNF74	FNDC5	0.0432118	normal gene

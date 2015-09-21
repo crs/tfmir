@@ -1,0 +1,11 @@
+PKNOX2	ART1	0.0459493	normal gene
+PKNOX2	BST2	0.0443259	normal gene
+PKNOX2	DNAJA4	0.0427755	normal gene
+PKNOX2	FHAD1	0.0490802	normal gene
+PKNOX2	FOXR2	0.0436741	transcription factor
+PKNOX2	KLC3	0.0428913	transcription factor
+PKNOX2	NUDT7	0.043099	normal gene
+PKNOX2	PDZRN3	0.0437464	normal gene
+PKNOX2	PTCHD2	0.0450802	normal gene
+PKNOX2	SLC34A3	0.044225	normal gene
+PKNOX2	SPAG17	0.0436478	normal gene

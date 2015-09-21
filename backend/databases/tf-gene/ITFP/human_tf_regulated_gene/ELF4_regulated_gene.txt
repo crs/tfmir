@@ -1,0 +1,9 @@
+ELF4	ANK2	0.047594	transcription factor
+ELF4	ARPC2	0.0447126	normal gene
+ELF4	EFHA2	0.0428818	normal gene
+ELF4	HSPA12A	0.0467914	normal gene
+ELF4	LONRF2	0.0457009	transcription factor
+ELF4	NFIA	0.0434238	transcription factor
+ELF4	SOBP	0.0448267	normal gene
+ELF4	SORBS1	0.0442699	normal gene
+ELF4	ZYG11B	0.04503	normal gene

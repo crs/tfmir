@@ -1,0 +1,11 @@
+LASS6	AFF4	0.0444771	normal gene
+LASS6	DHX9	0.0438168	transcription factor
+LASS6	EXOC5	0.0455304	normal gene
+LASS6	FBXO38	0.043911	transcription factor
+LASS6	LRRC58	0.0455163	normal gene
+LASS6	MKLN1	0.0429014	transcription factor
+LASS6	NCOA2	0.0430273	transcription factor
+LASS6	PTGES2	0.0430435	transcription factor
+LASS6	PTPN11	0.0456756	normal gene
+LASS6	PTPN12	0.0434188	normal gene
+LASS6	SNX13	0.0430772	normal gene

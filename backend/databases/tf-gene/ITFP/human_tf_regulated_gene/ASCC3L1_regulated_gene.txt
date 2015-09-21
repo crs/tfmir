@@ -1,0 +1,2 @@
+ASCC3L1	CHD1L	0.0435753	normal gene
+ASCC3L1	STRBP	0.0439029	transcription factor

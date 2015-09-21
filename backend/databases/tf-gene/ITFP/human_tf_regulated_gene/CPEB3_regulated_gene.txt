@@ -1,0 +1,3 @@
+CPEB3	FOXN3	0.0450315	transcription factor
+CPEB3	SLMAP	0.0449593	transcription factor
+CPEB3	SULT1C2	0.043079	normal gene

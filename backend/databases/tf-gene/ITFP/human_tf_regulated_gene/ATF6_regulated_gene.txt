@@ -1,0 +1,1 @@
+ATF6	C14orf101	0.0430061	normal gene

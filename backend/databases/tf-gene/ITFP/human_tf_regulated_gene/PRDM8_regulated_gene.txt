@@ -1,0 +1,15 @@
+PRDM8	C20orf135	0.0470288	normal gene
+PRDM8	CROCCL2	0.0463345	normal gene
+PRDM8	CRYBB3	0.0459501	normal gene
+PRDM8	GJC2	0.0453882	normal gene
+PRDM8	GLI4	0.0452717	transcription factor
+PRDM8	KCNQ2	0.0493809	normal gene
+PRDM8	KIAA1609	0.0455825	normal gene
+PRDM8	LHX5	0.0461599	transcription factor
+PRDM8	MYCN	0.0458911	transcription factor
+PRDM8	NPAS4	0.0502332	transcription factor
+PRDM8	RDH14	0.0506135	normal gene
+PRDM8	TREX2	0.0485018	transcription factor
+PRDM8	TRIM65	0.0528551	transcription factor
+PRDM8	ZNF143	0.0434011	transcription factor
+PRDM8	ZNF613	0.0452515	transcription factor

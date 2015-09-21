@@ -1,0 +1,5 @@
+CARHSP1	ANKRD23	0.0430445	transcription factor
+CARHSP1	COPE	0.0446995	transcription factor
+CARHSP1	GANAB	0.0473006	normal gene
+CARHSP1	PRKCSH	0.0437946	normal gene
+CARHSP1	VKORC1	0.0431598	normal gene

@@ -1,0 +1,9 @@
+BCL6B	CLDN5	0.043986	normal gene
+BCL6B	CLEC14A	0.0505351	normal gene
+BCL6B	ESAM	0.049778	normal gene
+BCL6B	FGD5	0.0452742	transcription factor
+BCL6B	GJA4	0.0436147	normal gene
+BCL6B	HSPA12B	0.0434795	normal gene
+BCL6B	PCDH12	0.0449404	normal gene
+BCL6B	ROBO4	0.047041	normal gene
+BCL6B	VWF	0.0496184	transcription factor

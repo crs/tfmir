@@ -1,0 +1,5 @@
+NMI	ARHGDIB	0.0455071	normal gene
+NMI	HMHA1	0.0455388	normal gene
+NMI	PSMB8	0.047021	normal gene
+NMI	RAC2	0.0452523	normal gene
+NMI	TOX4	0.0427806	transcription factor

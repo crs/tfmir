@@ -1,0 +1,5 @@
+ANAPC2	BAT2	0.046792	normal gene
+ANAPC2	C7orf27	0.0476688	transcription factor
+ANAPC2	CIZ1	0.0439455	transcription factor
+ANAPC2	MAP2K2	0.0434441	normal gene
+ANAPC2	SEMA5A	0.0450657	normal gene

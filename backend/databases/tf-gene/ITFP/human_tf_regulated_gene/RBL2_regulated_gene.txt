@@ -1,0 +1,3 @@
+RBL2	MGAT4B	0.0428224	normal gene
+RBL2	PI4K2A	0.0497406	normal gene
+RBL2	SEPP1	0.04595	normal gene

@@ -1,0 +1,3 @@
+WDR33	SAPS3	0.0429193	normal gene
+WDR33	TIA1	0.0437001	transcription factor
+WDR33	ZNF638	0.0438796	transcription factor

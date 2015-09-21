@@ -1,0 +1,3 @@
+ANKS6	ABCF2	0.0428132	normal gene
+ANKS6	C16orf59	0.0439146	normal gene
+ANKS6	WDR79	0.0434007	transcription factor

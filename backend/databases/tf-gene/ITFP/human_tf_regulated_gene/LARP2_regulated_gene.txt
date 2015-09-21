@@ -1,0 +1,2 @@
+LARP2	EIF4E	0.046513	normal gene
+LARP2	SEH1L	0.0451277	transcription factor

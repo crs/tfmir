@@ -1,0 +1,7 @@
+HNRPA3	GLMN	0.0444536	normal gene
+HNRPA3	HNRPA3P1	0.0478647	normal gene
+HNRPA3	HNRPD	0.0449008	transcription factor
+HNRPA3	HNRPH3	0.043533	transcription factor
+HNRPA3	NA	0.0554714	normal gene
+HNRPA3	PTBP2	0.0454422	transcription factor
+HNRPA3	SFRS10	0.0433459	transcription factor

@@ -1,0 +1,14 @@
+CHD5	ADAM11	0.0470624	normal gene
+CHD5	ADCY1	0.0433278	normal gene
+CHD5	ASB10	0.0447243	transcription factor
+CHD5	DGCR13	0.0448052	transcription factor
+CHD5	DISC1	0.0443745	transcription factor
+CHD5	KRTAP3-1	0.0432573	normal gene
+CHD5	LMO7	0.0452266	transcription factor
+CHD5	MAP2K2	0.045191	normal gene
+CHD5	NKX1-1	0.0474504	normal gene
+CHD5	PANX2	0.0471071	normal gene
+CHD5	PROSC	0.0429347	normal gene
+CHD5	SEPSECS	0.0435622	normal gene
+CHD5	SLC22A23	0.0472375	normal gene
+CHD5	TRIM10	0.0431019	transcription factor

@@ -1,0 +1,2 @@
+EBF3	DPH5	0.0441801	normal gene
+EBF3	INSL3	0.0461054	normal gene

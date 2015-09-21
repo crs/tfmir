@@ -1,0 +1,3 @@
+ZNF566	ARIH2	0.0429059	normal gene
+ZNF566	ARMC1	0.0439608	transcription factor
+ZNF566	S100A10	0.048943	normal gene

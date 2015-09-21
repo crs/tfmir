@@ -1,0 +1,13 @@
+RBM25	ANKRD12	0.0512813	transcription factor
+RBM25	ATRX	0.0462166	normal gene
+RBM25	CEP110	0.0482827	normal gene
+RBM25	CEP290	0.04372	normal gene
+RBM25	FAM126B	0.0505669	normal gene
+RBM25	PPIG	0.0466304	normal gene
+RBM25	PRPF40A	0.0487277	transcription factor
+RBM25	REPS1	0.0429424	normal gene
+RBM25	RIF1	0.0437858	normal gene
+RBM25	TGS1	0.0504431	normal gene
+RBM25	TOP1	0.0464595	normal gene
+RBM25	USP16	0.0437904	normal gene
+RBM25	YTHDC1	0.0467475	transcription factor

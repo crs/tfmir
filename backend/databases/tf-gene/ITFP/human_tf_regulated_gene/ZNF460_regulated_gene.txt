@@ -1,0 +1,13 @@
+ZNF460	C10orf28	0.0430177	normal gene
+ZNF460	COG3	0.0437269	normal gene
+ZNF460	FKBP15	0.0442679	normal gene
+ZNF460	FOXJ3	0.0432225	transcription factor
+ZNF460	GRPEL2	0.0446219	normal gene
+ZNF460	HUS1	0.0428536	normal gene
+ZNF460	MAP3K7IP3	0.0456192	normal gene
+ZNF460	MCM3AP	0.0436004	normal gene
+ZNF460	MDM2	0.0432919	normal gene
+ZNF460	ME2	0.0437157	normal gene
+ZNF460	POLDIP3	0.0447271	transcription factor
+ZNF460	SGTB	0.0487372	transcription factor
+ZNF460	ZDHHC20	0.0431219	normal gene

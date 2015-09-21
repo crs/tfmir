@@ -1,0 +1,8 @@
+ENPEP	ABI3BP	0.0460949	normal gene
+ENPEP	AQP1	0.0482209	normal gene
+ENPEP	COL15A1	0.0453772	transcription factor
+ENPEP	DCN	0.0503155	normal gene
+ENPEP	GPR116	0.042772	normal gene
+ENPEP	PRELP	0.045599	normal gene
+ENPEP	RAI2	0.0460431	normal gene
+ENPEP	TNS1	0.0447225	normal gene

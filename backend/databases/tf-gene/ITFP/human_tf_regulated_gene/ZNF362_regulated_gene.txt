@@ -1,0 +1,9 @@
+ZNF362	CCDC27	0.0438799	normal gene
+ZNF362	DDX51	0.0454048	transcription factor
+ZNF362	DHX8	0.0433267	transcription factor
+ZNF362	IRGM	0.0445115	normal gene
+ZNF362	MPPE1	0.0430555	normal gene
+ZNF362	NARG1	0.0432078	transcription factor
+ZNF362	SCT	0.0440341	transcription factor
+ZNF362	SFRS6	0.0429048	transcription factor
+ZNF362	ZNF771	0.0444847	transcription factor

@@ -1,0 +1,16 @@
+ERF	ACTB	0.0427736	normal gene
+ERF	ARHGDIA	0.0429538	normal gene
+ERF	BMP1	0.0440345	normal gene
+ERF	CLPTM1	0.0429936	normal gene
+ERF	GANAB	0.0458718	normal gene
+ERF	HGS	0.0494745	transcription factor
+ERF	HYOU1	0.0449901	normal gene
+ERF	KDELR1	0.0489952	normal gene
+ERF	LRRC41	0.0433944	normal gene
+ERF	PFN1	0.04382	normal gene
+ERF	PKM2	0.0459587	normal gene
+ERF	PPP1R11	0.0455731	normal gene
+ERF	PRKCSH	0.0454839	normal gene
+ERF	SAMD4B	0.0447633	transcription factor
+ERF	SHC1	0.0497993	transcription factor
+ERF	SLC39A13	0.0453442	normal gene

@@ -1,0 +1,16 @@
+SF3B4	ARHGDIA	0.0516646	normal gene
+SF3B4	C19orf29	0.0430357	normal gene
+SF3B4	CLPTM1L	0.0447549	normal gene
+SF3B4	GALT	0.0501491	normal gene
+SF3B4	GPHA2	0.0453108	normal gene
+SF3B4	GPR172A	0.0470087	normal gene
+SF3B4	PSME3	0.0556407	normal gene
+SF3B4	RNF26	0.050367	normal gene
+SF3B4	SAPS1	0.0471699	normal gene
+SF3B4	SEPT13	0.0441412	normal gene
+SF3B4	SF3A2	0.049248	transcription factor
+SF3B4	STRN4	0.0460883	transcription factor
+SF3B4	TRIM28	0.052088	transcription factor
+SF3B4	UBAP2L	0.0489148	normal gene
+SF3B4	ZNF25	0.045632	transcription factor
+SF3B4	ZNF598	0.0458451	transcription factor

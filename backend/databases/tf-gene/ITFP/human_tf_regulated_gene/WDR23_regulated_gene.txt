@@ -1,0 +1,4 @@
+WDR23	DEDD	0.0463213	transcription factor
+WDR23	ERLIN1	0.0431458	normal gene
+WDR23	KCNH2	0.0433395	normal gene
+WDR23	SDHC	0.0467024	normal gene

@@ -1,0 +1,16 @@
+TBX10	ATP6V1E2	0.0433417	normal gene
+TBX10	C1orf110	0.0443443	normal gene
+TBX10	GEMIN7	0.0459512	normal gene
+TBX10	GPR6	0.0476343	normal gene
+TBX10	INSL3	0.0502012	normal gene
+TBX10	LMO7	0.0436457	transcription factor
+TBX10	P2RY4	0.0435307	normal gene
+TBX10	PLCE1	0.0440567	normal gene
+TBX10	PSG6	0.0438482	normal gene
+TBX10	PSME3	0.0429186	normal gene
+TBX10	SFPQ	0.0430041	transcription factor
+TBX10	SNX13	0.0439959	normal gene
+TBX10	SOX17	0.0506685	transcription factor
+TBX10	SPAG17	0.0454584	normal gene
+TBX10	TMEM84	0.043165	normal gene
+TBX10	TSEN2	0.0511848	normal gene

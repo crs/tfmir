@@ -1,0 +1,6 @@
+MKX	DNASE1	0.0444863	transcription factor
+MKX	GJC2	0.0431216	normal gene
+MKX	MRPL12	0.0464764	normal gene
+MKX	MYCN	0.0464737	transcription factor
+MKX	RDH14	0.0488494	normal gene
+MKX	TRIM65	0.0435953	transcription factor

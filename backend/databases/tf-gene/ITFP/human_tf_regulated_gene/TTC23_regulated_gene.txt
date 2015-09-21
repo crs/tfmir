@@ -1,0 +1,2 @@
+TTC23	B9D1	0.0438579	normal gene
+TTC23	EXT2	0.0477511	normal gene

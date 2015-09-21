@@ -1,0 +1,3 @@
+NFIC	TENC1	0.0494125	normal gene
+NFIC	TNS1	0.0432756	normal gene
+NFIC	ZBTB47	0.043006	transcription factor

@@ -1,0 +1,9 @@
+ANK2	C2orf33	0.0430765	normal gene
+ANK2	CRYAB	0.0430988	normal gene
+ANK2	DIP2C	0.0446241	normal gene
+ANK2	DMD	0.0437524	transcription factor
+ANK2	DST	0.0498887	normal gene
+ANK2	ELF4	0.047594	transcription factor
+ANK2	MAGI2	0.0435787	normal gene
+ANK2	SORBS1	0.0458714	normal gene
+ANK2	TNFRSF10A	0.0438227	normal gene

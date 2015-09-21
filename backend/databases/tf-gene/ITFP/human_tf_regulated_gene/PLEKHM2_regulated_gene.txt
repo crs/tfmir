@@ -1,0 +1,2 @@
+PLEKHM2	MATR3	0.042837	transcription factor
+PLEKHM2	RBM39	0.0463491	transcription factor

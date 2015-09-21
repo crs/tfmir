@@ -1,0 +1,2 @@
+CENTD2	EHD1	0.042787	normal gene
+CENTD2	TRADD	0.0484934	transcription factor

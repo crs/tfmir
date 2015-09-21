@@ -1,0 +1,8 @@
+OSBPL11	ALPI	0.0430647	normal gene
+OSBPL11	CNTROB	0.0431003	normal gene
+OSBPL11	LBX1	0.0430548	transcription factor
+OSBPL11	MBD6	0.043801	transcription factor
+OSBPL11	PPTC7	0.042773	normal gene
+OSBPL11	SCT	0.0441344	transcription factor
+OSBPL11	TMCC1	0.0480438	normal gene
+OSBPL11	ZNF771	0.0445529	transcription factor

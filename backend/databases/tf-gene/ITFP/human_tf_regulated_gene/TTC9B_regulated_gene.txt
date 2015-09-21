@@ -1,0 +1,4 @@
+TTC9B	LGI2	0.0483474	normal gene
+TTC9B	NPFF	0.0441519	normal gene
+TTC9B	OSIL	0.0443879	normal gene
+TTC9B	PBRM1	0.0428232	transcription factor

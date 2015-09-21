@@ -1,0 +1,4 @@
+TAF4	CENPQ	0.0441533	normal gene
+TAF4	NFATC2IP	0.0438829	normal gene
+TAF4	SIP1	0.0466113	normal gene
+TAF4	ZNF280C	0.0453237	normal gene

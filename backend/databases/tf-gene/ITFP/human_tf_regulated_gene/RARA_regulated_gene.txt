@@ -1,0 +1,7 @@
+RARA	ARHGAP30	0.0444409	normal gene
+RARA	ARMC5	0.0429707	transcription factor
+RARA	C12orf32	0.0451394	normal gene
+RARA	C20orf43	0.0461886	normal gene
+RARA	LIMA1	0.0436761	transcription factor
+RARA	TAC4	0.0435222	normal gene
+RARA	TMEM105	0.0464212	normal gene

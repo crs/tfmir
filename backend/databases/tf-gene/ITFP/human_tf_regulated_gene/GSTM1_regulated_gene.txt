@@ -1,0 +1,1 @@
+GSTM1	GSTM2	0.0801682	transcription factor

@@ -1,0 +1,8 @@
+CTGF	CALD1	0.0445034	transcription factor
+CTGF	CNN3	0.048357	normal gene
+CTGF	CYR61	0.0513	transcription factor
+CTGF	MMP2	0.0445852	normal gene
+CTGF	MXRA7	0.0435245	normal gene
+CTGF	SLC2A10	0.0437923	normal gene
+CTGF	UTRN	0.0431483	transcription factor
+CTGF	WWTR1	0.0470555	transcription factor

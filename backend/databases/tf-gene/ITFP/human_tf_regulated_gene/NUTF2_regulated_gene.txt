@@ -1,0 +1,3 @@
+NUTF2	ABCF2	0.0459241	normal gene
+NUTF2	GLRX3	0.0443591	normal gene
+NUTF2	THOC4	0.0472559	transcription factor

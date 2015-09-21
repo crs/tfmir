@@ -1,0 +1,12 @@
+LONP1	AURKAIP1	0.0435269	normal gene
+LONP1	C16orf13	0.0441565	normal gene
+LONP1	C19orf53	0.0431726	normal gene
+LONP1	C21orf94	0.0446307	normal gene
+LONP1	CHCHD2	0.0484516	normal gene
+LONP1	CLPP	0.0454463	normal gene
+LONP1	ISOC2	0.0440347	normal gene
+LONP1	LSM4	0.0450096	normal gene
+LONP1	MRPL37	0.0455034	normal gene
+LONP1	POLRMT	0.0463625	normal gene
+LONP1	SEMA7A	0.054052	normal gene
+LONP1	TPI1	0.0479901	normal gene

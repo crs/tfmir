@@ -1,0 +1,2 @@
+NR1D1	EXOC6B	0.0451462	normal gene
+NR1D1	GOLGA2	0.043645	normal gene

@@ -1,0 +1,14 @@
+PITX3	ADRBK1	0.0442155	normal gene
+PITX3	CPSF1	0.047259	transcription factor
+PITX3	CRYBB3	0.0453545	normal gene
+PITX3	EMX1	0.043619	transcription factor
+PITX3	FILIP1	0.0438824	normal gene
+PITX3	GDF11	0.0438861	transcription factor
+PITX3	KRTAP5-8	0.0432213	normal gene
+PITX3	MUC8	0.0445107	normal gene
+PITX3	OSBPL5	0.0467802	transcription factor
+PITX3	OSIL	0.0438621	normal gene
+PITX3	PPIA	0.0451541	normal gene
+PITX3	SIX5	0.0433459	transcription factor
+PITX3	SUSD3	0.0429754	normal gene
+PITX3	WIPI2	0.051503	transcription factor

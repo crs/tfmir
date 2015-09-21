@@ -1,0 +1,10 @@
+RBX1	ADSL	0.0429894	normal gene
+RBX1	C6orf108	0.0433373	normal gene
+RBX1	C9orf105	0.0446475	normal gene
+RBX1	MRPS11	0.0459751	normal gene
+RBX1	MRPS12	0.0434058	transcription factor
+RBX1	PPIE	0.0446964	transcription factor
+RBX1	PSMB7	0.0428406	normal gene
+RBX1	RANBP1	0.0448006	transcription factor
+RBX1	TIMM13	0.0440078	normal gene
+RBX1	WDR18	0.0435833	transcription factor

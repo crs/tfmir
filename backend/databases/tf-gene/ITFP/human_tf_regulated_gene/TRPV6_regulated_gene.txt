@@ -1,0 +1,9 @@
+TRPV6	ARSD	0.0463787	normal gene
+TRPV6	C20orf151	0.043976	normal gene
+TRPV6	CFB	0.0439766	normal gene
+TRPV6	EMID2	0.04286	normal gene
+TRPV6	IGFL1	0.0436668	normal gene
+TRPV6	IRGM	0.044679	normal gene
+TRPV6	MUC3B	0.0441777	normal gene
+TRPV6	NARG1	0.0439206	transcription factor
+TRPV6	SFTPC	0.0437404	normal gene

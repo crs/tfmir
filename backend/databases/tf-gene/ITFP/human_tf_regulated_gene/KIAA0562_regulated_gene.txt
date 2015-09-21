@@ -1,0 +1,1 @@
+KIAA0562	CNOT4	0.0436563	transcription factor

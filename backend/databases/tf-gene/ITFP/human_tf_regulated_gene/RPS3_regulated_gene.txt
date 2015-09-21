@@ -1,0 +1,11 @@
+RPS3	ANP32B	0.0469623	normal gene
+RPS3	C1orf151	0.0497258	normal gene
+RPS3	FBL	0.0528615	normal gene
+RPS3	RPL12	0.0437726	normal gene
+RPS3	RPL5	0.0458481	normal gene
+RPS3	RPL7AP8	0.05141	normal gene
+RPS3	RPL8	0.0515075	transcription factor
+RPS3	RPS10	0.0493962	normal gene
+RPS3	RPS17	0.0431026	normal gene
+RPS3	RPS2	0.0460853	normal gene
+RPS3	RPS8	0.0472874	normal gene

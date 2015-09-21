@@ -1,0 +1,5 @@
+RHAG	CDCA2	0.0440225	normal gene
+RHAG	MICALCL	0.0439171	normal gene
+RHAG	POLH	0.0434492	normal gene
+RHAG	SAAL1	0.0439723	normal gene
+RHAG	SENP2	0.0430275	normal gene

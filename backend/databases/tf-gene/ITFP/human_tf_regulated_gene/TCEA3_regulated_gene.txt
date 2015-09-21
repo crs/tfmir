@@ -1,0 +1,3 @@
+TCEA3	AOC3	0.0456742	normal gene
+TCEA3	DHX9	0.0436429	transcription factor
+TCEA3	RORC	0.0442221	transcription factor

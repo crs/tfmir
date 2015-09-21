@@ -1,0 +1,1 @@
+PRPF6	GTF2F1	0.0487253	transcription factor

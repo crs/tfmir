@@ -1,0 +1,8 @@
+NR3C2	AMY1A	0.0498577	normal gene
+NR3C2	HMMR	0.0439033	normal gene
+NR3C2	LRRC59	0.0444719	normal gene
+NR3C2	MELK	0.0428868	normal gene
+NR3C2	PPP1R13B	0.0472388	transcription factor
+NR3C2	PRSS23	0.0494777	normal gene
+NR3C2	PTPRB	0.0458139	normal gene
+NR3C2	RCAN2	0.0448069	normal gene

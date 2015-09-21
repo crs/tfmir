@@ -1,0 +1,3 @@
+ITIH2	A1CF	0.0434348	normal gene
+ITIH2	E2F4	0.0428244	transcription factor
+ITIH2	IKBKG	0.0431369	normal gene

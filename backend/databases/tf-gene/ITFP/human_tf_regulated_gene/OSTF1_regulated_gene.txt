@@ -1,0 +1,2 @@
+OSTF1	ACTR2	0.0430321	normal gene
+OSTF1	SERPINB8	0.0435885	normal gene

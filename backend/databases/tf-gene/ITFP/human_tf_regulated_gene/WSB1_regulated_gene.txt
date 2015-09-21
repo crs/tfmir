@@ -1,0 +1,5 @@
+WSB1	CPSF1	0.0509665	transcription factor
+WSB1	PBEF1	0.043462	normal gene
+WSB1	PPP3CA	0.0502472	normal gene
+WSB1	RNF19A	0.0439482	transcription factor
+WSB1	ZFAND6	0.0429176	normal gene

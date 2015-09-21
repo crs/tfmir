@@ -1,0 +1,12 @@
+SF3A3	CCDC5	0.0432042	normal gene
+SF3A3	CEP78	0.0447788	normal gene
+SF3A3	LSM7	0.0471511	normal gene
+SF3A3	MCM7	0.0433397	transcription factor
+SF3A3	MSH2	0.0428317	transcription factor
+SF3A3	RANBP1	0.0472665	transcription factor
+SF3A3	RFC2	0.0458776	transcription factor
+SF3A3	RPL35	0.0450218	normal gene
+SF3A3	RUVBL2	0.0432551	transcription factor
+SF3A3	SIVA1	0.0438051	transcription factor
+SF3A3	SSRP1	0.0440755	transcription factor
+SF3A3	TREX1	0.042909	transcription factor

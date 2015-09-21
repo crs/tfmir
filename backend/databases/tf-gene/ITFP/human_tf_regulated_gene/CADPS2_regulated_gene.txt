@@ -1,0 +1,1 @@
+CADPS2	DEFB118	0.0428023	normal gene

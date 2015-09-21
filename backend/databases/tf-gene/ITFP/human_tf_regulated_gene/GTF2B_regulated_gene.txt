@@ -1,0 +1,1 @@
+GTF2B	C3orf38	0.0429476	normal gene

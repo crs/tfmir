@@ -1,0 +1,5 @@
+ZNF639	CCDC59	0.0445223	normal gene
+ZNF639	EIF4E	0.0488117	normal gene
+ZNF639	MED4	0.0451248	normal gene
+ZNF639	SERINC3	0.0478598	normal gene
+ZNF639	ZCCHC10	0.0444226	transcription factor

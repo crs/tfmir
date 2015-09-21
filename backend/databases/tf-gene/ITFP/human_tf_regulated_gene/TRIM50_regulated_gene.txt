@@ -1,0 +1,1 @@
+TRIM50	MMP11	0.044046	normal gene

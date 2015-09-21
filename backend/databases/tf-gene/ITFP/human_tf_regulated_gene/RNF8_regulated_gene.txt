@@ -1,0 +1,3 @@
+RNF8	C12orf24	0.0455851	normal gene
+RNF8	CCT7	0.0430978	normal gene
+RNF8	OR7C2	0.0427944	normal gene

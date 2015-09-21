@@ -1,0 +1,4 @@
+TRIM11	CRYBB3	0.0450277	normal gene
+TRIM11	GJC2	0.0444178	normal gene
+TRIM11	NDOR1	0.0429035	normal gene
+TRIM11	TRIM65	0.0445899	transcription factor

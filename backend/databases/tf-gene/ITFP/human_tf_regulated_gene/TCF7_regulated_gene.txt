@@ -1,0 +1,1 @@
+TCF7	ATP8B1	0.0436111	normal gene

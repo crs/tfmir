@@ -1,0 +1,11 @@
+ZNF12	ANKIB1	0.0431854	transcription factor
+ZNF12	C7orf28B	0.044463	normal gene
+ZNF12	DHX36	0.0459466	transcription factor
+ZNF12	ETNK1	0.0456319	normal gene
+ZNF12	GATAD1	0.0483746	transcription factor
+ZNF12	KRIT1	0.0449197	transcription factor
+ZNF12	MKLN1	0.0508042	transcription factor
+ZNF12	PAPD4	0.0441291	normal gene
+ZNF12	SRP54	0.0449155	normal gene
+ZNF12	TOMM20	0.0432656	normal gene
+ZNF12	ZNF292	0.0446469	transcription factor

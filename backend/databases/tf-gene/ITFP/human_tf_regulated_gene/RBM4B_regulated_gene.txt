@@ -1,0 +1,10 @@
+RBM4B	C22orf16	0.0451509	normal gene
+RBM4B	CLASP1	0.0443772	transcription factor
+RBM4B	DENR	0.043766	normal gene
+RBM4B	DPH4	0.0459091	normal gene
+RBM4B	MARCH7	0.0450822	normal gene
+RBM4B	NME1-NME2	0.0430789	normal gene
+RBM4B	RFWD2	0.0429836	transcription factor
+RBM4B	SFPQ	0.0430505	transcription factor
+RBM4B	TIA1	0.045612	transcription factor
+RBM4B	TRIM13	0.0447113	transcription factor

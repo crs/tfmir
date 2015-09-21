@@ -1,0 +1,5 @@
+CPEB2	C19orf48	0.0432967	normal gene
+CPEB2	MCM3	0.0427994	transcription factor
+CPEB2	PRMT5	0.0439713	normal gene
+CPEB2	RUVBL2	0.0446304	transcription factor
+CPEB2	SSRP1	0.0437511	transcription factor

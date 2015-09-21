@@ -1,0 +1,6 @@
+DHX36	DDX18	0.0439746	transcription factor
+DHX36	KRIT1	0.0457943	transcription factor
+DHX36	PRPF40A	0.0496464	transcription factor
+DHX36	STAG2	0.047742	normal gene
+DHX36	ZNF12	0.0459466	transcription factor
+DHX36	ZNF207	0.043481	transcription factor

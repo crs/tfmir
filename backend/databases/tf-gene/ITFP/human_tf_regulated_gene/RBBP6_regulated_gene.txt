@@ -1,0 +1,11 @@
+RBBP6	C20orf165	0.04681	normal gene
+RBBP6	CREB1	0.0444791	transcription factor
+RBBP6	DMN	0.043211	normal gene
+RBBP6	EMID2	0.0431778	normal gene
+RBBP6	ICMT	0.0443924	normal gene
+RBBP6	PC	0.0447694	normal gene
+RBBP6	RBM38	0.0429202	transcription factor
+RBBP6	STX5	0.0450187	normal gene
+RBBP6	TMEM105	0.0447563	normal gene
+RBBP6	USHBP1	0.0430127	normal gene
+RBBP6	WDR42A	0.0428705	transcription factor

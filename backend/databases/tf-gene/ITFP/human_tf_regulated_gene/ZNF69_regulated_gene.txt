@@ -1,0 +1,2 @@
+ZNF69	HNRPD	0.0438427	transcription factor
+ZNF69	TBRG1	0.0428874	transcription factor

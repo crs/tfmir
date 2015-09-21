@@ -1,0 +1,2 @@
+BHLHB5	LEPREL1	0.0446438	normal gene
+BHLHB5	OMP	0.044228	normal gene

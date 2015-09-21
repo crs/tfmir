@@ -1,0 +1,8 @@
+VBP1	ACAT2	0.0481765	normal gene
+VBP1	C18orf55	0.0454115	normal gene
+VBP1	C5orf22	0.0461324	normal gene
+VBP1	COQ3	0.0438323	normal gene
+VBP1	MTERFD1	0.0437829	normal gene
+VBP1	NARG1	0.0513989	transcription factor
+VBP1	PLXNB2	0.0471397	normal gene
+VBP1	RANBP5	0.044887	transcription factor

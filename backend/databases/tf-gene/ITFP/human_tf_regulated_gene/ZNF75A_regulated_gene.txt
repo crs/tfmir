@@ -1,0 +1,11 @@
+ZNF75A	ATF7IP	0.0521739	normal gene
+ZNF75A	FAM128B	0.052511	normal gene
+ZNF75A	FAM63A	0.0484188	normal gene
+ZNF75A	FBXW12	0.050777	transcription factor
+ZNF75A	GLRX3	0.0469152	normal gene
+ZNF75A	GPR157	0.0502569	normal gene
+ZNF75A	LPP	0.0466458	transcription factor
+ZNF75A	PSME3	0.0440004	normal gene
+ZNF75A	SEPT13	0.0547284	normal gene
+ZNF75A	UACA	0.0470103	transcription factor
+ZNF75A	ZNF160	0.0482663	transcription factor

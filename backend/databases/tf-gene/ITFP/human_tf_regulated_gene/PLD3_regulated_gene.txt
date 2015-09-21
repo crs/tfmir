@@ -1,0 +1,9 @@
+PLD3	ATP6V0C	0.0444553	normal gene
+PLD3	C15orf15	0.0443373	normal gene
+PLD3	CD63	0.0436664	normal gene
+PLD3	NUCB1	0.0447348	normal gene
+PLD3	PSAP	0.0462653	normal gene
+PLD3	RBM15	0.0443267	transcription factor
+PLD3	RNASEK	0.0442962	normal gene
+PLD3	SMNDC1	0.0431209	normal gene
+PLD3	TPP1	0.043299	normal gene

@@ -1,0 +1,4 @@
+GNB5	C16orf13	0.0439717	normal gene
+GNB5	HINT1	0.0429195	normal gene
+GNB5	PRR3	0.0429841	transcription factor
+GNB5	XPNPEP1	0.0441271	transcription factor

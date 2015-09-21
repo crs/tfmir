@@ -1,0 +1,5 @@
+TTC1	FAM96B	0.0439298	normal gene
+TTC1	FH	0.0447278	normal gene
+TTC1	IMMT	0.0443628	normal gene
+TTC1	MRPL15	0.0430892	normal gene
+TTC1	SLC25A46	0.0433261	normal gene

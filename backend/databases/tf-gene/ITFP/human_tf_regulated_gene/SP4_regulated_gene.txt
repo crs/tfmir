@@ -1,0 +1,15 @@
+SP4	ACTB	0.0433351	normal gene
+SP4	ARL2BP	0.0438861	normal gene
+SP4	BMP1	0.0467861	normal gene
+SP4	G6PC3	0.0432353	normal gene
+SP4	KDELR1	0.0437489	normal gene
+SP4	MPDU1	0.0470192	normal gene
+SP4	ORMDL2	0.046028	normal gene
+SP4	P4HB	0.0452975	normal gene
+SP4	RER1	0.043501	normal gene
+SP4	SEC61A1	0.0469345	normal gene
+SP4	SLC39A13	0.0428474	normal gene
+SP4	SURF4	0.0478646	normal gene
+SP4	TEGT	0.0466058	normal gene
+SP4	TM9SF1	0.0504732	normal gene
+SP4	TOMM40	0.0446582	normal gene

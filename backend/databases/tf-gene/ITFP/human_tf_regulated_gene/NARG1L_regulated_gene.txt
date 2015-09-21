@@ -1,0 +1,11 @@
+NARG1L	AGGF1	0.0457655	normal gene
+NARG1L	API5	0.0440415	normal gene
+NARG1L	BRCC3	0.0441816	normal gene
+NARG1L	C9orf41	0.0434673	normal gene
+NARG1L	CCDC100	0.0435841	normal gene
+NARG1L	FKBP15	0.0429465	normal gene
+NARG1L	NSMAF	0.0438201	transcription factor
+NARG1L	ORC5L	0.0438291	normal gene
+NARG1L	THUMPD3	0.0428685	normal gene
+NARG1L	ZC3H15	0.043712	normal gene
+NARG1L	ZNF567	0.0431968	transcription factor

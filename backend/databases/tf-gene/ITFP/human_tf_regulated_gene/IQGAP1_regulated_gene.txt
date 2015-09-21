@@ -1,0 +1,11 @@
+IQGAP1	ACTR2	0.0484158	normal gene
+IQGAP1	BCLAF1	0.052041	normal gene
+IQGAP1	C14orf124	0.0444509	normal gene
+IQGAP1	CD44	0.0489839	normal gene
+IQGAP1	CHD4	0.0429474	normal gene
+IQGAP1	DHX9	0.0491023	transcription factor
+IQGAP1	LAMP1	0.0465263	normal gene
+IQGAP1	MOBKL1B	0.0493922	normal gene
+IQGAP1	OSBPL8	0.0472194	transcription factor
+IQGAP1	PARP2	0.0516719	transcription factor
+IQGAP1	PTCD3	0.0428996	normal gene

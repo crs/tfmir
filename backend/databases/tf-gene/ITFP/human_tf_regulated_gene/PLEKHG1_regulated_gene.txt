@@ -1,0 +1,2 @@
+PLEKHG1	DMPK	0.0467464	normal gene
+PLEKHG1	UBASH3B	0.0439749	normal gene

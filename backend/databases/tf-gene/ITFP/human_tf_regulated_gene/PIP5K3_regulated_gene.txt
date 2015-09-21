@@ -1,0 +1,8 @@
+PIP5K3	CDC73	0.0476627	normal gene
+PIP5K3	DHRS1	0.0438712	normal gene
+PIP5K3	MRPS28	0.0440338	normal gene
+PIP5K3	PAPD4	0.0436465	normal gene
+PIP5K3	RAD23B	0.0443954	normal gene
+PIP5K3	SMU1	0.0490613	transcription factor
+PIP5K3	SP3	0.0435927	transcription factor
+PIP5K3	ZDHHC13	0.0448759	transcription factor

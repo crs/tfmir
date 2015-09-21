@@ -1,0 +1,2 @@
+HAND1	CNR2	0.0429021	normal gene
+HAND1	EZH1	0.0443768	transcription factor

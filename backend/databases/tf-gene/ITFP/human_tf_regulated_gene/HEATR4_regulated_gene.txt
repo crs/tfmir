@@ -1,0 +1,2 @@
+HEATR4	POLH	0.04496	normal gene
+HEATR4	RCAN1	0.044559	normal gene

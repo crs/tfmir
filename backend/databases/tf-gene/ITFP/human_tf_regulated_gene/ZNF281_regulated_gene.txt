@@ -1,0 +1,2 @@
+ZNF281	JOSD3	0.0461	normal gene
+ZNF281	SMNDC1	0.0428945	normal gene

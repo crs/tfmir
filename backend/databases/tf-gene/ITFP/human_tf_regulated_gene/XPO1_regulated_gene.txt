@@ -1,0 +1,10 @@
+XPO1	DNA2	0.0438286	normal gene
+XPO1	FAM133B	0.0435838	normal gene
+XPO1	FUSIP1	0.0443473	transcription factor
+XPO1	HNRNPR	0.0486395	normal gene
+XPO1	ORC6L	0.0430303	normal gene
+XPO1	PNN	0.0448766	normal gene
+XPO1	QSER1	0.045558	normal gene
+XPO1	SFRS4	0.0458239	transcription factor
+XPO1	SMC2	0.0430797	normal gene
+XPO1	TCERG1	0.0427988	transcription factor

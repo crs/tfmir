@@ -1,0 +1,16 @@
+RUNX2	ACSS1	0.0442898	normal gene
+RUNX2	AFG3L1	0.0442896	transcription factor
+RUNX2	ASB10	0.0436593	transcription factor
+RUNX2	BCAS1	0.0445099	normal gene
+RUNX2	C21orf122	0.0447602	normal gene
+RUNX2	CLRN1	0.0443032	normal gene
+RUNX2	LIMK1	0.0433865	normal gene
+RUNX2	MUS81	0.0432311	normal gene
+RUNX2	NEK6	0.045648	normal gene
+RUNX2	NKX1-1	0.0440128	normal gene
+RUNX2	SLC22A23	0.0450056	normal gene
+RUNX2	SLC30A2	0.0444732	normal gene
+RUNX2	ST3GAL3	0.04488	normal gene
+RUNX2	TSSK3	0.0442637	normal gene
+RUNX2	WBSCR17	0.045298	normal gene
+RUNX2	ZNF763	0.0468691	normal gene

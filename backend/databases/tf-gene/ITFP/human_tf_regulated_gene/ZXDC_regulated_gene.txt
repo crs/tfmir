@@ -1,0 +1,5 @@
+ZXDC	EEF1E1	0.0459152	transcription factor
+ZXDC	FOXN4	0.0441516	transcription factor
+ZXDC	INSL3	0.0432943	normal gene
+ZXDC	TRIM13	0.0430368	transcription factor
+ZXDC	VPS37B	0.0429453	normal gene

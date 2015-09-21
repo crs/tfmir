@@ -1,0 +1,10 @@
+ZNF364	LDB3	0.0456355	transcription factor
+ZNF364	MAP4K3	0.0437718	normal gene
+ZNF364	PCMTD1	0.0461352	normal gene
+ZNF364	PIAS1	0.0442197	transcription factor
+ZNF364	RAP1A	0.0459372	normal gene
+ZNF364	SAPS3	0.0460461	normal gene
+ZNF364	SRL	0.0455466	normal gene
+ZNF364	TIMM17A	0.0482263	normal gene
+ZNF364	USO1	0.0431247	transcription factor
+ZNF364	ZNF302	0.0440982	transcription factor

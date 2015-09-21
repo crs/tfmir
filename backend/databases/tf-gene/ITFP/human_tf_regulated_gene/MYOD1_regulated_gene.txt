@@ -1,0 +1,10 @@
+MYOD1	FNDC5	0.043369	normal gene
+MYOD1	HMCN2	0.0456762	normal gene
+MYOD1	ITGA8	0.0458028	normal gene
+MYOD1	ITPKB	0.0436576	normal gene
+MYOD1	JSRP1	0.049601	normal gene
+MYOD1	KIAA1267	0.0445159	normal gene
+MYOD1	MBD6	0.0432957	transcription factor
+MYOD1	REXO1	0.043404	transcription factor
+MYOD1	ROCK1	0.0464528	normal gene
+MYOD1	SPATA21	0.0456127	normal gene

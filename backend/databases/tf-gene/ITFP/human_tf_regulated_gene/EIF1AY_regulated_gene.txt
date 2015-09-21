@@ -1,0 +1,7 @@
+EIF1AY	CYorf15A	0.0564429	normal gene
+EIF1AY	CYorf15B	0.0501976	normal gene
+EIF1AY	DDX3Y	0.0616779	transcription factor
+EIF1AY	JARID1D	0.0459156	transcription factor
+EIF1AY	USP9Y	0.0578573	normal gene
+EIF1AY	UTY	0.0454295	transcription factor
+EIF1AY	ZFY	0.0596967	transcription factor

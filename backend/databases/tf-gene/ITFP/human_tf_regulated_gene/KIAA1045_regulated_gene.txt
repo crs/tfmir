@@ -1,0 +1,8 @@
+KIAA1045	AQP12A	0.0431579	normal gene
+KIAA1045	DPP6	0.043372	normal gene
+KIAA1045	FBXO3	0.0428142	transcription factor
+KIAA1045	HYDIN	0.0449045	normal gene
+KIAA1045	NR1I2	0.0434423	transcription factor
+KIAA1045	null	0.04435	normal gene
+KIAA1045	TMEM16G	0.0430496	normal gene
+KIAA1045	ZNF785	0.0449439	normal gene

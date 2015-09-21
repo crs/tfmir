@@ -1,0 +1,13 @@
+CARD9	ANKRD39	0.0430378	transcription factor
+CARD9	BNIP1	0.0438271	normal gene
+CARD9	CLPP	0.0433759	normal gene
+CARD9	GRPEL1	0.0435909	normal gene
+CARD9	HCCS	0.0428127	normal gene
+CARD9	MRPL15	0.0434021	normal gene
+CARD9	MRPS12	0.0468753	transcription factor
+CARD9	MRPS17	0.0431148	transcription factor
+CARD9	NDUFA8	0.0452788	normal gene
+CARD9	PSMB7	0.0455411	normal gene
+CARD9	PSME3	0.0460804	normal gene
+CARD9	SPRYD5	0.0448987	normal gene
+CARD9	TCEB1	0.0461267	normal gene

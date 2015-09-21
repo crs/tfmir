@@ -1,0 +1,9 @@
+PARP14	C12orf24	0.0453543	normal gene
+PARP14	C17orf27	0.0583169	normal gene
+PARP14	DTX3L	0.0592606	transcription factor
+PARP14	FGD2	0.0431017	transcription factor
+PARP14	KRTAP8-1	0.046621	normal gene
+PARP14	LGALS9	0.0466862	transcription factor
+PARP14	LILRB2	0.0435446	normal gene
+PARP14	MX1	0.0454483	normal gene
+PARP14	PARP10	0.0451205	transcription factor

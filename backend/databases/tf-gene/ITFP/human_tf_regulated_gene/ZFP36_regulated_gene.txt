@@ -1,0 +1,6 @@
+ZFP36	BTG2	0.0473493	normal gene
+ZFP36	CD14	0.0446658	normal gene
+ZFP36	CEBPD	0.046159	transcription factor
+ZFP36	DUSP1	0.0465455	normal gene
+ZFP36	MCL1	0.042853	normal gene
+ZFP36	TNFSF10	0.0495743	normal gene

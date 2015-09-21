@@ -1,0 +1,13 @@
+ZDHHC13	ABI1	0.045578	normal gene
+ZDHHC13	CCBL2	0.0437113	normal gene
+ZDHHC13	CDC73	0.0435508	normal gene
+ZDHHC13	CLINT1	0.0430309	normal gene
+ZDHHC13	DCUN1D1	0.0429264	normal gene
+ZDHHC13	DHRS1	0.0434308	normal gene
+ZDHHC13	EIF4ENIF1	0.0447526	normal gene
+ZDHHC13	ETNK1	0.0471372	normal gene
+ZDHHC13	PAPD4	0.0452246	normal gene
+ZDHHC13	PIP5K3	0.0448759	transcription factor
+ZDHHC13	SMG7	0.045653	transcription factor
+ZDHHC13	SMU1	0.0490186	transcription factor
+ZDHHC13	SP3	0.0432084	transcription factor

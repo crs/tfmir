@@ -1,0 +1,15 @@
+ul.faq  {
+	list-style-type: none;
+}
+
+ul.faq li .q {
+	font-weight:bold;
+	border-left:5px solid #E9DCBB;
+	padding-left:15px;
+}
+
+ul.faq li div {
+	padding-left:20px;
+	padding-right:15px;
+	padding-bottom:10px;
+}

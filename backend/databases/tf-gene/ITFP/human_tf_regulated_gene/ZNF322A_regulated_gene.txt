@@ -1,0 +1,16 @@
+ZNF322A	API5	0.0437105	normal gene
+ZNF322A	CDC5L	0.0459041	transcription factor
+ZNF322A	CTDSPL2	0.048958	normal gene
+ZNF322A	GOPC	0.0434964	normal gene
+ZNF322A	KIAA1333	0.0438672	normal gene
+ZNF322A	MED23	0.0436677	normal gene
+ZNF322A	MSH6	0.0434857	transcription factor
+ZNF322A	NFYA	0.0449407	normal gene
+ZNF322A	PRPF4B	0.0431746	normal gene
+ZNF322A	SIP1	0.0450439	normal gene
+ZNF322A	SPAST	0.0472232	normal gene
+ZNF322A	UTX	0.0454622	transcription factor
+ZNF322A	VTA1	0.0439404	normal gene
+ZNF322A	ZBTB6	0.043235	transcription factor
+ZNF322A	ZNF644	0.0473924	transcription factor
+ZNF322A	ZNF780B	0.0430414	transcription factor

@@ -1,0 +1,16 @@
+WDR76	C12orf32	0.0432111	normal gene
+WDR76	C1orf112	0.0458358	normal gene
+WDR76	C6orf115	0.0476802	normal gene
+WDR76	CCNA2	0.0455926	transcription factor
+WDR76	CENPH	0.0434961	normal gene
+WDR76	CHAF1A	0.0471426	normal gene
+WDR76	DHFR	0.0429056	normal gene
+WDR76	GTSE1	0.0439752	normal gene
+WDR76	MCM10	0.0443184	normal gene
+WDR76	MCM4	0.0457802	transcription factor
+WDR76	NCAPG	0.0454848	transcription factor
+WDR76	NCAPG2	0.0485523	transcription factor
+WDR76	PLK4	0.0440225	normal gene
+WDR76	PSMC3IP	0.0455071	normal gene
+WDR76	TIMELESS	0.0435283	normal gene
+WDR76	VRK1	0.0509853	normal gene

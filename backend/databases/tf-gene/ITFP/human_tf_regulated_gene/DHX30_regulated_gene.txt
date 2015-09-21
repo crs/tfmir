@@ -1,0 +1,13 @@
+DHX30	CKAP5	0.0430785	transcription factor
+DHX30	COPS8	0.0476332	normal gene
+DHX30	MRPL37	0.0461402	normal gene
+DHX30	MRPL4	0.052827	normal gene
+DHX30	MRPS12	0.0474498	transcription factor
+DHX30	NDUFS8	0.0466937	normal gene
+DHX30	OGFOD1	0.0429909	normal gene
+DHX30	POLRMT	0.044843	normal gene
+DHX30	PRMT1	0.047875	normal gene
+DHX30	STAT2	0.0451583	transcription factor
+DHX30	STOML2	0.0451518	normal gene
+DHX30	TUBG1	0.0475408	normal gene
+DHX30	UBE2M	0.0544514	normal gene

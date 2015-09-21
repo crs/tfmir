@@ -1,0 +1,2 @@
+KIF1B	IGFBPL1	0.0427821	normal gene
+KIF1B	QKI	0.0427932	transcription factor

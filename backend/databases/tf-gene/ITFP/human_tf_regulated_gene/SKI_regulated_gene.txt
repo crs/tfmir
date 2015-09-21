@@ -1,0 +1,4 @@
+SKI	AIFM2	0.043506	normal gene
+SKI	ALS2CR13	0.0439791	normal gene
+SKI	C20orf181	0.0451292	normal gene
+SKI	MUPCDH	0.0434271	normal gene

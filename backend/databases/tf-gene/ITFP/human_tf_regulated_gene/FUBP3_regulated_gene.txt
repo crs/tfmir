@@ -1,0 +1,6 @@
+FUBP3	ADK	0.0561555	normal gene
+FUBP3	DBR1	0.0447574	normal gene
+FUBP3	FUSIP1	0.0452066	transcription factor
+FUBP3	MAPK1IP1L	0.0463569	normal gene
+FUBP3	NUP160	0.0517933	normal gene
+FUBP3	SEC23B	0.0454445	normal gene

@@ -1,0 +1,11 @@
+ZNF670	ABCE1	0.0470098	normal gene
+ZNF670	CASP12	0.0431191	normal gene
+ZNF670	CBX3	0.0458059	normal gene
+ZNF670	DBF4	0.0454842	transcription factor
+ZNF670	FBXO5	0.0457141	transcription factor
+ZNF670	FN1	0.043391	normal gene
+ZNF670	RNF138	0.0430089	transcription factor
+ZNF670	TFAM	0.0430189	transcription factor
+ZNF670	WDSOF1	0.042885	transcription factor
+ZNF670	WRN	0.0443211	transcription factor
+ZNF670	ZNF131	0.049655	transcription factor

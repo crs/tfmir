@@ -1,0 +1,8 @@
+JRK	ALKBH1	0.04332	normal gene
+JRK	FOXN4	0.0431614	transcription factor
+JRK	NA	0.0462622	normal gene
+JRK	NKTR	0.0446164	normal gene
+JRK	NR2C2	0.0441084	transcription factor
+JRK	ROCK1	0.0435815	normal gene
+JRK	SPRYD4	0.0471436	normal gene
+JRK	ZNF76	0.0433789	transcription factor

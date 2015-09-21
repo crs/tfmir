@@ -1,0 +1,11 @@
+TBCD	APH1A	0.0434387	normal gene
+TBCD	ARF3	0.0438014	normal gene
+TBCD	C10orf104	0.0447571	normal gene
+TBCD	DDX59	0.0457526	transcription factor
+TBCD	DRG2	0.0529429	normal gene
+TBCD	G6PC3	0.0509601	normal gene
+TBCD	KIAA0100	0.0489953	normal gene
+TBCD	MAP2K2	0.0440655	normal gene
+TBCD	PGF	0.0477921	normal gene
+TBCD	PIGO	0.04345	normal gene
+TBCD	ZNF611	0.0439523	transcription factor

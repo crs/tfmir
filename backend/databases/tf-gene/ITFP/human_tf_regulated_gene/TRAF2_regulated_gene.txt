@@ -1,0 +1,3 @@
+TRAF2	DDX31	0.054302	transcription factor
+TRAF2	NA	0.0466661	normal gene
+TRAF2	ZDHHC12	0.045204	normal gene

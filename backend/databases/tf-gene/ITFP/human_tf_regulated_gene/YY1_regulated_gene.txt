@@ -1,0 +1,3 @@
+YY1	ADD1	0.0441486	normal gene
+YY1	BRD2	0.0432386	transcription factor
+YY1	CD99L2	0.0436271	normal gene

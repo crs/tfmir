@@ -1,0 +1,9 @@
+ANGEL2	C12orf29	0.0443551	normal gene
+ANGEL2	DENR	0.0472082	normal gene
+ANGEL2	ERCC8	0.0438922	transcription factor
+ANGEL2	MRPL42	0.0431832	normal gene
+ANGEL2	NCBP2	0.0442906	transcription factor
+ANGEL2	ORC5L	0.0428796	normal gene
+ANGEL2	PPIL5	0.0448218	normal gene
+ANGEL2	TMEM48	0.0449754	normal gene
+ANGEL2	UCHL5	0.0472477	normal gene

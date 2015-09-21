@@ -1,0 +1,4 @@
+KLHL12	DNAJC14	0.0444188	normal gene
+KLHL12	KBTBD4	0.0433267	transcription factor
+KLHL12	RBBP4	0.0428036	transcription factor
+KLHL12	ZNF44	0.0428308	transcription factor

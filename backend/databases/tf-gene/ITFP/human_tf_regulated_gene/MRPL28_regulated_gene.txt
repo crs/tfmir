@@ -1,0 +1,3 @@
+MRPL28	C6orf108	0.0480535	normal gene
+MRPL28	COPS6	0.0447372	transcription factor
+MRPL28	SCAMP3	0.0452826	normal gene

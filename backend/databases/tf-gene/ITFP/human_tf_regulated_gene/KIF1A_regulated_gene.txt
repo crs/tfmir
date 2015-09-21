@@ -1,0 +1,1 @@
+KIF1A	KIF5C	0.0502169	normal gene

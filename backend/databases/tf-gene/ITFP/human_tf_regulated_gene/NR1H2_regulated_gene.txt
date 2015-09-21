@@ -1,0 +1,2 @@
+NR1H2	CD244	0.0475232	normal gene
+NR1H2	FUBP1	0.0454812	transcription factor

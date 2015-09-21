@@ -1,0 +1,2 @@
+TP63	CPA4	0.0435717	normal gene
+TP63	DDX31	0.0435741	transcription factor

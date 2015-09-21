@@ -1,0 +1,15 @@
+PLA2G6	ADRBK1	0.0442201	normal gene
+PLA2G6	C12orf32	0.0472374	normal gene
+PLA2G6	C15orf55	0.0429192	normal gene
+PLA2G6	C9orf7	0.0464627	normal gene
+PLA2G6	GPR89A	0.0438842	normal gene
+PLA2G6	GRK5	0.0446245	normal gene
+PLA2G6	JMJD2A	0.0481909	normal gene
+PLA2G6	LCE1E	0.0442654	normal gene
+PLA2G6	MPV17L	0.0435924	normal gene
+PLA2G6	NA	0.043009	normal gene
+PLA2G6	PAX8	0.0457953	transcription factor
+PLA2G6	SETD5	0.0479956	normal gene
+PLA2G6	SIRT3	0.049265	normal gene
+PLA2G6	WNT6	0.0431398	normal gene
+PLA2G6	WWOX	0.0459442	transcription factor

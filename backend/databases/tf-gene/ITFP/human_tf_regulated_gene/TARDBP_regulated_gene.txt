@@ -1,0 +1,7 @@
+TARDBP	BUB3	0.0431054	transcription factor
+TARDBP	HEATR1	0.0428018	transcription factor
+TARDBP	NSUN2	0.044298	normal gene
+TARDBP	NUP107	0.0432122	normal gene
+TARDBP	PPP2R1B	0.04472	transcription factor
+TARDBP	PUS7	0.0500478	normal gene
+TARDBP	TDG	0.0447183	normal gene

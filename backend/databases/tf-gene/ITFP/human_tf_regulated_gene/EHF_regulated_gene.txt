@@ -1,0 +1,9 @@
+EHF	C1orf116	0.0456402	normal gene
+EHF	GALNT3	0.0439738	normal gene
+EHF	RBM35A	0.0428756	transcription factor
+EHF	SPINT1	0.0447616	normal gene
+EHF	SPINT2	0.050611	normal gene
+EHF	ST14	0.0463612	normal gene
+EHF	TACSTD2	0.0484308	transcription factor
+EHF	TBC1D3D	0.0436785	normal gene
+EHF	TMEM30B	0.0453437	normal gene

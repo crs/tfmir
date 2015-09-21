@@ -1,0 +1,5 @@
+FBXO3	C21orf114	0.0444919	normal gene
+FBXO3	HOOK3	0.0444663	normal gene
+FBXO3	KIAA1045	0.0428142	transcription factor
+FBXO3	METAP2	0.0432298	transcription factor
+FBXO3	NR1I2	0.0462674	transcription factor

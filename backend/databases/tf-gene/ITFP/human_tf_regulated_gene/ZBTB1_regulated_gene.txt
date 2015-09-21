@@ -1,0 +1,4 @@
+ZBTB1	HYDIN	0.0456378	normal gene
+ZBTB1	LMO7	0.0429587	transcription factor
+ZBTB1	WWOX	0.0436911	transcription factor
+ZBTB1	ZNF277	0.0431924	normal gene

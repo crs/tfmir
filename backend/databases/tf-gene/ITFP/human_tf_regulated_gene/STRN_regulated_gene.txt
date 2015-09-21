@@ -1,0 +1,6 @@
+STRN	FAM86A	0.0428797	normal gene
+STRN	GAPVD1	0.0433627	normal gene
+STRN	GPR172B	0.043538	normal gene
+STRN	RASAL2	0.0433384	normal gene
+STRN	RNF38	0.0448976	transcription factor
+STRN	TGFBR1	0.0449823	normal gene

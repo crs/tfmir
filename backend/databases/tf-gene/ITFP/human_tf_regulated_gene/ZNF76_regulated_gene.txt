@@ -1,0 +1,4 @@
+ZNF76	C21orf2	0.0468949	normal gene
+ZNF76	ITPKB	0.0451388	normal gene
+ZNF76	JRK	0.0433789	transcription factor
+ZNF76	TAZ	0.0428736	transcription factor

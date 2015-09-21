@@ -1,0 +1,5 @@
+ANKRD11	DSPP	0.0491503	normal gene
+ANKRD11	IGHG1	0.0511282	normal gene
+ANKRD11	S100A7A	0.0440007	normal gene
+ANKRD11	UBR5	0.0449911	normal gene
+ANKRD11	YTHDC1	0.0430223	transcription factor

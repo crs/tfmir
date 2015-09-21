@@ -1,0 +1,2 @@
+CEBPD	KIAA0146	0.0440749	normal gene
+CEBPD	ZFP36	0.046159	transcription factor

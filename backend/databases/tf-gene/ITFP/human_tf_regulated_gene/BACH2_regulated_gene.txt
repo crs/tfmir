@@ -1,0 +1,11 @@
+BACH2	ARHGEF1	0.0467782	transcription factor
+BACH2	ARL6IP2	0.0453632	normal gene
+BACH2	ATF7IP	0.0464548	normal gene
+BACH2	CTNNA1	0.042782	normal gene
+BACH2	FBXW12	0.0499923	transcription factor
+BACH2	GPR157	0.0529885	normal gene
+BACH2	IRS4	0.050688	normal gene
+BACH2	NLN	0.0450847	normal gene
+BACH2	ROBO2	0.0459996	normal gene
+BACH2	SLC22A3	0.0461921	normal gene
+BACH2	ZC3H7B	0.0479646	transcription factor

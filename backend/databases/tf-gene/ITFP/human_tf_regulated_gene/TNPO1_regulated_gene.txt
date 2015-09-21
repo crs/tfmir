@@ -1,0 +1,3 @@
+TNPO1	CDC27	0.0439934	transcription factor
+TNPO1	NKTR	0.0438602	normal gene
+TNPO1	UHMK1	0.0438801	normal gene

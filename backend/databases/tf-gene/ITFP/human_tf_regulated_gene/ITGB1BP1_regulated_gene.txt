@@ -1,0 +1,1 @@
+ITGB1BP1	C9orf73	0.0430149	normal gene

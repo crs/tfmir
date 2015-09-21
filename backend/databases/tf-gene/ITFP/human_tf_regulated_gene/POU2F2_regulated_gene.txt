@@ -1,0 +1,6 @@
+POU2F2	ADARB1	0.0429081	transcription factor
+POU2F2	CAPZB	0.0439103	normal gene
+POU2F2	CARD11	0.0431508	transcription factor
+POU2F2	IRGM	0.043401	normal gene
+POU2F2	TNRC6B	0.0432951	transcription factor
+POU2F2	ZBP1	0.0428772	transcription factor

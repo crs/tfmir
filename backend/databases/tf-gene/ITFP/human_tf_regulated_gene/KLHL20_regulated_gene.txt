@@ -1,0 +1,2 @@
+KLHL20	MAP3K7	0.0428114	normal gene
+KLHL20	RAB5A	0.0461121	normal gene

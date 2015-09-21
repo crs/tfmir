@@ -1,0 +1,3 @@
+DMXL1	ATP2C1	0.0457101	normal gene
+DMXL1	MAP2K5	0.0441134	normal gene
+DMXL1	NR3C1	0.0444632	transcription factor

@@ -1,0 +1,2 @@
+ARID3A	ADRBK1	0.0432898	normal gene
+ARID3A	MYCN	0.0429016	transcription factor

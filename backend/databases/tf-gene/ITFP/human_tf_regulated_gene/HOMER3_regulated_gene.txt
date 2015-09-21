@@ -1,0 +1,2 @@
+HOMER3	LAMP1	0.0427722	normal gene
+HOMER3	YWHAE	0.0436518	normal gene

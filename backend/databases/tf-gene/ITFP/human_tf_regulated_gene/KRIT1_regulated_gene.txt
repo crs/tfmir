@@ -1,0 +1,7 @@
+KRIT1	DHX36	0.0457943	transcription factor
+KRIT1	IREB2	0.0451376	normal gene
+KRIT1	KIAA0776	0.0474558	normal gene
+KRIT1	MKLN1	0.055292	transcription factor
+KRIT1	OTUD6B	0.0446585	normal gene
+KRIT1	PTGES2	0.0523431	transcription factor
+KRIT1	ZNF12	0.0449197	transcription factor

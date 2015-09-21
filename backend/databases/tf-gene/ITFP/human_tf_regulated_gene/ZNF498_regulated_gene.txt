@@ -1,0 +1,12 @@
+ZNF498	C17orf71	0.0467481	normal gene
+ZNF498	CRKL	0.0446229	normal gene
+ZNF498	GEMIN7	0.0436875	normal gene
+ZNF498	GLRX3	0.0443336	normal gene
+ZNF498	KARS	0.0443007	transcription factor
+ZNF498	PDCD11	0.0487042	transcription factor
+ZNF498	SENP2	0.0440894	normal gene
+ZNF498	SFPQ	0.0435025	transcription factor
+ZNF498	SMG7	0.0429043	transcription factor
+ZNF498	SRPK1	0.0445815	normal gene
+ZNF498	TERF2	0.0452713	transcription factor
+ZNF498	ZW10	0.043949	normal gene

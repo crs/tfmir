@@ -1,0 +1,2 @@
+ZC3H11A	CD244	0.0430866	normal gene
+ZC3H11A	FNBP1	0.0436656	normal gene

@@ -1,0 +1,7 @@
+UBE4B	C3orf23	0.0436808	normal gene
+UBE4B	C5orf22	0.0443648	normal gene
+UBE4B	CAPN7	0.0449467	normal gene
+UBE4B	KIAA0430	0.043979	normal gene
+UBE4B	KIAA1826	0.0456292	normal gene
+UBE4B	MAPKAP1	0.0435609	normal gene
+UBE4B	STYX	0.0432641	normal gene

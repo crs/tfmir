@@ -1,0 +1,2 @@
+NFATC4	ATN1	0.0447465	normal gene
+NFATC4	DMWD	0.0442521	transcription factor

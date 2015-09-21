@@ -1,0 +1,14 @@
+CLIC5	AFG3L1	0.0458516	transcription factor
+CLIC5	C16orf30	0.0435619	normal gene
+CLIC5	CALML4	0.0477804	normal gene
+CLIC5	COX7A1	0.0453863	normal gene
+CLIC5	CRYBB3	0.0430572	normal gene
+CLIC5	EIF4B	0.0456485	transcription factor
+CLIC5	ENO1	0.0485953	normal gene
+CLIC5	FBXO5	0.0429909	transcription factor
+CLIC5	GPR116	0.0438313	normal gene
+CLIC5	MMRN2	0.0428351	normal gene
+CLIC5	PTPRB	0.0431072	normal gene
+CLIC5	SMOC2	0.0436629	normal gene
+CLIC5	SYNPO2	0.0449134	normal gene
+CLIC5	TNS1	0.0438197	normal gene

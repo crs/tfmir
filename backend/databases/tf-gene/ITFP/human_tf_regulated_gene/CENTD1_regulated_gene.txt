@@ -1,0 +1,2 @@
+CENTD1	CCDC56	0.0432148	normal gene
+CENTD1	PECI	0.0482356	normal gene

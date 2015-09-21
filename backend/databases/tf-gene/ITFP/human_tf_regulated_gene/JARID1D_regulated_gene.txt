@@ -1,0 +1,8 @@
+JARID1D	CYorf14	0.04484	normal gene
+JARID1D	CYorf15A	0.0494438	normal gene
+JARID1D	CYorf15B	0.060898	normal gene
+JARID1D	DDX3Y	0.0498135	transcription factor
+JARID1D	EIF1AY	0.0459156	transcription factor
+JARID1D	RPS4Y1	0.0578853	transcription factor
+JARID1D	TTTY15	0.0458343	normal gene
+JARID1D	USP9Y	0.0486879	normal gene

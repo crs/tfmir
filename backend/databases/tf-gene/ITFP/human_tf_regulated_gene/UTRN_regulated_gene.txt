@@ -1,0 +1,5 @@
+UTRN	CTGF	0.0431483	transcription factor
+UTRN	MYLK	0.0476656	normal gene
+UTRN	PICALM	0.0438954	normal gene
+UTRN	PIK3C2A	0.0428538	normal gene
+UTRN	PLSCR4	0.0451534	normal gene

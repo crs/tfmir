@@ -1,0 +1,8 @@
+MEOX2	DPT	0.043244	normal gene
+MEOX2	EMCN	0.0462042	normal gene
+MEOX2	GIMAP6	0.0437147	normal gene
+MEOX2	HMCN1	0.0431708	normal gene
+MEOX2	KCNH2	0.0453562	normal gene
+MEOX2	KIAA1462	0.044874	normal gene
+MEOX2	RBMS3	0.0442072	transcription factor
+MEOX2	SLC22A25	0.0457903	normal gene

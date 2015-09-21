@@ -1,0 +1,2 @@
+PHLDA3	MET	0.0433632	normal gene
+PHLDA3	PLSCR3	0.0450944	normal gene

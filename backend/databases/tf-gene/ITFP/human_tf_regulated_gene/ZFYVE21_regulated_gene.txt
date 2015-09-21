@@ -1,0 +1,4 @@
+ZFYVE21	MBNL2	0.0449857	transcription factor
+ZFYVE21	PRNP	0.0446705	normal gene
+ZFYVE21	RETSAT	0.0460569	transcription factor
+ZFYVE21	SCOC	0.0444768	normal gene

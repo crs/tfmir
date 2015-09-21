@@ -1,0 +1,1 @@
+LASP1	GRN	0.0466039	normal gene

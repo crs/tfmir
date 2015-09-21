@@ -1,0 +1,16 @@
+TTC3	ANKIB1	0.0494056	transcription factor
+TTC3	BPTF	0.0429593	transcription factor
+TTC3	C14orf101	0.0429365	normal gene
+TTC3	CASD1	0.0437412	normal gene
+TTC3	GSTA4	0.043066	transcription factor
+TTC3	KIAA0372	0.0456216	normal gene
+TTC3	MED23	0.0452128	normal gene
+TTC3	NKTR	0.0464316	normal gene
+TTC3	PPP1CB	0.0471739	normal gene
+TTC3	SETD5	0.0473904	normal gene
+TTC3	TPR	0.0453567	transcription factor
+TTC3	TTC14	0.0428787	transcription factor
+TTC3	UBE2E3	0.0450867	normal gene
+TTC3	ZFR	0.04458	normal gene
+TTC3	ZNF292	0.0451163	transcription factor
+TTC3	ZNF84	0.0450204	transcription factor

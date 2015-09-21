@@ -1,0 +1,13 @@
+ASB16	CDH22	0.046833	normal gene
+ASB16	CYP2C9	0.0443128	normal gene
+ASB16	EPOR	0.0446267	normal gene
+ASB16	FIZ1	0.0483851	transcription factor
+ASB16	GRIP2	0.0432421	normal gene
+ASB16	HDGFL1	0.0464859	normal gene
+ASB16	LRRC52	0.0449832	normal gene
+ASB16	NA	0.0506279	normal gene
+ASB16	NLRP1	0.043317	transcription factor
+ASB16	OR5AY1	0.0442566	normal gene
+ASB16	SERPINB8	0.0454807	normal gene
+ASB16	SIRT3	0.0464063	normal gene
+ASB16	WHDC1L1	0.051891	normal gene

@@ -1,0 +1,14 @@
+TIAL1	CDC2	0.0437089	normal gene
+TIAL1	CDC20	0.0452505	transcription factor
+TIAL1	CDCA5	0.0444342	normal gene
+TIAL1	CKS1B	0.0451313	normal gene
+TIAL1	ESPL1	0.0430284	normal gene
+TIAL1	FAM149B1	0.0439755	normal gene
+TIAL1	HJURP	0.0432167	normal gene
+TIAL1	KIAA0101	0.0444448	normal gene
+TIAL1	KIF2C	0.0443173	normal gene
+TIAL1	LIG1	0.0452414	transcription factor
+TIAL1	PLK4	0.0436381	normal gene
+TIAL1	PTTG1	0.0464783	normal gene
+TIAL1	PWP1	0.0434044	transcription factor
+TIAL1	STX5	0.0480794	normal gene

@@ -1,0 +1,4 @@
+WDR85	EIF3B	0.0438099	normal gene
+WDR85	GTF3C5	0.0474741	normal gene
+WDR85	RPL7AP8	0.0429233	normal gene
+WDR85	TSEN54	0.0452406	normal gene

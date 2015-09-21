@@ -1,0 +1,8 @@
+GNB4	ARL11	0.0440775	normal gene
+GNB4	C1orf188	0.0434771	normal gene
+GNB4	C3orf19	0.0450088	normal gene
+GNB4	GRK5	0.0432607	normal gene
+GNB4	KLHDC9	0.0434069	transcription factor
+GNB4	NPM2	0.0429687	normal gene
+GNB4	RP2	0.0441649	normal gene
+GNB4	SIRT3	0.047372	normal gene

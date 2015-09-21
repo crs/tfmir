@@ -1,0 +1,9 @@
+PMS1	ARSD	0.0427858	normal gene
+PMS1	C10orf137	0.0444341	normal gene
+PMS1	C21orf66	0.0484743	normal gene
+PMS1	C4orf21	0.0427772	normal gene
+PMS1	CEP27	0.0431159	normal gene
+PMS1	HPRT1	0.0447418	normal gene
+PMS1	PPA2	0.0458509	normal gene
+PMS1	QSER1	0.0436694	normal gene
+PMS1	UBE3C	0.0435368	normal gene

@@ -1,0 +1,5 @@
+ZFX	CDC40	0.0438292	transcription factor
+ZFX	NCBP1	0.0432645	normal gene
+ZFX	OGT	0.0434311	transcription factor
+ZFX	PIAS2	0.043238	transcription factor
+ZFX	ZCCHC10	0.0431062	transcription factor

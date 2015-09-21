@@ -1,0 +1,11 @@
+GPR155	BCL2L11	0.0430808	normal gene
+GPR155	C7orf53	0.0462574	normal gene
+GPR155	CLN6	0.0433063	normal gene
+GPR155	DDX27	0.0476331	transcription factor
+GPR155	HIVEP3	0.0434262	normal gene
+GPR155	HPX	0.0433704	normal gene
+GPR155	NPM1	0.0430478	normal gene
+GPR155	NTSR1	0.0436898	normal gene
+GPR155	PROM2	0.0446849	normal gene
+GPR155	TAF5L	0.0443147	transcription factor
+GPR155	USH1G	0.0453099	transcription factor

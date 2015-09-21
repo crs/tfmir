@@ -1,0 +1,1 @@
+NFKB1	RELB	0.0432159	transcription factor

@@ -1,0 +1,11 @@
+NR2C2	DAAM1	0.0487468	normal gene
+NR2C2	DENR	0.0489251	normal gene
+NR2C2	FOXN4	0.049083	transcription factor
+NR2C2	JRK	0.0441084	transcription factor
+NR2C2	MED13L	0.0472822	normal gene
+NR2C2	NKTR	0.0509762	normal gene
+NR2C2	PSMF1	0.0434989	normal gene
+NR2C2	SPRYD4	0.0443558	normal gene
+NR2C2	UBQLN1	0.0451656	normal gene
+NR2C2	VTI1A	0.0434948	normal gene
+NR2C2	XPO4	0.0468022	normal gene

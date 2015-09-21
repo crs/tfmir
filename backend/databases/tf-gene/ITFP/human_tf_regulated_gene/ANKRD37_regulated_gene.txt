@@ -1,0 +1,3 @@
+ANKRD37	ITFG1	0.0469288	normal gene
+ANKRD37	LCE1E	0.0465429	normal gene
+ANKRD37	WNT6	0.0452628	normal gene

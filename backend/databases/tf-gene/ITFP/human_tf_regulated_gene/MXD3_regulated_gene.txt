@@ -1,0 +1,2 @@
+MXD3	GFER	0.0515304	normal gene
+MXD3	GRK6	0.0439289	normal gene

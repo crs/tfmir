@@ -1,0 +1,10 @@
+PRICKLE3	DRAP1	0.042823	transcription factor
+PRICKLE3	FOXK2	0.0454926	transcription factor
+PRICKLE3	HSF1	0.0532765	transcription factor
+PRICKLE3	HSPA4	0.0444533	normal gene
+PRICKLE3	KCNH2	0.0459246	normal gene
+PRICKLE3	KPNA1	0.0439357	transcription factor
+PRICKLE3	PGAM5	0.0467485	normal gene
+PRICKLE3	SEMA5A	0.0456613	normal gene
+PRICKLE3	WBSCR16	0.043127	normal gene
+PRICKLE3	YKT6	0.0489142	normal gene

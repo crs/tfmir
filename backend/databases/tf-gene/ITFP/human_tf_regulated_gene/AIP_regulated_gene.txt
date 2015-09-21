@@ -1,0 +1,14 @@
+AIP	C20orf30	0.044704	normal gene
+AIP	COPE	0.0491103	transcription factor
+AIP	FARSA	0.0453903	normal gene
+AIP	LSM4	0.044317	normal gene
+AIP	OTUB1	0.0466962	normal gene
+AIP	PCBP2	0.0428058	transcription factor
+AIP	POLR2E	0.0476665	transcription factor
+AIP	PPP1CA	0.0449688	normal gene
+AIP	PSMC3	0.0435379	normal gene
+AIP	TOMM22	0.0442406	normal gene
+AIP	TRAPPC2L	0.0476969	normal gene
+AIP	UBE2I	0.0429835	normal gene
+AIP	WBP11	0.0465294	normal gene
+AIP	WBSCR16	0.0434767	normal gene

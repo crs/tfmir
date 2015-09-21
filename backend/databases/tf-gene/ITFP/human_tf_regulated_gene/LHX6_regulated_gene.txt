@@ -1,0 +1,7 @@
+LHX6	ABTB2	0.0430575	transcription factor
+LHX6	CCDC74A	0.0443527	normal gene
+LHX6	GPR31	0.04323	normal gene
+LHX6	MYCN	0.0432529	transcription factor
+LHX6	RDH14	0.0491327	normal gene
+LHX6	TREX2	0.0440522	transcription factor
+LHX6	TRIM65	0.0461179	transcription factor

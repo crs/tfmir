@@ -1,0 +1,6 @@
+PHF10	ARPC5	0.0438069	normal gene
+PHF10	GKAP1	0.0479773	normal gene
+PHF10	MVP	0.0458698	normal gene
+PHF10	MYD88	0.0431415	transcription factor
+PHF10	S100A11	0.0486316	normal gene
+PHF10	SH3BGRL3	0.0498795	normal gene

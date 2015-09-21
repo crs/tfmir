@@ -1,0 +1,7 @@
+PABPC3	ANP32B	0.0454152	normal gene
+PABPC3	NPM1	0.0446801	normal gene
+PABPC3	PABPC1	0.0728298	transcription factor
+PABPC3	RFWD3	0.0435997	transcription factor
+PABPC3	SERP1	0.04434	normal gene
+PABPC3	SFRS9	0.0432043	transcription factor
+PABPC3	SNRPD1	0.0441341	normal gene

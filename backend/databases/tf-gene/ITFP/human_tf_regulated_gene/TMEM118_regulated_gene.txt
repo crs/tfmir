@@ -1,0 +1,1 @@
+TMEM118	ZNF449	0.0447058	transcription factor

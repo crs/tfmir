@@ -1,0 +1,6 @@
+ARMCX1	ARMCX3	0.0496422	transcription factor
+ARMCX1	ATP5J	0.0458252	normal gene
+ARMCX1	CNRIP1	0.0477215	normal gene
+ARMCX1	KLHDC1	0.0486844	transcription factor
+ARMCX1	MSRB3	0.0454038	normal gene
+ARMCX1	PTBP1	0.0470473	transcription factor

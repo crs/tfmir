@@ -1,0 +1,7 @@
+C12orf30	ANAPC1	0.046961	transcription factor
+C12orf30	BCCIP	0.0449563	normal gene
+C12orf30	GSPT1	0.0437331	normal gene
+C12orf30	GTPBP4	0.0490984	normal gene
+C12orf30	HSPA14	0.0439083	normal gene
+C12orf30	PSMD12	0.044203	transcription factor
+C12orf30	WDR5	0.0435077	transcription factor

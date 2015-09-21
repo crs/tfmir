@@ -1,0 +1,10 @@
+DUX4	CCDC108	0.0533497	normal gene
+DUX4	CYP11B2	0.0480632	normal gene
+DUX4	DUOXA2	0.0436201	normal gene
+DUX4	FOXP3	0.0453165	transcription factor
+DUX4	FUT5	0.0458954	normal gene
+DUX4	GRIN1	0.04879	normal gene
+DUX4	NA	0.0539593	normal gene
+DUX4	PTBP1	0.0435742	transcription factor
+DUX4	SMOX	0.0465499	normal gene
+DUX4	ZNF683	0.0452254	transcription factor

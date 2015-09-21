@@ -1,0 +1,15 @@
+DOK2	AIF1	0.0468686	normal gene
+DOK2	BIN2	0.0460265	transcription factor
+DOK2	C1orf162	0.0456526	normal gene
+DOK2	CD300LF	0.0437262	normal gene
+DOK2	CSF3R	0.0442392	normal gene
+DOK2	FYB	0.0443584	normal gene
+DOK2	ITGB2	0.043876	normal gene
+DOK2	LCP2	0.0489112	transcription factor
+DOK2	LGALS9	0.046481	transcription factor
+DOK2	LILRB3	0.0456834	normal gene
+DOK2	LST1	0.0500285	normal gene
+DOK2	MS4A7	0.0464704	normal gene
+DOK2	PARVG	0.0434132	normal gene
+DOK2	SLA	0.0443202	normal gene
+DOK2	TYROBP	0.0454447	normal gene

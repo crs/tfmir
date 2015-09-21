@@ -1,0 +1,6 @@
+CCNYL1	C12orf5	0.0468639	normal gene
+CCNYL1	CHST6	0.0475693	normal gene
+CCNYL1	DPH3	0.0500359	normal gene
+CCNYL1	HRB	0.0463657	normal gene
+CCNYL1	NRAS	0.0467437	normal gene
+CCNYL1	TMED5	0.0475148	normal gene

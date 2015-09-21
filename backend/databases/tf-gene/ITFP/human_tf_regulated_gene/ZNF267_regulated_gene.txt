@@ -1,0 +1,2 @@
+ZNF267	FAM127A	0.0437757	normal gene
+ZNF267	ZCCHC10	0.0479773	transcription factor

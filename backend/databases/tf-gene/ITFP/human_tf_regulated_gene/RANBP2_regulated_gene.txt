@@ -1,0 +1,2 @@
+RANBP2	ASNSD1	0.043387	normal gene
+RANBP2	DNAJB14	0.0442021	normal gene

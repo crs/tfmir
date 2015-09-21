@@ -1,0 +1,14 @@
+ZNF446	ADRBK1	0.0431971	normal gene
+ZNF446	ANKRD16	0.048224	transcription factor
+ZNF446	C14orf79	0.0437902	normal gene
+ZNF446	C22orf16	0.0448995	normal gene
+ZNF446	C2orf64	0.0456581	normal gene
+ZNF446	CCDC24	0.0475385	normal gene
+ZNF446	FAM86A	0.0433844	normal gene
+ZNF446	ING4	0.0436197	transcription factor
+ZNF446	KCNH2	0.0438546	normal gene
+ZNF446	PPIL2	0.0520096	normal gene
+ZNF446	RNF123	0.0462323	normal gene
+ZNF446	SF4	0.0435559	normal gene
+ZNF446	TCEA2	0.0436541	transcription factor
+ZNF446	TSSK3	0.0431796	normal gene

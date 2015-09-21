@@ -1,0 +1,16 @@
+HSF2	ARL6	0.0434464	normal gene
+HSF2	ASF1A	0.0447795	normal gene
+HSF2	BRMS1L	0.0481699	normal gene
+HSF2	C11orf73	0.0449339	normal gene
+HSF2	C12orf35	0.0572847	normal gene
+HSF2	C2orf49	0.0507867	normal gene
+HSF2	FH	0.0517546	normal gene
+HSF2	KLHL7	0.0533435	transcription factor
+HSF2	LYRM7	0.0451108	normal gene
+HSF2	MED21	0.0476549	normal gene
+HSF2	NFYB	0.0463323	transcription factor
+HSF2	NFYC	0.0428594	transcription factor
+HSF2	SRPX	0.0455337	normal gene
+HSF2	TAF9B	0.0435767	transcription factor
+HSF2	TRADD	0.0429352	transcription factor
+HSF2	WDR89	0.0442523	transcription factor

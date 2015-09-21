@@ -1,0 +1,2 @@
+ZNF19	NUDT21	0.0437795	normal gene
+ZNF19	TMPO	0.0438097	normal gene

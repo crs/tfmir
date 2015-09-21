@@ -1,0 +1,2 @@
+ITIH4	FAM33A	0.0441901	normal gene
+ITIH4	THEX1	0.0445213	transcription factor

@@ -1,0 +1,11 @@
+ZNF655	CCDC100	0.0475638	normal gene
+ZNF655	COG3	0.0443231	normal gene
+ZNF655	EPB41	0.0464384	normal gene
+ZNF655	MKLN1	0.0473221	transcription factor
+ZNF655	MLSTD2	0.0431237	normal gene
+ZNF655	NSMAF	0.0435182	transcription factor
+ZNF655	PBRM1	0.0457306	transcription factor
+ZNF655	RBAK	0.0428289	normal gene
+ZNF655	SP1	0.0440073	transcription factor
+ZNF655	UHRF1BP1L	0.0428777	normal gene
+ZNF655	ZNF449	0.0450657	transcription factor

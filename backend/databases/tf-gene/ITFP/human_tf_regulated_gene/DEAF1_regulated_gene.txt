@@ -1,0 +1,6 @@
+DEAF1	C16orf13	0.0511172	normal gene
+DEAF1	PRMT1	0.047722	normal gene
+DEAF1	PRNPIP	0.0451046	normal gene
+DEAF1	SUMO2	0.0454899	normal gene
+DEAF1	TOMM22	0.0454299	normal gene
+DEAF1	UBE2M	0.0455958	normal gene

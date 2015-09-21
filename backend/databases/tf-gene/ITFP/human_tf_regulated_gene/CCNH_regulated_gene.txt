@@ -1,0 +1,2 @@
+CCNH	CNIH	0.0479075	normal gene
+CCNH	SUGT1	0.0430156	transcription factor

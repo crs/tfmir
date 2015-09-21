@@ -1,0 +1,1 @@
+WDR60	C2orf61	0.0431311	normal gene

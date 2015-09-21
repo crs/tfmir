@@ -1,0 +1,3 @@
+DDX52	HEATR1	0.0447605	transcription factor
+DDX52	SRPK1	0.0427945	normal gene
+DDX52	ZNF207	0.0443264	transcription factor

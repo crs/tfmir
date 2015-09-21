@@ -1,0 +1,2 @@
+H3F3A	RPL23A	0.0490545	transcription factor
+H3F3A	RPL38	0.0467538	normal gene

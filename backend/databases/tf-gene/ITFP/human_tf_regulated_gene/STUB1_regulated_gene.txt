@@ -1,0 +1,16 @@
+STUB1	ATP5D	0.0459156	normal gene
+STUB1	CDC34	0.0464236	normal gene
+STUB1	CLTB	0.0435488	normal gene
+STUB1	DCTN3	0.0443004	normal gene
+STUB1	FIS1	0.0436673	transcription factor
+STUB1	FXR2	0.0427794	transcription factor
+STUB1	MLF2	0.0478169	normal gene
+STUB1	NDUFB10	0.0431122	normal gene
+STUB1	NDUFC1	0.0432146	normal gene
+STUB1	PCTK1	0.0432423	normal gene
+STUB1	POLR2I	0.0468788	transcription factor
+STUB1	PRDX5	0.0435361	normal gene
+STUB1	REM1	0.0458221	normal gene
+STUB1	SLC25A11	0.043373	normal gene
+STUB1	SLC6A8	0.0464631	normal gene
+STUB1	UQCRQ	0.0448421	normal gene

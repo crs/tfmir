@@ -1,0 +1,3 @@
+FXR1	C18orf12	0.0443089	normal gene
+FXR1	PHTF2	0.0461162	normal gene
+FXR1	THUMPD3	0.0428909	normal gene

@@ -1,0 +1,3 @@
+ZNF445	CDC5L	0.0459036	transcription factor
+ZNF445	MGST3	0.0500925	normal gene
+ZNF445	PSMB2	0.0521474	normal gene

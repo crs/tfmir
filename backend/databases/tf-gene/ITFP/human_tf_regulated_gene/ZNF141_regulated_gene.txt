@@ -1,0 +1,4 @@
+ZNF141	E2F4	0.0431114	transcription factor
+ZNF141	KLHDC4	0.0457466	transcription factor
+ZNF141	RCAN1	0.0429449	normal gene
+ZNF141	XAGE1	0.0442234	normal gene

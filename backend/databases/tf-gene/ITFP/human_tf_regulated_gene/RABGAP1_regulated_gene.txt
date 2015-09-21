@@ -1,0 +1,1 @@
+RABGAP1	ATRX	0.044774	normal gene

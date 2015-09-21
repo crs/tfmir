@@ -1,0 +1,31 @@
+#tabs-min { 
+    background: transparent; 
+    border: none; 
+} 
+
+
+#tabs-min :not(#tabs-left) .ui-widget-header  { 
+    background: transparent; 
+    border: none; 
+    border-bottom: 1px solid #C7BA99; 
+    -moz-border-radius: 0px; 
+    -webkit-border-radius: 0px; 
+    border-radius: 0px; 
+} 
+
+#tabs-min .ui-tabs-nav .ui-state-default :not(#tabs-left) { 
+    background: transparent; 
+    border: none; 
+} 
+
+#tabs-min .ui-tabs-nav .ui-state-active :not(#tabs-left) {  
+    background: transparent url(./uiTabsArrow.png) no-repeat bottom center; 
+    border: none; 
+} 
+/*
+#tabs-min .ui-tabs-nav .ui-state-default a :not(#tabs-left) { 
+    color: #c0c0c0; 
+} 
+#tabs-min .ui-tabs-nav .ui-state-active a :not(#tabs-left) { 
+    color: #F58723; 
+}*/

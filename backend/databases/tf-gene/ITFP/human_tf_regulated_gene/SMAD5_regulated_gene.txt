@@ -1,0 +1,2 @@
+SMAD5	PRKCI	0.0431447	normal gene
+SMAD5	WASL	0.0452268	transcription factor

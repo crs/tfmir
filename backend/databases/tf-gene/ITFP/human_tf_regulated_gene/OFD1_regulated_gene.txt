@@ -1,0 +1,4 @@
+OFD1	SCFD1	0.0461843	normal gene
+OFD1	SETD5	0.042988	normal gene
+OFD1	YY1AP1	0.0433582	normal gene
+OFD1	ZCCHC7	0.0456664	transcription factor

@@ -1,0 +1,8 @@
+FBXO42	AGXT2L2	0.0449754	normal gene
+FBXO42	CASP2	0.0449933	transcription factor
+FBXO42	MRPL52	0.0435654	normal gene
+FBXO42	NA	0.044088	normal gene
+FBXO42	NKTR	0.0433511	normal gene
+FBXO42	RNUXA	0.0476023	normal gene
+FBXO42	SPRYD4	0.0452328	normal gene
+FBXO42	VTI1A	0.044158	normal gene

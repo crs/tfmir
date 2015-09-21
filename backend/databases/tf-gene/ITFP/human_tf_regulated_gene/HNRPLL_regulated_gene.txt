@@ -1,0 +1,8 @@
+HNRPLL	BTRC	0.0438866	transcription factor
+HNRPLL	FCGRT	0.0429328	normal gene
+HNRPLL	GCAT	0.0469086	normal gene
+HNRPLL	JMJD1C	0.0443039	normal gene
+HNRPLL	NCOA1	0.044515	transcription factor
+HNRPLL	PI4K2A	0.0440645	normal gene
+HNRPLL	TBC1D20	0.0442845	normal gene
+HNRPLL	ZNF518A	0.0486911	normal gene

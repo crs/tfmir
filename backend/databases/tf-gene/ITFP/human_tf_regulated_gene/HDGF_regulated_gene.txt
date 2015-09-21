@@ -1,0 +1,12 @@
+HDGF	APEX2	0.0436952	transcription factor
+HDGF	ATAD3A	0.0438129	transcription factor
+HDGF	ATAD3B	0.049184	transcription factor
+HDGF	EIF3B	0.0448232	normal gene
+HDGF	ELF2	0.0442659	transcription factor
+HDGF	NLE1	0.0452019	transcription factor
+HDGF	PA2G4	0.0452176	transcription factor
+HDGF	PPM1G	0.0473776	normal gene
+HDGF	RANGAP1	0.0454307	normal gene
+HDGF	TRIM28	0.0429422	transcription factor
+HDGF	ZNF398	0.0481055	transcription factor
+HDGF	ZNF598	0.0454498	transcription factor

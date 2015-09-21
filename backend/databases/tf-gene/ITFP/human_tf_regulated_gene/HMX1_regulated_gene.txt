@@ -1,0 +1,13 @@
+HMX1	DLEC1	0.0462641	normal gene
+HMX1	EIF6	0.0441846	normal gene
+HMX1	EMID2	0.0477893	normal gene
+HMX1	EMX2OS	0.0430898	normal gene
+HMX1	FNDC5	0.0431811	normal gene
+HMX1	ICMT	0.0432701	normal gene
+HMX1	IRGM	0.0437619	normal gene
+HMX1	MAZ	0.0437505	transcription factor
+HMX1	MGAT3	0.0436701	normal gene
+HMX1	MYO18A	0.0447384	normal gene
+HMX1	TMCC1	0.0437999	normal gene
+HMX1	VPS13D	0.0440607	normal gene
+HMX1	ZNF423	0.0457984	transcription factor

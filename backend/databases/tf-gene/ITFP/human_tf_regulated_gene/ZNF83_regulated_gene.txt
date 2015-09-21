@@ -1,0 +1,7 @@
+ZNF83	BBS10	0.0446774	normal gene
+ZNF83	MARK3	0.0467515	normal gene
+ZNF83	PHC3	0.0438125	transcription factor
+ZNF83	RAB3GAP2	0.0447751	normal gene
+ZNF83	SFPQ	0.0445603	transcription factor
+ZNF83	ZNF642	0.0434512	transcription factor
+ZNF83	ZNF92	0.0439173	transcription factor

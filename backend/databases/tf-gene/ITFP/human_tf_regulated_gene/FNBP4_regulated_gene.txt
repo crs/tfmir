@@ -1,0 +1,6 @@
+FNBP4	CTGLF1	0.0433836	transcription factor
+FNBP4	KCNH2	0.0504993	normal gene
+FNBP4	KIAA0907	0.0462971	normal gene
+FNBP4	MGEA5	0.0472387	normal gene
+FNBP4	RBMX	0.0447753	transcription factor
+FNBP4	UQCRC2	0.043412	normal gene

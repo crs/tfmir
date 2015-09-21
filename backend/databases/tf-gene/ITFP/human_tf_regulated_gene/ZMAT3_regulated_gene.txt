@@ -1,0 +1,15 @@
+ZMAT3	AP1S1	0.0455304	normal gene
+ZMAT3	ATP8B1	0.0434252	normal gene
+ZMAT3	CCT2	0.0449049	normal gene
+ZMAT3	COPA	0.0443028	transcription factor
+ZMAT3	FNTB	0.0433108	normal gene
+ZMAT3	GM2A	0.0441057	normal gene
+ZMAT3	RANGAP1	0.0439611	normal gene
+ZMAT3	RBM14	0.0430566	transcription factor
+ZMAT3	RIPK5	0.0439918	normal gene
+ZMAT3	SLC22A3	0.0444143	normal gene
+ZMAT3	TOP3B	0.0434168	normal gene
+ZMAT3	UBE2D2	0.0443207	normal gene
+ZMAT3	YWHAZ	0.0428445	normal gene
+ZMAT3	ZFYVE1	0.0481047	transcription factor
+ZMAT3	ZNF317	0.0464093	transcription factor

@@ -1,0 +1,2 @@
+R3HCC1	NDUFA11	0.0530712	normal gene
+R3HCC1	POLRMT	0.0438378	normal gene

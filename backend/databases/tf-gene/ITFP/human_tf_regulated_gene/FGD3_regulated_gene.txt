@@ -1,0 +1,3 @@
+FGD3	HOPX	0.0440582	transcription factor
+FGD3	LRMP	0.0427781	normal gene
+FGD3	NCKAP1L	0.0444211	normal gene

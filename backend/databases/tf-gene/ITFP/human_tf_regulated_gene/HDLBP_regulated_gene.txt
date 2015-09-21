@@ -1,0 +1,2 @@
+HDLBP	CUEDC1	0.0477086	normal gene
+HDLBP	DCK	0.0471788	normal gene

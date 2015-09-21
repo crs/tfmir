@@ -1,0 +1,12 @@
+RBM22	C6orf166	0.0444384	normal gene
+RBM22	FUSIP1	0.0487543	transcription factor
+RBM22	GNB1	0.0475967	transcription factor
+RBM22	GTF2F1	0.0434813	transcription factor
+RBM22	MAPK1IP1L	0.046906	normal gene
+RBM22	MGAT2	0.044283	normal gene
+RBM22	MXI1	0.0448712	transcription factor
+RBM22	NUP98	0.0442681	normal gene
+RBM22	SEC23IP	0.0448531	transcription factor
+RBM22	UBE2S	0.0427927	normal gene
+RBM22	UPF1	0.045332	normal gene
+RBM22	ZNF207	0.0437349	transcription factor

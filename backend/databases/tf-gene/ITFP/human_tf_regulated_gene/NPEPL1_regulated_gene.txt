@@ -1,0 +1,1 @@
+NPEPL1	TCF3	0.0449558	transcription factor

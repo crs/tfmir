@@ -1,0 +1,4 @@
+WDR45	PRKAG1	0.0448098	normal gene
+WDR45	TAF10	0.0447777	normal gene
+WDR45	UBXD1	0.0433039	normal gene
+WDR45	WDR13	0.0471229	transcription factor

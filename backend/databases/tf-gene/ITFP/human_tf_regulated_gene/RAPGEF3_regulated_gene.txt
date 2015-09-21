@@ -1,0 +1,13 @@
+RAPGEF3	CCDC48	0.0444591	normal gene
+RAPGEF3	DLEC1	0.0434614	normal gene
+RAPGEF3	GP1BB	0.0434638	normal gene
+RAPGEF3	HIAT1	0.0447383	normal gene
+RAPGEF3	HLA-DOA	0.0430321	normal gene
+RAPGEF3	IRGM	0.0475311	normal gene
+RAPGEF3	ITGA8	0.0441281	normal gene
+RAPGEF3	MBD6	0.0435576	transcription factor
+RAPGEF3	NARG1	0.0438723	transcription factor
+RAPGEF3	PWWP2B	0.0476109	transcription factor
+RAPGEF3	RGS6	0.0441438	transcription factor
+RAPGEF3	USHBP1	0.0443345	normal gene
+RAPGEF3	ZNF414	0.0434878	transcription factor

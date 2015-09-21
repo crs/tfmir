@@ -1,0 +1,4 @@
+RNF13	ARL6IP5	0.0460231	normal gene
+RNF13	KRCC1	0.0429814	normal gene
+RNF13	PJA2	0.0428042	normal gene
+RNF13	SDHALP1	0.0437551	normal gene

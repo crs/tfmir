@@ -1,0 +1,6 @@
+KLF9	ASF1B	0.0433713	normal gene
+KLF9	CAD	0.0442743	normal gene
+KLF9	FANCA	0.0434075	normal gene
+KLF9	KIF2C	0.0433966	normal gene
+KLF9	SLC22A25	0.0446856	normal gene
+KLF9	SOCS5	0.0431368	normal gene

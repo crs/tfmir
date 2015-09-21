@@ -1,0 +1,7 @@
+CLPB	C10orf11	0.0435739	normal gene
+CLPB	C10orf76	0.0455727	normal gene
+CLPB	GRPEL1	0.0452599	normal gene
+CLPB	MRPS16	0.0433946	normal gene
+CLPB	PMPCA	0.0434307	normal gene
+CLPB	SSSCA1	0.0430788	normal gene
+CLPB	XAGE1	0.043493	normal gene

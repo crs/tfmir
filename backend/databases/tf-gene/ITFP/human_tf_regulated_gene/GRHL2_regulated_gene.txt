@@ -1,0 +1,15 @@
+GRHL2	CDH1	0.0505759	normal gene
+GRHL2	GALNT3	0.0469454	normal gene
+GRHL2	KRTCAP3	0.0481139	normal gene
+GRHL2	MARVELD2	0.0450487	normal gene
+GRHL2	MPZL2	0.0485687	normal gene
+GRHL2	NFATC3	0.0544566	transcription factor
+GRHL2	OVOL2	0.042854	transcription factor
+GRHL2	PROM2	0.0605033	normal gene
+GRHL2	RAB25	0.0572767	normal gene
+GRHL2	RBM35A	0.0514254	transcription factor
+GRHL2	RBM35B	0.0454782	transcription factor
+GRHL2	S100A14	0.0505124	normal gene
+GRHL2	TACSTD2	0.0452229	transcription factor
+GRHL2	TMC4	0.0431834	normal gene
+GRHL2	TMEM30B	0.058885	normal gene

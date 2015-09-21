@@ -1,0 +1,17 @@
+ATXN7	ASPHD1	0.0442626	normal gene
+ATXN7	ASXL2	0.0493585	normal gene
+ATXN7	CEP350	0.0427862	normal gene
+ATXN7	CREB1	0.0471626	transcription factor
+ATXN7	EIF4G3	0.042972	normal gene
+ATXN7	GSPT1	0.0428361	normal gene
+ATXN7	HNRPD	0.047096	transcription factor
+ATXN7	MAML2	0.044054	normal gene
+ATXN7	MBNL1	0.0496948	transcription factor
+ATXN7	MYST3	0.0456067	transcription factor
+ATXN7	NR3C1	0.0493444	transcription factor
+ATXN7	PPP3R1	0.0437669	normal gene
+ATXN7	PRPF38B	0.0486714	normal gene
+ATXN7	RSBN1	0.0454131	normal gene
+ATXN7	RSF1	0.0439668	transcription factor
+ATXN7	USP3	0.0439843	normal gene
+ATXN7	ZMYM5	0.0459452	normal gene

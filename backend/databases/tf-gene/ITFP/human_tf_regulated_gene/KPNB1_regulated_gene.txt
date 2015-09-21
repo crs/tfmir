@@ -1,0 +1,13 @@
+KPNB1	GPATCH4	0.0444395	normal gene
+KPNB1	ISG20L2	0.0468274	transcription factor
+KPNB1	LMNB1	0.0450148	normal gene
+KPNB1	NCAPG2	0.0435617	transcription factor
+KPNB1	NCOA1	0.0486402	transcription factor
+KPNB1	POMZP3	0.043836	normal gene
+KPNB1	PRKDC	0.0477315	normal gene
+KPNB1	PSMC3IP	0.042785	normal gene
+KPNB1	RSPRY1	0.0462919	normal gene
+KPNB1	SLC4A5	0.0458392	normal gene
+KPNB1	SMN1	0.0456092	normal gene
+KPNB1	THOC2	0.049811	normal gene
+KPNB1	YWHAB	0.0447755	normal gene

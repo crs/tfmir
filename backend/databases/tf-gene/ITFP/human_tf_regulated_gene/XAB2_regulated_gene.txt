@@ -1,0 +1,2 @@
+XAB2	CIZ1	0.0452986	transcription factor
+XAB2	CNOT3	0.0491854	transcription factor

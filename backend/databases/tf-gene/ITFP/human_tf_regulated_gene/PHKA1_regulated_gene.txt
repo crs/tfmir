@@ -1,0 +1,3 @@
+PHKA1	MRPS24	0.0510329	normal gene
+PHKA1	PSMB5	0.0444134	normal gene
+PHKA1	PTS	0.0513801	transcription factor

@@ -1,0 +1,17 @@
+NAPA	ADARB1	0.0439426	transcription factor
+NAPA	ARSD	0.0466034	normal gene
+NAPA	C20orf165	0.0435273	normal gene
+NAPA	CAPZB	0.0441356	normal gene
+NAPA	FAM30A	0.0449619	normal gene
+NAPA	FAM69B	0.0437342	normal gene
+NAPA	FNDC5	0.0436006	normal gene
+NAPA	HPS6	0.0432182	normal gene
+NAPA	IRGM	0.0452328	normal gene
+NAPA	MXI1	0.0442482	transcription factor
+NAPA	PWWP2B	0.0441643	transcription factor
+NAPA	SCT	0.0436123	transcription factor
+NAPA	SPRN	0.0452326	normal gene
+NAPA	TMEM105	0.0440904	normal gene
+NAPA	TNK2	0.0461702	normal gene
+NAPA	ZDHHC1	0.0442493	normal gene
+NAPA	ZNF771	0.0470246	transcription factor

@@ -1,0 +1,4 @@
+MYD88	ARPC1B	0.0489472	transcription factor
+MYD88	CMTM6	0.0430036	normal gene
+MYD88	PHF10	0.0431415	transcription factor
+MYD88	TPM3	0.0427912	normal gene

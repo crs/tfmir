@@ -1,0 +1,3 @@
+FBXW5	RNF123	0.0446538	normal gene
+FBXW5	SLC25A11	0.042778	normal gene
+FBXW5	SNW1	0.0431506	normal gene

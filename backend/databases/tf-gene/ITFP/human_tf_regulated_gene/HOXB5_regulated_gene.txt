@@ -1,0 +1,2 @@
+HOXB5	HOXB2	0.0549172	transcription factor
+HOXB5	HOXB6	0.047415	transcription factor

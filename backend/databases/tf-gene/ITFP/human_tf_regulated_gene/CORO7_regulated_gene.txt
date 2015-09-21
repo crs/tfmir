@@ -1,0 +1,5 @@
+CORO7	AKNA	0.043842	normal gene
+CORO7	CNPY3	0.0495608	normal gene
+CORO7	GRK6	0.0437788	normal gene
+CORO7	RAD54L2	0.043316	normal gene
+CORO7	SIPA1	0.0436232	normal gene

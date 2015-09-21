@@ -1,0 +1,7 @@
+ZBTB9	C17orf71	0.0440849	normal gene
+ZBTB9	DUS2L	0.0432098	transcription factor
+ZBTB9	EARS2	0.0460728	normal gene
+ZBTB9	KLHL24	0.0438544	transcription factor
+ZBTB9	MFSD1	0.0429386	normal gene
+ZBTB9	RNF40	0.0482427	transcription factor
+ZBTB9	ZC3H7B	0.0449144	transcription factor

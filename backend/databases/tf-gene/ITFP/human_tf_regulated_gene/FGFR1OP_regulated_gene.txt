@@ -1,0 +1,4 @@
+FGFR1OP	BRCA1	0.0445158	transcription factor
+FGFR1OP	NFIX	0.045038	transcription factor
+FGFR1OP	ORC6L	0.0431869	normal gene
+FGFR1OP	PRPF38A	0.0479011	normal gene

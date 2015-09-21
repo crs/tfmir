@@ -1,0 +1,3 @@
+ZNF710	AXIN1	0.0427911	normal gene
+ZNF710	IDH2	0.049789	normal gene
+ZNF710	LRCH4	0.0432722	normal gene

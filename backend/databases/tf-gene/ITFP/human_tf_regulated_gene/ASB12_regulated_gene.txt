@@ -1,0 +1,13 @@
+ASB12	APOBEC3G	0.0450209	normal gene
+ASB12	BICD1	0.0437709	normal gene
+ASB12	CRAT	0.0431124	normal gene
+ASB12	CSTB	0.0435746	normal gene
+ASB12	DEFB118	0.045812	normal gene
+ASB12	MAGIX	0.0433145	normal gene
+ASB12	PFTK2	0.0443166	normal gene
+ASB12	PGM5P1	0.0434526	normal gene
+ASB12	PIGO	0.0441614	normal gene
+ASB12	PRB1	0.0443337	transcription factor
+ASB12	PRSS1	0.0479018	normal gene
+ASB12	SLC11A1	0.0488421	normal gene
+ASB12	VWA3A	0.0481232	normal gene

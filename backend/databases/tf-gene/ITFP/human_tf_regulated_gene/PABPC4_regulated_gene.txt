@@ -1,0 +1,6 @@
+PABPC4	IFRD2	0.0452188	normal gene
+PABPC4	MRPL12	0.0427816	normal gene
+PABPC4	MRPL37	0.043667	normal gene
+PABPC4	MRPS15	0.0469881	normal gene
+PABPC4	POLRMT	0.0457233	normal gene
+PABPC4	YBX1	0.0474059	transcription factor

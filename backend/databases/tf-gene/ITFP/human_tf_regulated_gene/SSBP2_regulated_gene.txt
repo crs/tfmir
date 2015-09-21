@@ -1,0 +1,6 @@
+SSBP2	ATP2C1	0.0450834	normal gene
+SSBP2	AUTS2	0.0473514	normal gene
+SSBP2	CLASP2	0.0442839	transcription factor
+SSBP2	PVR	0.045064	normal gene
+SSBP2	STX3	0.0434023	normal gene
+SSBP2	ZCCHC7	0.0476511	transcription factor

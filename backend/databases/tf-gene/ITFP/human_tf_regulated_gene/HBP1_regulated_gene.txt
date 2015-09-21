@@ -1,0 +1,6 @@
+HBP1	C14orf126	0.0439971	normal gene
+HBP1	CDC25A	0.0442214	normal gene
+HBP1	FAM33A	0.0450615	normal gene
+HBP1	SHCBP1	0.0477666	normal gene
+HBP1	TMPO	0.050096	normal gene
+HBP1	TTF2	0.0439403	transcription factor

@@ -1,0 +1,2 @@
+PIN1	BAD	0.0444271	normal gene
+PIN1	TRIM4	0.04579	transcription factor

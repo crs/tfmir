@@ -1,0 +1,2 @@
+AKAP8L	GPATCH8	0.0484594	normal gene
+AKAP8L	RNF38	0.0429156	transcription factor

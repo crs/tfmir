@@ -1,0 +1,15 @@
+ARPC1B	ARPC2	0.0432775	normal gene
+ARPC1B	ARPC3	0.0488165	normal gene
+ARPC1B	ARPC5	0.0478194	normal gene
+ARPC1B	CAP1	0.0469665	normal gene
+ARPC1B	CHST6	0.0478241	normal gene
+ARPC1B	CLIC1	0.0464734	transcription factor
+ARPC1B	CTSC	0.0514872	normal gene
+ARPC1B	FXYD5	0.049953	normal gene
+ARPC1B	GPRC5B	0.0493772	normal gene
+ARPC1B	MYD88	0.0489472	transcription factor
+ARPC1B	RGS19	0.0447503	normal gene
+ARPC1B	SH3BGRL3	0.0555687	normal gene
+ARPC1B	SPTLC2	0.0440101	normal gene
+ARPC1B	TPM3	0.0505815	normal gene
+ARPC1B	ZNF423	0.0458573	transcription factor

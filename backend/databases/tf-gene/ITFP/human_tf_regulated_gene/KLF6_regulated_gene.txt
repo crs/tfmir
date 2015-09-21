@@ -1,0 +1,15 @@
+KLF6	ATP5J2	0.0456342	normal gene
+KLF6	C12orf24	0.0435814	normal gene
+KLF6	C7orf44	0.0428733	normal gene
+KLF6	GBP1	0.0441152	normal gene
+KLF6	HLA-E	0.0465045	normal gene
+KLF6	LRPPRC	0.0445085	normal gene
+KLF6	MRPL11	0.0432485	normal gene
+KLF6	MVP	0.0437493	normal gene
+KLF6	NDUFAB1	0.0436634	normal gene
+KLF6	PARP2	0.0448975	transcription factor
+KLF6	PDXP	0.0463597	normal gene
+KLF6	PIGL	0.0447933	normal gene
+KLF6	SOCS3	0.0434909	normal gene
+KLF6	TMEM177	0.0437163	normal gene
+KLF6	ZNHIT3	0.0468107	normal gene

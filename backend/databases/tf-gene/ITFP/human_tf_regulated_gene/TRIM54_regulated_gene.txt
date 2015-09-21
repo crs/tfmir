@@ -1,0 +1,2 @@
+TRIM54	C1orf170	0.0468077	normal gene
+TRIM54	SRL	0.0432878	normal gene

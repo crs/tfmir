@@ -1,0 +1,3 @@
+NOL3	ACADVL	0.0437172	normal gene
+NOL3	FAM153C	0.0637656	normal gene
+NOL3	HDAC11	0.046536	normal gene

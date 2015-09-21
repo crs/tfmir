@@ -1,0 +1,7 @@
+EDC4	BMS1	0.0432532	normal gene
+EDC4	BOP1	0.0444105	transcription factor
+EDC4	C10orf2	0.0441366	normal gene
+EDC4	DDX51	0.0432375	transcription factor
+EDC4	PRPF31	0.0435893	normal gene
+EDC4	REXO4	0.0444478	transcription factor
+EDC4	UBL7	0.0432929	normal gene

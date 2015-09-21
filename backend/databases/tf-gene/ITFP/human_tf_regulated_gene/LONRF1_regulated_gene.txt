@@ -1,0 +1,1 @@
+LONRF1	TMEM165	0.0440853	normal gene

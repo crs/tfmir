@@ -1,0 +1,2 @@
+CLIP4	FBXL17	0.0472248	transcription factor
+CLIP4	KIAA1128	0.04838	normal gene

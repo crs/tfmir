@@ -1,0 +1,2 @@
+OSBPL8	BCLAF1	0.0447749	normal gene
+OSBPL8	IQGAP1	0.0472194	transcription factor

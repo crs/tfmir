@@ -1,0 +1,2 @@
+ZCCHC11	MED13	0.043379	normal gene
+ZCCHC11	TAS2R14	0.0428475	normal gene

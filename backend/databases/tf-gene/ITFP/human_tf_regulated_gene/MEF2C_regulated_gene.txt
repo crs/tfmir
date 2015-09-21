@@ -1,0 +1,4 @@
+MEF2C	ARHGEF6	0.0428979	normal gene
+MEF2C	MBNL1	0.0444008	transcription factor
+MEF2C	USP15	0.044713	normal gene
+MEF2C	VAPA	0.0431153	normal gene

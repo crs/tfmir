@@ -1,0 +1,5 @@
+CCNL2	KIAA0423	0.0474378	transcription factor
+CCNL2	NPIP	0.0514814	normal gene
+CCNL2	RBM5	0.0456271	transcription factor
+CCNL2	SFPQ	0.0511347	transcription factor
+CCNL2	WHDC1L1	0.052626	normal gene

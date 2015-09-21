@@ -1,0 +1,6 @@
+NFIX	C20orf135	0.0455857	normal gene
+NFIX	CIITA	0.0469947	normal gene
+NFIX	DAB2IP	0.04289	normal gene
+NFIX	FGFR1OP	0.045038	transcription factor
+NFIX	NFIB	0.044549	transcription factor
+NFIX	TRIM65	0.0430659	transcription factor

@@ -1,0 +1,2 @@
+RELB	NFKB1	0.0432159	transcription factor
+RELB	NFKB2	0.044827	transcription factor

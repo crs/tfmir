@@ -1,0 +1,66 @@
+#tabs-left :not(#tabs-min) {
+    position: relative;
+    padding-left: 15.5em;
+}
+#tabs-left .ui-tabs-nav :not(#tabs-min) {
+    position: absolute;
+    left: 0.25em;
+    top: 0.25em;
+    bottom: 0.25em;
+    width: 14em;
+    padding: 0.2em 0 0.2em 0.2em;
+    background: transparent; 
+    border-width: 0px 1px 0px 0px; 
+    border-color: #EEE;
+    -moz-border-radius: 0px; 
+    -webkit-border-radius: 0px; 
+    border-radius: 0px;
+}
+#tabs-left  .ui-tabs-nav :not(#tabs-min) li  {
+    right: 1px;
+    width: 100%;
+    border: none;
+    border-bottom-width: 1px !important;
+    /*-moz-border-radius: 4px 4px 4px 4px;
+    -webkit-border-radius: 4px 4px 4px 4px;
+    border-radius: 4px 0px 0px 4px;*/
+
+    -moz-border-radius:0 !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    overflow: hidden;
+    padding:0em !important;
+}
+
+
+
+#tabs-left  .ui-tabs-nav :not(#tabs-min) li.ui-state-default {
+    background-image:none;
+    background-color:#F1ECDF;
+}
+
+#tabs-left .ui-tabs-nav :not(#tabs-min)  li.ui-state-hover {
+    -webkit-box-shadow:0 0px 20px #F58723 inset; 
+    -moz-box-shadow: 0 0px 20px #F58723 inset; 
+    box-shadow:0 0 20px #F58723 inset;
+}
+
+#tabs-left .ui-tabs-nav :not(#tabs-min) li.ui-tabs-selected ,
+#tabs-left .ui-tabs-nav :not(#tabs-min) li.ui-state-active {
+    border-right: 1px solid transparent;
+    background-color:#B6A988;
+    background-image:none;
+}
+
+.sidebarimg {
+    height:70px;
+}
+
+ #tabs-left   .ui-tabs-nav :not(#tabs-min) li a {
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+#tabs-left :not(#tabs-min) > div {
+    height: 35em;
+}

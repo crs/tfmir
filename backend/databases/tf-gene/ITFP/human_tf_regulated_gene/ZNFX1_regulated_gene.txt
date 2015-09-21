@@ -1,0 +1,3 @@
+ZNFX1	HLA-B	0.0441934	normal gene
+ZNFX1	HLA-C	0.0429646	normal gene
+ZNFX1	HLA-E	0.0456627	normal gene

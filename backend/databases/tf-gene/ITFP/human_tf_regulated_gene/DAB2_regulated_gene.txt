@@ -1,0 +1,4 @@
+DAB2	LEPR	0.0447006	normal gene
+DAB2	LEPROT	0.0561714	normal gene
+DAB2	PPAP2B	0.0447331	normal gene
+DAB2	RGL1	0.045372	transcription factor

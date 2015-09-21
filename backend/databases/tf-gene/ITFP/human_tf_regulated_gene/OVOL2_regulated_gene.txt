@@ -1,0 +1,3 @@
+OVOL2	GRHL2	0.042854	transcription factor
+OVOL2	RAB25	0.043877	normal gene
+OVOL2	RBM35B	0.0436844	transcription factor

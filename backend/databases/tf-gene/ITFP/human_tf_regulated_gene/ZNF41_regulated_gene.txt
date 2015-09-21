@@ -1,0 +1,4 @@
+ZNF41	APC	0.0441738	transcription factor
+ZNF41	C3orf23	0.042975	normal gene
+ZNF41	GFM1	0.0438437	normal gene
+ZNF41	PHTF2	0.0466052	normal gene

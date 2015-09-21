@@ -1,0 +1,8 @@
+LAMB1	C1orf218	0.0504649	normal gene
+LAMB1	CAPZA2	0.0436281	normal gene
+LAMB1	DCBLD2	0.0438975	normal gene
+LAMB1	FOXP1	0.0478312	transcription factor
+LAMB1	MYST3	0.0477604	transcription factor
+LAMB1	NR3C1	0.0435779	transcription factor
+LAMB1	TRIM33	0.0447735	transcription factor
+LAMB1	WWTR1	0.0440354	transcription factor

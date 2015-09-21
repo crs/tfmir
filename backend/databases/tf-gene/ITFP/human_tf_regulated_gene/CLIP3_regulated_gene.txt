@@ -1,0 +1,7 @@
+CLIP3	ARMCX2	0.0433869	transcription factor
+CLIP3	BACE1	0.0470365	normal gene
+CLIP3	C14orf132	0.0449834	normal gene
+CLIP3	DNALI1	0.0471158	normal gene
+CLIP3	DTX3	0.0476916	transcription factor
+CLIP3	SLC22A17	0.0436171	normal gene
+CLIP3	TCEAL3	0.0483712	normal gene

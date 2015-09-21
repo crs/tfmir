@@ -1,0 +1,11 @@
+GSTA4	C1orf136	0.0449974	normal gene
+GSTA4	CENTG2	0.048054	transcription factor
+GSTA4	CXADR	0.0450212	normal gene
+GSTA4	DIXDC1	0.0441975	normal gene
+GSTA4	MAGI2	0.0463106	normal gene
+GSTA4	MPDZ	0.0438117	normal gene
+GSTA4	NFIB	0.0438447	transcription factor
+GSTA4	RUFY3	0.0444639	normal gene
+GSTA4	SEMA6A	0.0437637	normal gene
+GSTA4	TTC3	0.043066	transcription factor
+GSTA4	ZBTB20	0.0473016	transcription factor

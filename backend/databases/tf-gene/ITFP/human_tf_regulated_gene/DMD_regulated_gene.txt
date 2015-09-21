@@ -1,0 +1,4 @@
+DMD	ANK2	0.0437524	transcription factor
+DMD	DMN	0.0440516	normal gene
+DMD	DST	0.0458837	normal gene
+DMD	SORBS1	0.0485758	normal gene

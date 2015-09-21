@@ -1,0 +1,3 @@
+SNTG1	PPFIA2	0.0445967	transcription factor
+SNTG1	TMEM16G	0.0487489	normal gene
+SNTG1	TMEM37	0.0445272	normal gene

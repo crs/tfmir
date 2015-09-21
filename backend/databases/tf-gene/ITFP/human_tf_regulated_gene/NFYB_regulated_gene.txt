@@ -1,0 +1,13 @@
+NFYB	C12orf47	0.0443983	normal gene
+NFYB	DBT	0.0464123	normal gene
+NFYB	DNAJC21	0.0527785	normal gene
+NFYB	FH	0.0437716	normal gene
+NFYB	GTF2H2	0.0487684	transcription factor
+NFYB	HSF2	0.0463323	transcription factor
+NFYB	KIAA1143	0.0462539	normal gene
+NFYB	LMF2	0.043124	normal gene
+NFYB	MMP14	0.043556	normal gene
+NFYB	TAF11	0.045233	transcription factor
+NFYB	TUBGCP3	0.0441234	normal gene
+NFYB	UBE2Z	0.0481067	normal gene
+NFYB	WDR89	0.0441375	transcription factor

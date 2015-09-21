@@ -1,0 +1,4 @@
+CASP4	ATP6V0E2	0.0437676	normal gene
+CASP4	BNIP2	0.0433848	normal gene
+CASP4	FAM125A	0.0470415	normal gene
+CASP4	GNAS	0.0461925	normal gene

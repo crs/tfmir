@@ -1,0 +1,2 @@
+ILK	EPHX2	0.0450139	normal gene
+ILK	NUCB1	0.0470026	normal gene

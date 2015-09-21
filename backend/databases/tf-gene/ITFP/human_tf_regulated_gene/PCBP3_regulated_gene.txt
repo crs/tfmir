@@ -1,0 +1,16 @@
+PCBP3	ACRV1	0.0434622	normal gene
+PCBP3	ARHGAP6	0.0503229	normal gene
+PCBP3	EPC1	0.0464623	normal gene
+PCBP3	GPR6	0.043659	normal gene
+PCBP3	INSL3	0.0468834	normal gene
+PCBP3	MAOA	0.0446261	normal gene
+PCBP3	METT5D1	0.0428044	normal gene
+PCBP3	NA	0.0432261	normal gene
+PCBP3	NEK1	0.0456135	normal gene
+PCBP3	NT5C1B	0.0439201	normal gene
+PCBP3	P2RY4	0.0437584	normal gene
+PCBP3	SLC25A42	0.0431925	normal gene
+PCBP3	SOX17	0.0474794	transcription factor
+PCBP3	VIPR2	0.0454145	normal gene
+PCBP3	ZDHHC20	0.0454197	normal gene
+PCBP3	ZNF645	0.0434579	transcription factor

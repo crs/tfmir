@@ -1,0 +1,12 @@
+MYC	BUB3	0.0431502	transcription factor
+MYC	C1orf151	0.0465648	normal gene
+MYC	ELAVL1	0.0443777	transcription factor
+MYC	HNRPF	0.0455013	transcription factor
+MYC	MKI67IP	0.0466545	transcription factor
+MYC	NOB1	0.0522243	normal gene
+MYC	NPM1	0.0486822	normal gene
+MYC	PA2G4	0.0435953	transcription factor
+MYC	PVT1	0.0432226	normal gene
+MYC	RAN	0.0462046	normal gene
+MYC	RCC1	0.0451673	normal gene
+MYC	ZNF596	0.0432883	transcription factor

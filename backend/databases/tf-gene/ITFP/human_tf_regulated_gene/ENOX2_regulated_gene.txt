@@ -1,0 +1,1 @@
+ENOX2	S100A10	0.0427985	normal gene

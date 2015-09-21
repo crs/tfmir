@@ -1,0 +1,11 @@
+LNPEP	ARF4	0.0448524	normal gene
+LNPEP	ARID1B	0.0442954	transcription factor
+LNPEP	ATP8A1	0.0427925	normal gene
+LNPEP	CSNK1D	0.0442096	normal gene
+LNPEP	EPS15	0.0507713	normal gene
+LNPEP	HERC1	0.0474503	normal gene
+LNPEP	MOV10	0.0447637	normal gene
+LNPEP	PAK2	0.0438252	normal gene
+LNPEP	SPIN1	0.0442976	normal gene
+LNPEP	SURF4	0.0462094	normal gene
+LNPEP	TAPT1	0.043871	normal gene

@@ -1,0 +1,10 @@
+LANCL1	C5orf22	0.0442431	normal gene
+LANCL1	COPS8	0.0453271	normal gene
+LANCL1	DNAJC11	0.0428624	normal gene
+LANCL1	FBXL17	0.0430382	transcription factor
+LANCL1	GAPDH	0.050598	normal gene
+LANCL1	HBS1L	0.0433108	normal gene
+LANCL1	MBTPS2	0.0456019	normal gene
+LANCL1	MFN1	0.0476987	normal gene
+LANCL1	MKRN2	0.04582	transcription factor
+LANCL1	MPHOSPH9	0.0432445	normal gene

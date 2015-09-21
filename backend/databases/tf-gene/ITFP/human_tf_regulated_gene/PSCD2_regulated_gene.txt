@@ -1,0 +1,3 @@
+PSCD2	BUB3	0.0468657	transcription factor
+PSCD2	FN1	0.0445699	normal gene
+PSCD2	TAF11	0.0435145	transcription factor

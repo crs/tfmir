@@ -1,0 +1,4 @@
+SFRS5	C1orf63	0.0453593	normal gene
+SFRS5	DDX17	0.0438499	transcription factor
+SFRS5	OGT	0.0450407	transcription factor
+SFRS5	RBM5	0.044277	transcription factor

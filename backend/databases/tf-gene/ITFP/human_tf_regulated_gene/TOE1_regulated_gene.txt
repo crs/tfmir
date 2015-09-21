@@ -1,0 +1,6 @@
+TOE1	C15orf44	0.0475268	transcription factor
+TOE1	C19orf48	0.0445153	normal gene
+TOE1	DNAJC8	0.046258	normal gene
+TOE1	PPIH	0.0521482	normal gene
+TOE1	PRPF19	0.0454395	transcription factor
+TOE1	XRCC6	0.0431944	transcription factor

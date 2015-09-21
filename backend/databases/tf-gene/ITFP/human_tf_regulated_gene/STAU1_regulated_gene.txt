@@ -1,0 +1,3 @@
+STAU1	NKTR	0.0432032	normal gene
+STAU1	PA2G4	0.0439466	transcription factor
+STAU1	TMEM189-UBE2V1	0.0459826	normal gene

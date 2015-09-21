@@ -1,0 +1,2 @@
+TNS4	EVPL	0.0481107	normal gene
+TNS4	PKP3	0.0446888	transcription factor

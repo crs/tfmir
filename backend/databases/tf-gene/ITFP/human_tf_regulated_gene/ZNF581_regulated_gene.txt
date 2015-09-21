@@ -1,0 +1,1 @@
+ZNF581	ZDHHC24	0.0431379	normal gene

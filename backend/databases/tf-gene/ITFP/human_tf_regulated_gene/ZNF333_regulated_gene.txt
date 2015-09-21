@@ -1,0 +1,11 @@
+ZNF333	ACRV1	0.0454243	normal gene
+ZNF333	C3orf68	0.0431532	normal gene
+ZNF333	CYP2C9	0.0435547	normal gene
+ZNF333	GCNT2	0.0429719	normal gene
+ZNF333	IQSEC2	0.0439878	transcription factor
+ZNF333	NDUFA9	0.0443423	normal gene
+ZNF333	NLRP1	0.0431018	transcription factor
+ZNF333	OR1I1	0.0434619	normal gene
+ZNF333	RNF170	0.0455536	transcription factor
+ZNF333	SIGLEC6	0.0433186	normal gene
+ZNF333	ZNF664	0.0444615	transcription factor

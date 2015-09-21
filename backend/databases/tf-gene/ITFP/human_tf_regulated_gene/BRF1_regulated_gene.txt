@@ -1,0 +1,15 @@
+BRF1	C21orf2	0.0475079	normal gene
+BRF1	CRYBB3	0.046544	normal gene
+BRF1	GJA3	0.0443901	normal gene
+BRF1	HLA-DOA	0.0436746	normal gene
+BRF1	ITGA8	0.0430703	normal gene
+BRF1	ITPKB	0.0440027	normal gene
+BRF1	LDLR	0.0457592	normal gene
+BRF1	LSM14A	0.0438928	normal gene
+BRF1	MBD6	0.0441814	transcription factor
+BRF1	MYCN	0.0438617	transcription factor
+BRF1	RDH14	0.0495799	normal gene
+BRF1	ROCK1	0.0454917	normal gene
+BRF1	STK24	0.0504273	normal gene
+BRF1	TOX3	0.0466485	transcription factor
+BRF1	ZFP36L2	0.048015	transcription factor

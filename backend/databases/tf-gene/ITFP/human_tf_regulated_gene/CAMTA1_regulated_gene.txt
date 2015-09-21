@@ -1,0 +1,2 @@
+CAMTA1	LIFR	0.046411	normal gene
+CAMTA1	SORBS1	0.0430005	normal gene

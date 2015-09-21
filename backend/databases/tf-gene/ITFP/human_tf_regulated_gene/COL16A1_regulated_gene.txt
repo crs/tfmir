@@ -1,0 +1,2 @@
+COL16A1	EFS	0.0442604	normal gene
+COL16A1	TMEM16A	0.0453269	normal gene

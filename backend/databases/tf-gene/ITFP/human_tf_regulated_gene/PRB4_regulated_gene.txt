@@ -1,0 +1,13 @@
+PRB4	APOBEC3G	0.0489712	normal gene
+PRB4	BCL2L10	0.0461559	normal gene
+PRB4	C11orf16	0.0468555	normal gene
+PRB4	CABP4	0.0445928	normal gene
+PRB4	CSTB	0.0484379	normal gene
+PRB4	KIR2DL1	0.0432728	normal gene
+PRB4	PIAS2	0.0452161	transcription factor
+PRB4	PRB1	0.0433875	transcription factor
+PRB4	PRSS1	0.050372	normal gene
+PRB4	SLC11A1	0.044576	normal gene
+PRB4	TBC1D1	0.0434755	transcription factor
+PRB4	TMPRSS6	0.0443916	normal gene
+PRB4	VWA3A	0.0449484	normal gene

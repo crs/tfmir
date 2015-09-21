@@ -1,0 +1,3 @@
+TAZ	PPIL2	0.0446199	normal gene
+TAZ	SUZ12P	0.0437388	normal gene
+TAZ	ZNF76	0.0428736	transcription factor

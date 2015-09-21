@@ -1,0 +1,3 @@
+THRA	CAPZB	0.0452877	normal gene
+THRA	GP1BB	0.0434887	normal gene
+THRA	PWWP2B	0.0438658	transcription factor

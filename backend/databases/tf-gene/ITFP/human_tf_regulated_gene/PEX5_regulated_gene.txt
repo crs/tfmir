@@ -1,0 +1,8 @@
+PEX5	HEATR2	0.0432375	transcription factor
+PEX5	LSM12	0.0429237	normal gene
+PEX5	MAP2K2	0.0454754	normal gene
+PEX5	MRPL4	0.043279	normal gene
+PEX5	SENP3	0.0439127	normal gene
+PEX5	TOMM22	0.0443592	normal gene
+PEX5	UBE2M	0.0453588	normal gene
+PEX5	WBSCR16	0.0428495	normal gene

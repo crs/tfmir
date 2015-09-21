@@ -1,0 +1,2 @@
+DOCK9	PTPRB	0.0442406	normal gene
+DOCK9	SOX7	0.046346	transcription factor

@@ -1,0 +1,13 @@
+CCRN4L	ATOH8	0.0432178	normal gene
+CCRN4L	CNR2	0.0452411	normal gene
+CCRN4L	EZH1	0.0451046	transcription factor
+CCRN4L	FAM65A	0.0429393	normal gene
+CCRN4L	IL4R	0.0458616	normal gene
+CCRN4L	NLGN2	0.0430597	normal gene
+CCRN4L	NLRP1	0.045879	transcription factor
+CCRN4L	NOS1	0.0439147	normal gene
+CCRN4L	null	0.0437596	normal gene
+CCRN4L	OR1I1	0.0427735	normal gene
+CCRN4L	OR51B2	0.0474831	normal gene
+CCRN4L	PDE4C	0.0446754	normal gene
+CCRN4L	TMEM95	0.0439949	normal gene

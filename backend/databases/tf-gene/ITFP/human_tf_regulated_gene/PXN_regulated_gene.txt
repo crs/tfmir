@@ -1,0 +1,7 @@
+PXN	AP2A1	0.0452477	normal gene
+PXN	ARHGDIA	0.04742	normal gene
+PXN	PLEC1	0.0441234	normal gene
+PXN	PRR14	0.0480232	normal gene
+PXN	SHC1	0.0444582	transcription factor
+PXN	SORBS3	0.0429063	normal gene
+PXN	TFE3	0.0462898	transcription factor

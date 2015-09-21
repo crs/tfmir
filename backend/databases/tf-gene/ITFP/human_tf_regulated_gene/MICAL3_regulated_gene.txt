@@ -1,0 +1,5 @@
+MICAL3	ASB10	0.0441938	transcription factor
+MICAL3	GPR89A	0.0474657	normal gene
+MICAL3	MPV17L	0.0431275	normal gene
+MICAL3	PAX8	0.0434433	transcription factor
+MICAL3	WNT6	0.0481922	normal gene

@@ -1,0 +1,4 @@
+RTKN	PTPRF	0.0434248	normal gene
+RTKN	S100A16	0.0454219	normal gene
+RTKN	SIX1	0.0435981	transcription factor
+RTKN	SLC39A5	0.0434534	normal gene

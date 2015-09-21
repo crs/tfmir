@@ -1,0 +1,6 @@
+NR2F6	C20orf135	0.0483412	normal gene
+NR2F6	C20orf165	0.0435056	normal gene
+NR2F6	PER1	0.0430961	normal gene
+NR2F6	PTMA	0.0437197	normal gene
+NR2F6	TRIM24	0.0433895	transcription factor
+NR2F6	ZNF771	0.0509368	transcription factor

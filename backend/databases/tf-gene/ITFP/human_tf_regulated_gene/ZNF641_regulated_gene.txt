@@ -1,0 +1,2 @@
+ZNF641	CHEK1	0.0428352	normal gene
+ZNF641	FAM29A	0.0449136	normal gene

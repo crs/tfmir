@@ -1,0 +1,14 @@
+RNF32	CAPN1	0.0432835	normal gene
+RNF32	CCDC57	0.0446391	normal gene
+RNF32	CHERP	0.0450798	transcription factor
+RNF32	E2F4	0.0452254	transcription factor
+RNF32	GPRC5D	0.0435332	normal gene
+RNF32	INHBC	0.0433549	transcription factor
+RNF32	KRT2	0.0452863	normal gene
+RNF32	MESP2	0.0443395	transcription factor
+RNF32	PKN3	0.0456256	normal gene
+RNF32	PSG9	0.0449645	normal gene
+RNF32	RCAN1	0.0452664	normal gene
+RNF32	RNF170	0.0449485	transcription factor
+RNF32	SHMT1	0.0446661	normal gene
+RNF32	TAC3	0.0432659	normal gene

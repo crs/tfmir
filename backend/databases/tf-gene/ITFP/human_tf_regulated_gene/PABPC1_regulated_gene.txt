@@ -1,0 +1,15 @@
+PABPC1	ANP32B	0.0469422	normal gene
+PABPC1	C1orf151	0.0487061	normal gene
+PABPC1	EIF3M	0.0445905	transcription factor
+PABPC1	FBL	0.0483582	normal gene
+PABPC1	NCL	0.0432879	transcription factor
+PABPC1	NPM1	0.0463623	normal gene
+PABPC1	NUPL1	0.0449721	normal gene
+PABPC1	PABPC3	0.0728298	transcription factor
+PABPC1	RPL5	0.0438396	normal gene
+PABPC1	RPL7AP8	0.0449982	normal gene
+PABPC1	RPL8	0.0455897	transcription factor
+PABPC1	RPS2	0.0455399	normal gene
+PABPC1	RYBP	0.0452226	normal gene
+PABPC1	SFRS9	0.0459799	transcription factor
+PABPC1	YME1L1	0.0472938	normal gene

@@ -1,0 +1,8 @@
+TAF6	BANF1	0.0439563	normal gene
+TAF6	C12orf10	0.0443356	normal gene
+TAF6	C16orf13	0.0473447	normal gene
+TAF6	C7orf27	0.0451012	transcription factor
+TAF6	CD300LG	0.0447046	normal gene
+TAF6	TPI1	0.045777	normal gene
+TAF6	TUFM	0.0432463	normal gene
+TAF6	WDR34	0.0428204	transcription factor

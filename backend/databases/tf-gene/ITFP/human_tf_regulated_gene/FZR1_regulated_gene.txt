@@ -1,0 +1,10 @@
+FZR1	ARHGDIA	0.0472553	normal gene
+FZR1	C19orf6	0.0481242	normal gene
+FZR1	C7orf20	0.0428898	normal gene
+FZR1	KCTD5	0.0439676	normal gene
+FZR1	MAZ	0.0433254	transcription factor
+FZR1	MYCN	0.0445269	transcription factor
+FZR1	PTBP1	0.0430327	transcription factor
+FZR1	RDH14	0.046291	normal gene
+FZR1	RELA	0.0439595	transcription factor
+FZR1	UBAP2L	0.0452542	normal gene

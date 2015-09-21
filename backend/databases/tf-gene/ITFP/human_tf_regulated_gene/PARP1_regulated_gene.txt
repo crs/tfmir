@@ -1,0 +1,8 @@
+PARP1	CKAP5	0.0458671	transcription factor
+PARP1	CSE1L	0.0439431	normal gene
+PARP1	CST1	0.0428859	transcription factor
+PARP1	ILF3	0.0469578	transcription factor
+PARP1	MCM2	0.0441553	transcription factor
+PARP1	MKI67	0.0432987	normal gene
+PARP1	OIP5	0.0449991	normal gene
+PARP1	UBE2T	0.0456393	normal gene

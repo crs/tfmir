@@ -1,0 +1,2 @@
+CAND2	GPRC5B	0.0443555	normal gene
+CAND2	ZNF423	0.0439169	transcription factor

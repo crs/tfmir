@@ -1,0 +1,7 @@
+PPWD1	AQR	0.0428703	normal gene
+PPWD1	CLASP1	0.0434341	transcription factor
+PPWD1	DPH4	0.0428959	normal gene
+PPWD1	FAM75A1	0.0445331	normal gene
+PPWD1	IREB2	0.0434649	normal gene
+PPWD1	PIK3CA	0.0430517	normal gene
+PPWD1	ZNF148	0.0429443	transcription factor

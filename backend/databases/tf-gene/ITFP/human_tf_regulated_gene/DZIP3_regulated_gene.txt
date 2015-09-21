@@ -1,0 +1,2 @@
+DZIP3	SOBP	0.0429699	normal gene
+DZIP3	TNRC6B	0.0450703	transcription factor

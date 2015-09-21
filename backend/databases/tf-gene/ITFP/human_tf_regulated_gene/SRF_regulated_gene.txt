@@ -1,0 +1,2 @@
+SRF	HSF1	0.0453799	transcription factor
+SRF	ZNF546	0.0429349	transcription factor

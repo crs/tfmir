@@ -1,0 +1,9 @@
+TLE2	AMIGO1	0.0442227	normal gene
+TLE2	ARL6IP6	0.0479199	normal gene
+TLE2	CBX7	0.0522688	normal gene
+TLE2	EFHD1	0.0463879	normal gene
+TLE2	EZH1	0.0484843	transcription factor
+TLE2	MCF2L	0.0437974	normal gene
+TLE2	NDRG2	0.0502038	normal gene
+TLE2	NFE2L3	0.0429777	transcription factor
+TLE2	NUFIP1	0.0452121	transcription factor

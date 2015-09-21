@@ -1,0 +1,14 @@
+IRF3	C19orf48	0.0532804	normal gene
+IRF3	C19orf61	0.0435061	normal gene
+IRF3	CAD	0.0522695	normal gene
+IRF3	CD300LG	0.0450832	normal gene
+IRF3	COPE	0.0470902	transcription factor
+IRF3	EIF6	0.0455802	normal gene
+IRF3	NME1-NME2	0.0439558	normal gene
+IRF3	PFN1	0.0458147	normal gene
+IRF3	PGLS	0.0431282	normal gene
+IRF3	SLC35C2	0.0439683	normal gene
+IRF3	SNRPA	0.0549035	transcription factor
+IRF3	SYMPK	0.0549155	transcription factor
+IRF3	TRIM28	0.0489375	transcription factor
+IRF3	ZNF598	0.0485072	transcription factor

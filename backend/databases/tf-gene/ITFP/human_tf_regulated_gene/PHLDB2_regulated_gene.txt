@@ -1,0 +1,2 @@
+PHLDB2	CAV2	0.0427895	normal gene
+PHLDB2	CXADR	0.0428304	normal gene

@@ -1,0 +1,5 @@
+CEBPZ	C9orf7	0.0448191	normal gene
+CEBPZ	CCDC59	0.0447951	normal gene
+CEBPZ	PRPF40A	0.0453556	transcription factor
+CEBPZ	RBM34	0.0460682	transcription factor
+CEBPZ	WDR89	0.0449163	transcription factor

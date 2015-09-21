@@ -1,0 +1,5 @@
+PTS	BOLA3	0.0498476	normal gene
+PTS	MRPS24	0.0445053	normal gene
+PTS	MTX2	0.0459068	transcription factor
+PTS	PHKA1	0.0513801	transcription factor
+PTS	PSMB5	0.0512512	normal gene

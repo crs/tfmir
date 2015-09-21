@@ -1,0 +1,5 @@
+TRIM29	DST	0.0437131	normal gene
+TRIM29	KRT17	0.0461958	transcription factor
+TRIM29	LYPD3	0.0538706	normal gene
+TRIM29	SERPINB5	0.0441171	normal gene
+TRIM29	SFN	0.0477939	normal gene

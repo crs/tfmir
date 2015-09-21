@@ -1,0 +1,2 @@
+ZFP161	C18orf50	0.0430899	normal gene
+ZFP161	SDCCAG8	0.0433674	normal gene

@@ -1,0 +1,3 @@
+PABPN1	LACTB	0.0429846	normal gene
+PABPN1	POMZP3	0.0440373	normal gene
+PABPN1	PTBP1	0.0428498	transcription factor

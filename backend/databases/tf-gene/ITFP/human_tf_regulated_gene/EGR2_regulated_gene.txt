@@ -1,0 +1,3 @@
+EGR2	CCL8	0.0440212	normal gene
+EGR2	MAFB	0.0429449	transcription factor
+EGR2	TMBIM4	0.0438841	normal gene

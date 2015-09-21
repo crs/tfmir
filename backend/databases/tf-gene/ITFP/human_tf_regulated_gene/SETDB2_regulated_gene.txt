@@ -1,0 +1,1 @@
+SETDB2	PLSCR3	0.043289	normal gene

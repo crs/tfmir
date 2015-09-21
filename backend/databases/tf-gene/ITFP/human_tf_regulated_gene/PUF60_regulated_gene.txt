@@ -1,0 +1,8 @@
+PUF60	BANF1	0.0479717	normal gene
+PUF60	BOP1	0.0461651	transcription factor
+PUF60	LRRC6	0.0443878	normal gene
+PUF60	LSM4	0.0441207	normal gene
+PUF60	MRPS12	0.0438732	transcription factor
+PUF60	PRMT1	0.0471375	normal gene
+PUF60	PRPF31	0.0436663	normal gene
+PUF60	RBM42	0.0480858	transcription factor

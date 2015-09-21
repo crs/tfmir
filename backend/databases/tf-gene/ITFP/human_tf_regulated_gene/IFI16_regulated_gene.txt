@@ -1,0 +1,2 @@
+IFI16	PYHIN1	0.0645188	normal gene
+IFI16	RPS6KA3	0.0438297	normal gene

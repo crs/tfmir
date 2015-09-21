@@ -1,0 +1,6 @@
+NBEAL1	CDC2L2	0.0439062	normal gene
+NBEAL1	COMMD4	0.0458429	normal gene
+NBEAL1	CWF19L1	0.0467482	normal gene
+NBEAL1	INADL	0.0429515	normal gene
+NBEAL1	MAP4K3	0.0474566	normal gene
+NBEAL1	RAPH1	0.0439905	transcription factor

@@ -1,0 +1,7 @@
+RFC1	BUB3	0.0451862	transcription factor
+RFC1	CSE1L	0.0445592	normal gene
+RFC1	FBXO5	0.0431141	transcription factor
+RFC1	MSH2	0.0430536	transcription factor
+RFC1	PAICS	0.0478133	normal gene
+RFC1	SFRS10	0.0438675	transcription factor
+RFC1	WDR3	0.0451104	transcription factor

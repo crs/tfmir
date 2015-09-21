@@ -1,0 +1,11 @@
+ZNF398	ATAD3A	0.0443656	transcription factor
+ZNF398	C7orf27	0.0494976	transcription factor
+ZNF398	CKAP5	0.0432146	transcription factor
+ZNF398	CPSF1	0.0427947	transcription factor
+ZNF398	EIF3B	0.0499137	normal gene
+ZNF398	GEMIN4	0.0441699	normal gene
+ZNF398	HDGF	0.0481055	transcription factor
+ZNF398	HEATR2	0.0429227	transcription factor
+ZNF398	PPM1G	0.0456525	normal gene
+ZNF398	RNF40	0.0428991	transcription factor
+ZNF398	TSEN54	0.0428565	normal gene

@@ -1,0 +1,2 @@
+COPS2	EIF4E	0.044288	normal gene
+COPS2	NARG1	0.044785	transcription factor

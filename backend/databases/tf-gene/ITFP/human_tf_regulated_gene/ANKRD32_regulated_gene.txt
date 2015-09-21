@@ -1,0 +1,14 @@
+ANKRD32	ANLN	0.0457553	transcription factor
+ANKRD32	AZI2	0.0452406	normal gene
+ANKRD32	C4orf21	0.0429846	normal gene
+ANKRD32	C5orf34	0.0453833	normal gene
+ANKRD32	CCNE2	0.0457827	transcription factor
+ANKRD32	CENPJ	0.0504411	normal gene
+ANKRD32	CEP27	0.0453941	normal gene
+ANKRD32	DONSON	0.0446466	normal gene
+ANKRD32	NCBP1	0.0509072	normal gene
+ANKRD32	PAK2	0.0466235	normal gene
+ANKRD32	PAXIP1	0.0453061	transcription factor
+ANKRD32	POLR3G	0.0492082	normal gene
+ANKRD32	TAF1B	0.0468095	normal gene
+ANKRD32	UBE3C	0.0445402	normal gene

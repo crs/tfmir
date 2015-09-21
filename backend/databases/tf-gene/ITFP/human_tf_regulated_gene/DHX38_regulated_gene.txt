@@ -1,0 +1,3 @@
+DHX38	CCDC117	0.044424	normal gene
+DHX38	E2F4	0.0446265	transcription factor
+DHX38	RAB35	0.0464587	normal gene

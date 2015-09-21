@@ -1,0 +1,7 @@
+PREB	CCDC44	0.0438506	normal gene
+PREB	IMP4	0.045708	normal gene
+PREB	MRPL37	0.0432475	normal gene
+PREB	MRPS7	0.0450099	normal gene
+PREB	RPUSD3	0.0505715	normal gene
+PREB	STK40	0.0450147	normal gene
+PREB	TIMM50	0.0487993	normal gene

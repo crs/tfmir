@@ -1,0 +1,14 @@
+WDR46	BYSL	0.0449237	normal gene
+WDR46	DNAJC8	0.0447411	normal gene
+WDR46	DUS3L	0.0444839	transcription factor
+WDR46	EXOSC1	0.0478915	normal gene
+WDR46	LSM7	0.0463069	normal gene
+WDR46	MRTO4	0.0491577	normal gene
+WDR46	NXT1	0.0464049	normal gene
+WDR46	PES1	0.0480157	transcription factor
+WDR46	PRPF31	0.0437252	normal gene
+WDR46	PSMB1	0.0441456	normal gene
+WDR46	RANBP1	0.045686	transcription factor
+WDR46	WDR74	0.0473287	transcription factor
+WDR46	ZNHIT1	0.0438652	normal gene
+WDR46	ZNRD1	0.043967	transcription factor

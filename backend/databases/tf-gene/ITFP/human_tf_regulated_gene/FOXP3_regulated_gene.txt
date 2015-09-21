@@ -1,0 +1,12 @@
+FOXP3	AXUD1	0.043022	normal gene
+FOXP3	C20orf151	0.0438823	normal gene
+FOXP3	CAPZB	0.0453768	normal gene
+FOXP3	DUX4	0.0453165	transcription factor
+FOXP3	GLTSCR2	0.0440403	normal gene
+FOXP3	GP1BB	0.0432155	normal gene
+FOXP3	ICMT	0.0471333	normal gene
+FOXP3	IRGM	0.0450015	normal gene
+FOXP3	PWWP2B	0.0488486	transcription factor
+FOXP3	SFTPC	0.0441631	normal gene
+FOXP3	TMCC1	0.0463073	normal gene
+FOXP3	ZNF286A	0.0437361	transcription factor

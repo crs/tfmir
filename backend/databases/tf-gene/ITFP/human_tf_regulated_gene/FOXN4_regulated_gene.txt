@@ -1,0 +1,2 @@
+FOXN4	ZNF404	0.0454117	transcription factor
+FOXN4	ZNF763	0.0439854	normal gene

@@ -1,0 +1,4 @@
+RPS4X	GLTSCR2	0.0444043	normal gene
+RPS4X	RPL13A	0.0480315	normal gene
+RPS4X	RPL14	0.055353	normal gene
+RPS4X	RPLP0	0.0433428	normal gene

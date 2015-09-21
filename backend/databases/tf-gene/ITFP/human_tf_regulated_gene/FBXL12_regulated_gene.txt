@@ -1,0 +1,5 @@
+FBXL12	C8orf49	0.0429716	normal gene
+FBXL12	CHST4	0.0474159	normal gene
+FBXL12	INSL3	0.044512	normal gene
+FBXL12	NCK1	0.0470296	normal gene
+FBXL12	SFPQ	0.0444931	transcription factor

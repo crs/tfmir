@@ -1,0 +1,2 @@
+TGIF1	C9orf163	0.0431284	normal gene
+TGIF1	PAX8	0.0469552	transcription factor

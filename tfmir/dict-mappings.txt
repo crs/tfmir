@@ -1,0 +1,75 @@
+tf-mirna=Transcription Factor - miRNA
+mirna-mirna=miRNA - miRNA
+tf-gene=Transcription Factor - Gene
+mirna-gene=miRNA - Gene
+
+Category.of.Interactions=Interaction type
+Evidence=Evidence
+Target.input.set=No. of targets
+Regulator.input.set=No. of regulators
+ORA.pval.cutoff=ORA p-Value
+Total.Targets.inDb=Targets in database
+Total.Regulators.inDb=Regulators in database
+Deregulated.targets.by.inputRegulator=Deregulated Targets
+Deregulated.targets.of.inputRegulator.and.in.input.targetlist.overlap=Deregulated Targets in input Targetlist
+no.of.resultant.interactions=No. of interactions
+no.of.interactions.associated.with.input.disease=Associated with input disease
+venn.pval.hypergeom=Venn hypergeometric test p-value
+venn.pval.simulation=Venn simulation p-value
+Venn.image.path=Venn Diagram
+david.BP.link=GO Biological Pathways
+david.KEGG.link=KEGG Pathway
+david.OMIM.link=Omim disease
+david.functional.clust.link=Functional Clustering 
+target.reg=Target Regulation
+regulator.reg=Regulator Regulation
+category=Category 
+regulator.association.disease=Regulator Disease
+regulator.association.function=Regulator Function
+regulator.dsw=Regulator DSW
+target.dsw=Target DSW
+target.association.disease=Target Disease	
+target.association.function=Target Function
+target.genecard=Genecard
+is_regulator_in_disease=Target in Disease
+is_target_in_disease=Regulator in Disease
+
+common.hotspots=Common hotspots
+
+target.reg=Target Regulation
+regulator.reg=Regulator Regulation
+
+pval.hypergeom.disease.node=Hypergeometric Test p-Value for disease
+disease.net.coverage.rate.edge=Edge coverage for disease
+disease.net.coverage.rate.node=Node coverage for disease
+degree.image.path=Degree distribution
+graph.nodes.no=Nodes
+graph.edges.no=Edges
+graph.density=Density
+graph.diameter=Diameter
+graph.avg.path.length=Avg. path length
+graph.transitivity=Transitivity
+degree.hotspots=Degree
+closeness.hotspots=Closeness
+betweenness.hotspots=Betweenness
+eigenvector.hotspots=Eigenvector
+common.hotspots=Common
+union.hotspots=Union
+
+david.BP.link=GO Term Biological Processes
+david.KEGG.link=KEGG Pathways
+david.OMIM.link=OMIM
+david.functional.clust.link=Functional Clustering
+
+motif.ids=ID
+motif.type=Type
+tf=TF
+mirna=miRNA
+targets=Target
+pvals.tfmirpair=p-Value TFmiR
+pvals.random=p-Value Random Networks
+zcore=Z-score
+Symbol.coreg.targets=Co-regulated Targets
+ENTREZ.IDs.coreg.targets=Co-regulated IDs
+Symbol.cotargeted.genes=Co-targeted Targets
+ENTREZ.IDs.cotargeted.genes=Co-targeted IDs

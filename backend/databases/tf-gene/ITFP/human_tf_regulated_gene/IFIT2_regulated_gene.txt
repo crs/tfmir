@@ -1,0 +1,7 @@
+IFIT2	DDX60	0.0490138	normal gene
+IFIT2	GBP1	0.0455808	normal gene
+IFIT2	IFI44	0.0486887	normal gene
+IFIT2	IFIT3	0.0554931	transcription factor
+IFIT2	PARP9	0.0446949	transcription factor
+IFIT2	PIGL	0.0453103	normal gene
+IFIT2	RSAD2	0.0486842	normal gene

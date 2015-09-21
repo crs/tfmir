@@ -1,0 +1,7 @@
+AKT3	ATP8B2	0.0455846	normal gene
+AKT3	C20orf24	0.0453072	normal gene
+AKT3	IDS	0.0439597	normal gene
+AKT3	LRCH2	0.0473308	normal gene
+AKT3	PCDH17	0.0429811	normal gene
+AKT3	SCRN3	0.0439774	normal gene
+AKT3	SYNJ1	0.0444502	transcription factor

@@ -1,0 +1,3 @@
+PSMD7	MRPL15	0.0435794	normal gene
+PSMD7	MRPS7	0.0471477	normal gene
+PSMD7	QRSL1	0.0438849	normal gene

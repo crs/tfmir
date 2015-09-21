@@ -1,0 +1,4 @@
+RAI1	CYGB	0.0500132	normal gene
+RAI1	DNAJA4	0.042814	normal gene
+RAI1	IL28RA	0.04278	normal gene
+RAI1	TMEM105	0.0434346	normal gene

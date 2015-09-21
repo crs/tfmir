@@ -1,0 +1,4 @@
+FXR2	ATG9A	0.0434055	normal gene
+FXR2	PCTK1	0.0437138	normal gene
+FXR2	SLC25A11	0.0442523	normal gene
+FXR2	STUB1	0.0427794	transcription factor

@@ -1,0 +1,2 @@
+KLHL26	RDH14	0.0446954	normal gene
+KLHL26	UBE2B	0.0436671	normal gene

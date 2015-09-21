@@ -1,0 +1,5 @@
+RNF113A	ABT1	0.0430983	transcription factor
+RNF113A	CTNND1	0.0443551	transcription factor
+RNF113A	EXOSC1	0.0432738	normal gene
+RNF113A	EXOSC5	0.0443378	normal gene
+RNF113A	KIAA0409	0.0458681	normal gene

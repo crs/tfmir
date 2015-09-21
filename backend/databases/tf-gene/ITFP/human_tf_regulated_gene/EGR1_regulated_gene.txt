@@ -1,0 +1,2 @@
+EGR1	FOSB	0.0449254	transcription factor
+EGR1	JUND	0.0432449	transcription factor

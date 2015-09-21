@@ -1,0 +1,4 @@
+EVI1	EEF1B2	0.0483043	transcription factor
+EVI1	RPL22	0.0513047	normal gene
+EVI1	RPL30	0.0459606	normal gene
+EVI1	RPS21	0.0452753	normal gene

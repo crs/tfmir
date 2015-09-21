@@ -1,0 +1,7 @@
+TCOF1	CIZ1	0.0482351	transcription factor
+TCOF1	PA2G4	0.0441715	transcription factor
+TCOF1	POLR3G	0.0442577	normal gene
+TCOF1	PTMA	0.0492266	normal gene
+TCOF1	RNF146	0.0438199	transcription factor
+TCOF1	XPO4	0.0431448	normal gene
+TCOF1	XRCC3	0.043163	normal gene

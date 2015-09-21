@@ -1,0 +1,4 @@
+EML1	FERMT2	0.0450554	normal gene
+EML1	LIMCH1	0.0461745	transcription factor
+EML1	MPDZ	0.044753	normal gene
+EML1	TMEM47	0.0522959	normal gene

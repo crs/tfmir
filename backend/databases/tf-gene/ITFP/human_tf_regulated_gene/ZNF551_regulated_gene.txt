@@ -1,0 +1,7 @@
+ZNF551	ASB10	0.0488815	transcription factor
+ZNF551	BACH1	0.0484583	transcription factor
+ZNF551	C21orf93	0.0441097	normal gene
+ZNF551	KCNK16	0.0455085	normal gene
+ZNF551	LIPC	0.0428917	normal gene
+ZNF551	ZNF277	0.0435056	normal gene
+ZNF551	ZNF763	0.0477647	normal gene

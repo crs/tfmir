@@ -1,0 +1,9 @@
+JUND	CACYBP	0.0470271	normal gene
+JUND	EGR1	0.0432449	transcription factor
+JUND	MKKS	0.0472722	normal gene
+JUND	MYL6	0.0439577	normal gene
+JUND	PNPT1	0.0452626	transcription factor
+JUND	PSMC2	0.0485442	normal gene
+JUND	TCEB1	0.0474321	normal gene
+JUND	TIMM8A	0.0444477	normal gene
+JUND	TPRKB	0.0451377	normal gene

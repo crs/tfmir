@@ -1,0 +1,4 @@
+NLRP4	ADARB1	0.0436302	transcription factor
+NLRP4	ARSD	0.0440483	normal gene
+NLRP4	HLA-DOA	0.0436773	normal gene
+NLRP4	IRGM	0.045341	normal gene

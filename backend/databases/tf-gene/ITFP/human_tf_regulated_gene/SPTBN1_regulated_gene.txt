@@ -1,0 +1,5 @@
+SPTBN1	ARHGAP5	0.0468154	normal gene
+SPTBN1	C9orf5	0.0467482	normal gene
+SPTBN1	MACF1	0.0435172	normal gene
+SPTBN1	PTRF	0.0443184	normal gene
+SPTBN1	SERINC3	0.0433976	normal gene

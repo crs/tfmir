@@ -1,0 +1,13 @@
+DTX3L	APOL1	0.0453024	normal gene
+DTX3L	APOL6	0.0463184	normal gene
+DTX3L	C12orf35	0.0471712	normal gene
+DTX3L	C17orf27	0.0521488	normal gene
+DTX3L	COPS8	0.0485972	normal gene
+DTX3L	DDX60	0.0454484	normal gene
+DTX3L	GBP1	0.0465187	normal gene
+DTX3L	MX1	0.0447985	normal gene
+DTX3L	PARP10	0.0440265	transcription factor
+DTX3L	PARP14	0.0592606	transcription factor
+DTX3L	PARP9	0.0577829	transcription factor
+DTX3L	RARRES3	0.0430233	normal gene
+DTX3L	VDAC2	0.0467784	normal gene

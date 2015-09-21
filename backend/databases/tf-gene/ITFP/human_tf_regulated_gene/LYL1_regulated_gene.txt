@@ -1,0 +1,15 @@
+LYL1	APBB1IP	0.0443445	transcription factor
+LYL1	ARHGDIB	0.0478717	normal gene
+LYL1	BTK	0.0497518	normal gene
+LYL1	CENTB1	0.0462454	transcription factor
+LYL1	FERMT3	0.0580993	normal gene
+LYL1	FMNL1	0.0441358	normal gene
+LYL1	GMFG	0.0590915	normal gene
+LYL1	HOPX	0.0473147	transcription factor
+LYL1	KLHL6	0.0444671	transcription factor
+LYL1	LAIR1	0.0428183	normal gene
+LYL1	LAPTM5	0.052119	normal gene
+LYL1	LILRB1	0.0451432	normal gene
+LYL1	MYO1G	0.0475226	normal gene
+LYL1	SELPLG	0.0463435	normal gene
+LYL1	TBC1D10C	0.0449179	normal gene

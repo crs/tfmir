@@ -1,0 +1,7 @@
+MED1	CBLL1	0.0437419	transcription factor
+MED1	CRKRS	0.0479316	normal gene
+MED1	CSTF1	0.0431878	transcription factor
+MED1	DBF4	0.0433261	transcription factor
+MED1	SEH1L	0.0530012	transcription factor
+MED1	SLC25A32	0.0437838	normal gene
+MED1	ZBED4	0.0445555	transcription factor

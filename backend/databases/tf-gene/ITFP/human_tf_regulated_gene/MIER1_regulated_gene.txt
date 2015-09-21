@@ -1,0 +1,11 @@
+MIER1	BAG4	0.0443808	normal gene
+MIER1	C10orf119	0.0442199	normal gene
+MIER1	C14orf159	0.0435487	normal gene
+MIER1	DYNLRB1	0.0478634	normal gene
+MIER1	NBN	0.0467707	transcription factor
+MIER1	NUP50	0.0438477	transcription factor
+MIER1	NUPL1	0.0445976	normal gene
+MIER1	PHC3	0.0442139	transcription factor
+MIER1	RPAP3	0.0442286	transcription factor
+MIER1	STK4	0.0450499	normal gene
+MIER1	TIPRL	0.0429398	normal gene

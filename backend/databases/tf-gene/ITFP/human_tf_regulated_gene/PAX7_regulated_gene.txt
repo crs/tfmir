@@ -1,0 +1,3 @@
+PAX7	ELOVL4	0.0429447	normal gene
+PAX7	TM6SF1	0.045765	normal gene
+PAX7	TUSC3	0.0454857	normal gene

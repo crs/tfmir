@@ -1,0 +1,2 @@
+ZHX2	AP2S1	0.0457567	normal gene
+ZHX2	ZWILCH	0.0453532	normal gene

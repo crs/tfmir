@@ -1,0 +1,8 @@
+FHL1	ITGA7	0.0436701	normal gene
+FHL1	MSRB3	0.0432059	normal gene
+FHL1	NEXN	0.0439991	normal gene
+FHL1	SCN4B	0.0439435	normal gene
+FHL1	SNRPN	0.0431905	normal gene
+FHL1	TMEM47	0.0431478	normal gene
+FHL1	TXN	0.0465938	normal gene
+FHL1	ZFPM2	0.0449625	transcription factor

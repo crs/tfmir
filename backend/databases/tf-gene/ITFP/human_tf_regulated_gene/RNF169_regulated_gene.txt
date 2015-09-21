@@ -1,0 +1,4 @@
+RNF169	C17orf57	0.0460737	normal gene
+RNF169	ITFG1	0.0442734	normal gene
+RNF169	TNRC15	0.0455698	normal gene
+RNF169	ZNF277	0.0438736	normal gene

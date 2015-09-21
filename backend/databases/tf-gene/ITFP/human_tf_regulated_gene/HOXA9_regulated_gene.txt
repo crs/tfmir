@@ -1,0 +1,2 @@
+HOXA9	HOXA10	0.0542464	transcription factor
+HOXA9	HOXA5	0.0443544	transcription factor

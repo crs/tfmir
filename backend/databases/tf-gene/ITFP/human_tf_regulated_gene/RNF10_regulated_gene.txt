@@ -1,0 +1,7 @@
+RNF10	ANKRD17	0.0458607	transcription factor
+RNF10	DICER1	0.0446126	transcription factor
+RNF10	MYST3	0.0453213	transcription factor
+RNF10	NDUFB10	0.0436844	normal gene
+RNF10	PCTK2	0.0442134	normal gene
+RNF10	RNF19A	0.0432355	transcription factor
+RNF10	ZNF207	0.043409	transcription factor

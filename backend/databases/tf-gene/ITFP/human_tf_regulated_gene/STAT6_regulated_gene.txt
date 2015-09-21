@@ -1,0 +1,2 @@
+STAT6	MVP	0.0464668	normal gene
+STAT6	SH3BGRL3	0.047297	normal gene

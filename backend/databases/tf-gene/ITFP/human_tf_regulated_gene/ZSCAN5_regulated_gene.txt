@@ -1,0 +1,10 @@
+ZSCAN5	ALPI	0.0431657	normal gene
+ZSCAN5	CHRNA4	0.0431208	normal gene
+ZSCAN5	CHST13	0.0437497	normal gene
+ZSCAN5	EPAS1	0.0437782	transcription factor
+ZSCAN5	GPATCH4	0.0429187	normal gene
+ZSCAN5	ITGA8	0.043211	normal gene
+ZSCAN5	LENG3	0.0430169	normal gene
+ZSCAN5	MUPCDH	0.047259	normal gene
+ZSCAN5	NARG1	0.0440515	transcription factor
+ZSCAN5	ZNF771	0.0440262	transcription factor
