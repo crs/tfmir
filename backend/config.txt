@@ -21,6 +21,7 @@ degreediagram.width=500
 degreediagram.hight=500
 hotspot.percentage=10
 pval.cutoffmirna.regulators_targets.fromTFS.inputlist=0.0001
+pval.cutoffgene.targets_regulators.fromMiRNA.inputlist=0.05
 
 pval.cutoff.significant.TF.MIR.PAIRS=0.05
 NO_OF_Times_FOR_Network_Randomizations=100

@@ -88,7 +88,7 @@ DO_ORA_FOR_MIRNA=function(mirnas,category,pval.cutoff)
 
 
 
-getTFsRegulatorsofMiRNAs=function( tfs, pval.cutoff,evidence)
+getMiRNAsRegulatorsofTFs=function( tfs, pval.cutoff,evidence)
 {
   ###  mirna-gene interactions
   db=dbs[dbs$category=="mirna-gene" & dbs$evidence %in% evidence, ]
@@ -113,7 +113,7 @@ getTFsRegulatorsofMiRNAs=function( tfs, pval.cutoff,evidence)
   
 }
 
-getTFsTargetsofMiRNAs=function( tfs, pval.cutoff,evidence)
+getMiRNAsTargetsofTFs=function( tfs, pval.cutoff,evidence)
 {
   ###  TF-miRNA interactions
   db=dbs[dbs$category=="tf-mirna" & dbs$evidence %in% evidence, ]
@@ -137,4 +137,61 @@ getTFsTargetsofMiRNAs=function( tfs, pval.cutoff,evidence)
   pvals.BH=(pvals.BH$adjp)[,2]
   return(tfs.targets[which(pvals.BH<pval.cutoff)])  
 }
+
+
+
+
+##### for the third scenarion : when user inputs a list of miRNAs only
+### then u get the list of Tfs(regulators) and genes(targets) which are 
+## statistically eniched in the input miRNA list
+
+
+getTFsRegulatorsofMiRNAs=function( mirnas, pval.cutoff,evidence)
+{
+  ###  mirna-gene interactions
+  db=dbs[dbs$category=="tf-mirna" & dbs$evidence %in% evidence, ]
+  tfs.regulators= unique(as.character(unlist(db[db$target %in%  mirnas, ]$regulator)))
+  #total= length(unique(as.character(unlist(db$target))))
+  total= as.integer(config$Total.No.of.miRNA.in.human)
+  pvals=c()
+  for(i in 1: length(tfs.regulators))
+  {
+    tf=tfs.regulators[i]
+    mirna.targets=unique(as.character(unlist(db[db$regulator %in% tf,]$target)))
+    overlap=length(intersect(tolower(mirna.targets),tolower(mirnas)))
+    numgA=length(mirnas)
+    numgB=length(mirna.targets)
+    pvals=c(pvals,phyper(overlap-1, numgA, total - numgA, numgB,lower.tail=FALSE) )    
+  }
+  pvals.BH=mt.rawp2adjp(pvals,proc="BH")
+  tfs.regulators=tfs.regulators[pvals.BH$index]
+  pvals.BH=(pvals.BH$adjp)[,2]
+  return(tfs.regulators[which(pvals.BH < pval.cutoff)])
+  
+}
+
+getTFsTargetsofMiRNAs=function( mirnas, pval.cutoff,evidence)
+{
+  ###  TF-miRNA interactions
+  db=dbs[dbs$category=="mirna-gene" & dbs$evidence %in% evidence, ]
+  tfs.targets= unique(as.character(unlist(db[db$regulator %in%  mirnas, ]$target)))
+  #total= length(unique(as.character(unlist(db$regulator))))
+  total= as.integer(config$Total.No.of.miRNA.in.human)
+  pvals=c()
+  for(i in 1: length(tfs.targets))
+  {
+    tf=tfs.targets[i]
+    mirna.regulators=unique(as.character(unlist(db[db$target %in% tf,]$regulator)))
+    overlap=length(intersect(tolower(mirna.regulators),tolower(mirnas)))
+    numgA=length(mirnas)
+    numgB=length(mirna.regulators)
+    pvals=c(pvals,phyper(overlap-1, numgA, total - numgA, numgB,lower.tail=FALSE) )    
+  }
+  pvals.BH=mt.rawp2adjp(pvals,proc="BH")
+  tfs.targets=tfs.targets[pvals.BH$index]
+  pvals.BH=(pvals.BH$adjp)[,2]
+  return(tfs.targets[which(pvals.BH<pval.cutoff)])  
+}
+
+
 

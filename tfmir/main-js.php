@@ -160,7 +160,7 @@ function setActiveIfAvailable(url, element) {
 									console.log($(selector));	
 
 									if (data == 1) {
-									if (element == 'mRNA') {
+									if ((element == 'mRNA') || (element =='miRNA')) {
 										selector = '#processingButton';
 										if ($(selector).hasClass('inactive')) $(selector).removeClass('inactive');
 										document.getElementById('processingButton').onclick = function () {
@@ -276,7 +276,7 @@ function uploadFile(formId) {
   xhr.upload.addEventListener("progress", uploadProgress, false);
   xhr.addEventListener("load", uploadComplete, false);
   xhr.addEventListener("load", function() {
-  	if (formId === 'mRNA') {
+  	if (formId === 'mRNA' || formId === 'miRNA') {
   		$('#processingButton').removeClass('inactive');
   		document.getElementById('processingButton').onclick = function () {
   			startProcessing(); checkResults(); return false;};

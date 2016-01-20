@@ -1,8 +1,0 @@
-=========================  RUNNING FOR THE FIRST TIME AT 2015-02-15 16:52:23 ====================
-At  2015-02-15 16:52:26  :  /Users/chris/Website/TF-site/tfmir/uploads/rfi525940tgm7v4d2l06hgu5t2/mRNA/mRNA.bc.txt
-At  2015-02-15 16:52:26  :  /Users/chris/Website/TF-site/tfmir/uploads/rfi525940tgm7v4d2l06hgu5t2/miRNA/miRNA.bc.txt
-At  2015-02-15 16:52:26  :  0.05
-At  2015-02-15 16:52:26  :  Breast Neoplasms
-At  2015-02-15 16:52:26  :  Experimental
-At  2015-02-15 16:52:26  :  /Users/chris/Website/TF-site/tfmir/uploads/rfi525940tgm7v4d2l06hgu5t2
-At  2015-02-15 16:52:26  :  =====================================

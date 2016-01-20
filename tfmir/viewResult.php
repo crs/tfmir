@@ -45,7 +45,7 @@ $tabs = getTabFor($_REQUEST['dataset']);
 			<li class="ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=tf-gene">TF-Gene<img height="70" class="sidebarimg" src="./img/tf-gene.png" alt="show transcription factor to gene interactions" /></a></li>
 			<li class="ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=mirna-gene">miRNA-Gene<img height="70" class="sidebarimg" src="./img/mirna-gene.png" alt="show miRNA to gene interactions" /></a></li>
 			<hr />
-			<li class="ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="download.php" title="Click here to download a zip file with all generated results">Download results<img height="70" class="sidebarimg" src="./img/archive.png" alt="Click to download a zip archive containing all results" /></a></li>
+			<li class="ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="download.php?id=<?php echo session_id(); ?>" title="Click here to download a zip file with all generated results">Download results<img height="70" class="sidebarimg" src="./img/archive.png" alt="Click to download a zip archive containing all results" /></a></li>
 			<!-- <li><a href="#tf-gene"><img class="sidebarimg" src="./img/mirna-gene.png" alt="show mirna to gene interactions" /></a></li> -->
 		</ul>
 		<div id="tab"><?php echo $tabs; ?></div>

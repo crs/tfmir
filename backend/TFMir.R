@@ -46,6 +46,15 @@ source("initialize.R")
 ## call the main function of TFMir
 ## ===============================
 
+readInput=function(path)
+{
+  molecule.df = read.delim(path, header=FALSE)
+  molecule.df=molecule.df[!duplicated (molecule.df),]
+  molecule.input=unique(as.character(unlist(molecule.df[1]))) 
+  return(molecule.input)
+}
+
+
 TFMir =function(tf.path, mirna.path,pval.cutoff=0.05,evidence,disease="",output.path)
 {
   
@@ -76,14 +85,31 @@ TFMir =function(tf.path, mirna.path,pval.cutoff=0.05,evidence,disease="",output.
   
   if(tolower(evidence)=="both") { evidence=c("Experimental","Predicted") }
 
-  ## ================================================
-  ## read the input files and intersect with transmir 
-  ## ================================================
-  tfs.df = read.delim(tf.path, header=FALSE)
+  ## ==================================================================
+  ## read the input files and test automatically which scenario will be
+  ## ==================================================================
+  tfs.df=data.frame("gene"=character(),"gene.reg"=numeric())
+  if(! is.na(tf.path) & tf.path !="")
+  {
+    tfs.df = read.delim(tf.path, header=FALSE)    
+  }else
+  {
+    mirnas.input=unique(tolower(readInput(mirna.path)))
+    tf.pval=as.double(config$pval.cutoffgene.targets_regulators.fromMiRNA.inputlist)
+    tfs.regulatorsofMiRNA= getTFsRegulatorsofMiRNAs(mirnas.input,tf.pval,evidence)
+    tfs.targetsofMiRNA= getTFsTargetsofMiRNAs(mirnas.input,tf.pval,evidence)
+    tfs.list=unique(c(tfs.targetsofMiRNA,tfs.regulatorsofMiRNA))
+    if(length(tfs.list) > 0){
+      tfs.df=data.frame("gene"=tfs.list,"gene.reg"=0) }
+  }
   names(tfs.df)=c("gene","gene.reg")
   tfs.df=tfs.df[!duplicated (tfs.df),]
   tfs.input=toupper(unique(as.character(unlist(tfs.df$gene))))
   printGeneEntrezIDsMap(tfs.input,output.path)
+
+  
+  
+  
   
   mirnas.df=data.frame("mirna"=character(),"mirna.reg"=numeric())
   if(! is.na(mirna.path) & mirna.path !="")
@@ -91,18 +117,20 @@ TFMir =function(tf.path, mirna.path,pval.cutoff=0.05,evidence,disease="",output.
     mirnas.df = read.delim(mirna.path, header=FALSE)    
   }else
   {
+    
     mirna.pval=as.double(config$pval.cutoffmirna.regulators_targets.fromTFS.inputlist)
-    tfstargets.mirna= getTFsTargetsofMiRNAs(tfs.input,mirna.pval,evidence)
-    tfsregulators.mirna= getTFsRegulatorsofMiRNAs(tfs.input,mirna.pval,evidence)
+    tfstargets.mirna= getMiRNAsTargetsofTFs(tfs.input,mirna.pval,evidence)
+    tfsregulators.mirna= getMiRNAsRegulatorsofTFs(tfs.input,mirna.pval,evidence)
     mirnas.list=unique(c(tfstargets.mirna,tfsregulators.mirna))
     if(length(mirnas.list) > 0){
     mirnas.df=data.frame("mirna"=mirnas.list,"mirna.reg"=0) }
   }
-  
   names(mirnas.df)=c("mirna","mirna.reg")
   mirnas.df$mirna=tolower(mirnas.df$mirna)
   mirnas.df=mirnas.df[!duplicated (mirnas.df),]
   mirnas.input=unique(as.character(unlist(mirnas.df$mirna)))  
+  
+  
   
   ## ==================================
   ## get the four kinds of interactions 
